@@ -15,8 +15,8 @@
                 contain-intrinsic-size: 3000px 1500px;
             }
         </style>
-        <link rel="alternate" type="application/rss+xml" title="Bitrader &raquo; Feed" href="../feed/index.html" />
-        <link rel="alternate" type="application/rss+xml" title="Bitrader &raquo; Comments Feed" href="../comments/feed/index.html" />
+        <link rel="alternate" type="application/rss+xml" title="Bitrader &raquo; Feed" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/feed/index.html" />
+        <link rel="alternate" type="application/rss+xml" title="Bitrader &raquo; Comments Feed" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/comments/feed/index.html" />
         <script type="text/javascript">
             /* <![CDATA[ */
             window._wpemojiSettings = {
@@ -126,7 +126,7 @@
             })((window, document), window._wpemojiSettings);
             /* ]]> */
         </script>
-        <link rel="stylesheet" id="hfe-widgets-style-css" href="../wp-content/plugins/header-footer-elementor/inc/widgets-css/frontendb2da.css?ver=2.4.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="hfe-widgets-style-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontendb2da.css?ver=2.4.3" type="text/css" media="all" />
         <style id="wp-emoji-styles-inline-css" type="text/css">
             img.wp-smiley,
             img.emoji {
@@ -415,29 +415,47 @@
                 line-height: 1.6;
             }
         </style>
-        <link rel="stylesheet" id="contact-form-7-css" href="../wp-content/plugins/contact-form-7/includes/css/styles9b2d.css?ver=6.1" type="text/css" media="all" />
+        <link rel="stylesheet" id="contact-form-7-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/contact-form-7/includes/css/styles9b2d.css?ver=6.1" type="text/css" media="all" />
         <style id="woocommerce-inline-inline-css" type="text/css">
             .woocommerce form .form-row .required {
                 visibility: visible;
             }
         </style>
-        <link rel="stylesheet" id="hfe-style-css" href="../wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementorb2da.css?ver=2.4.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-frontend-css" href="../wp-content/plugins/elementor/assets/css/frontend.min415f.css?ver=3.30.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-7-css" href="../wp-content/uploads/elementor/css/post-7896b.css?ver=1746510240" type="text/css" media="all" />
-        <link rel="stylesheet" id="widget-heading-css" href="../wp-content/plugins/elementor/assets/css/widget-heading.min415f.css?ver=3.30.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="widget-image-css" href="../wp-content/plugins/elementor/assets/css/widget-image.min415f.css?ver=3.30.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="widget-icon-box-css" href="../wp-content/plugins/elementor/assets/css/widget-icon-box.min415f.css?ver=3.30.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-646-css" href="../wp-content/uploads/elementor/css/post-6462965.css?ver=1750594161" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-367-css" href="../wp-content/uploads/elementor/css/post-367896b.css?ver=1746510240" type="text/css" media="all" />
-        <link rel="stylesheet" id="slick-css" href="../wp-content/plugins/woo-smart-quick-view/assets/libs/slick/slick6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="perfect-scrollbar-css" href="../wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/css/perfect-scrollbar.min6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="perfect-scrollbar-wpc-css" href="../wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/css/custom-theme6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="magnific-popup-css" href="../wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/magnific-popup6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosq-feather-css" href="../wp-content/plugins/woo-smart-quick-view/assets/libs/feather/feather6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosq-icons-css" href="../wp-content/plugins/woo-smart-quick-view/assets/css/iconsae82.css?ver=4.2.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosq-frontend-css" href="../wp-content/plugins/woo-smart-quick-view/assets/css/frontendae82.css?ver=4.2.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosw-icons-css" href="../wp-content/plugins/woo-smart-wishlist/assets/css/icons972f.css?ver=5.0.1" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosw-frontend-css" href="../wp-content/plugins/woo-smart-wishlist/assets/css/frontend972f.css?ver=5.0.1" type="text/css" media="all" />
+        <link rel="stylesheet" id="hfe-style-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementorb2da.css?ver=2.4.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-frontend-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/css/frontend.min415f.css?ver=3.30.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-7-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/elementor/css/post-7896b.css?ver=1746510240" type="text/css" media="all" />
+        <link rel="stylesheet" id="widget-heading-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/css/widget-heading.min415f.css?ver=3.30.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="widget-image-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/css/widget-image.min415f.css?ver=3.30.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="widget-icon-box-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min415f.css?ver=3.30.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-646-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/elementor/css/post-6462965.css?ver=1750594161" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-367-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/elementor/css/post-367896b.css?ver=1746510240" type="text/css" media="all" />
+        <link rel="stylesheet" id="slick-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/libs/slick/slick6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link
+            rel="stylesheet"
+            id="perfect-scrollbar-css"
+            href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/css/perfect-scrollbar.min6c2d.css?ver=6.8.2"
+            type="text/css"
+            media="all"
+        />
+        <link
+            rel="stylesheet"
+            id="perfect-scrollbar-wpc-css"
+            href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/css/custom-theme6c2d.css?ver=6.8.2"
+            type="text/css"
+            media="all"
+        />
+        <link
+            rel="stylesheet"
+            id="magnific-popup-css"
+            href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/magnific-popup6c2d.css?ver=6.8.2"
+            type="text/css"
+            media="all"
+        />
+        <link rel="stylesheet" id="woosq-feather-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/libs/feather/feather6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="woosq-icons-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/css/iconsae82.css?ver=4.2.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="woosq-frontend-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/css/frontendae82.css?ver=4.2.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="woosw-icons-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-wishlist/assets/css/icons972f.css?ver=5.0.1" type="text/css" media="all" />
+        <link rel="stylesheet" id="woosw-frontend-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-wishlist/assets/css/frontend972f.css?ver=5.0.1" type="text/css" media="all" />
         <style id="woosw-frontend-inline-css" type="text/css">
             .woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-bot .woosw-notice {
                 background-color: #5fbd74;
@@ -447,8 +465,8 @@
                 border-color: #5fbd74;
             }
         </style>
-        <link rel="stylesheet" id="brands-styles-css" href="../wp-content/plugins/woocommerce/assets/css/brandsdaac.css?ver=9.9.5" type="text/css" media="all" />
-        <link rel="stylesheet" id="bitrader-custom-css" href="../wp-content/themes/bitrader/assets/css/bitrader-custom6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="brands-styles-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/css/brandsdaac.css?ver=9.9.5" type="text/css" media="all" />
+        <link rel="stylesheet" id="bitrader-custom-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/css/bitrader-custom6c2d.css?ver=6.8.2" type="text/css" media="all" />
         <style id="bitrader-custom-inline-css" type="text/css">
             html:root {
                 --brand-color: #00d094;
@@ -466,36 +484,51 @@
                 --wh-color: #1b2d29;
             }
         </style>
-        <link rel="stylesheet" id="bitrader-fonts-css" href="../wp-content/themes/bitrader/assets/css/bitrader-fonts6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="bootstrap-css" href="../wp-content/themes/bitrader/assets/css/bootstrap.min6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="font-awesome-pro-css" href="../wp-content/themes/bitrader/assets/css/font-awesome-pro6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="font-awesome-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="swiper-css" href="../wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5" type="text/css" media="all" />
-        <link rel="stylesheet" id="aos-css" href="../wp-content/themes/bitrader/assets/css/aos6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="nice-select-css" href="../wp-content/themes/bitrader/assets/css/nice-select6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="bitrader-core-css" href="../wp-content/themes/bitrader/assets/css/bitrader-core6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="woocommerce-core-css" href="../wp-content/themes/bitrader/assets/css/woocommerce6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="bitrader-style-css" href="../wp-content/themes/bitrader/style6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-elementor-icons-css" href="../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min705c.css?ver=5.34.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-icons-list-css" href="../wp-content/plugins/elementor/assets/css/widget-icon-list.min44b4.css?ver=3.24.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-social-icons-css" href="../wp-content/plugins/elementor/assets/css/widget-social-icons.min2401.css?ver=3.24.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-social-share-icons-brands-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-social-share-icons-fontawesome-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-nav-menu-icons-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-gf-local-roboto-css" href="../wp-content/uploads/elementor/google-fonts/css/roboto258f.css?ver=1743915932" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-gf-local-robotoslab-css" href="../wp-content/uploads/elementor/google-fonts/css/robotoslab1877.css?ver=1743915934" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-gf-local-opensans-css" href="../wp-content/uploads/elementor/google-fonts/css/opensans13c1.css?ver=1743915937" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-gf-local-anektelugu-css" href="../wp-content/uploads/elementor/google-fonts/css/anektelugu13c1.css?ver=1743915937" type="text/css" media="all" />
+        <link rel="stylesheet" id="bitrader-fonts-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/css/bitrader-fonts6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="bootstrap-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/css/bootstrap.min6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="font-awesome-pro-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/css/font-awesome-pro6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="font-awesome-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="swiper-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5" type="text/css" media="all" />
+        <link rel="stylesheet" id="aos-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/css/aos6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="nice-select-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/css/nice-select6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="bitrader-core-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/css/bitrader-core6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="woocommerce-core-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/css/woocommerce6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="bitrader-style-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/style6c2d.css?ver=6.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="hfe-elementor-icons-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min705c.css?ver=5.34.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="hfe-icons-list-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min44b4.css?ver=3.24.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="hfe-social-icons-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min2401.css?ver=3.24.0" type="text/css" media="all" />
+        <link
+            rel="stylesheet"
+            id="hfe-social-share-icons-brands-css"
+            href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands52d5.css?ver=5.15.3"
+            type="text/css"
+            media="all"
+        />
+        <link
+            rel="stylesheet"
+            id="hfe-social-share-icons-fontawesome-css"
+            href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome52d5.css?ver=5.15.3"
+            type="text/css"
+            media="all"
+        />
+        <link rel="stylesheet" id="hfe-nav-menu-icons-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid52d5.css?ver=5.15.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-gf-local-roboto-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/elementor/google-fonts/css/roboto258f.css?ver=1743915932" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-gf-local-robotoslab-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/elementor/google-fonts/css/robotoslab1877.css?ver=1743915934" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-gf-local-opensans-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/elementor/google-fonts/css/opensans13c1.css?ver=1743915937" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-gf-local-anektelugu-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/elementor/google-fonts/css/anektelugu13c1.css?ver=1743915937" type="text/css" media="all" />
+        @verbatim
         <script type="text/template" id="tmpl-variation-template">
             <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
             <div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
             <div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
         </script>
+        @endverbatim
+
         <script type="text/template" id="tmpl-unavailable-variation-template">
             <p role="alert">Sorry, this product is unavailable. Please choose a different combination.</p>
         </script>
-        <script type="text/javascript" src="../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-        <script type="text/javascript" src="../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+        <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+        <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
         <script type="text/javascript" id="jquery-js-after">
             /* <![CDATA[ */
             !(function ($) {
@@ -526,7 +559,12 @@
             })(jQuery);
             /* ]]> */
         </script>
-        <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min86fd.js?ver=2.7.0-wc.9.9.5" id="jquery-blockui-js" data-wp-strategy="defer"></script>
+        <script
+            type="text/javascript"
+            src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min86fd.js?ver=2.7.0-wc.9.9.5"
+            id="jquery-blockui-js"
+            data-wp-strategy="defer"
+        ></script>
         <script type="text/javascript" id="wc-add-to-cart-js-extra">
             /* <![CDATA[ */
             var wc_add_to_cart_params = {
@@ -539,30 +577,42 @@
             };
             /* ]]> */
         </script>
-        <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mindaac.js?ver=9.9.5" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
-        <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min0333.js?ver=2.1.4-wc.9.9.5" id="js-cookie-js" data-wp-strategy="defer"></script>
+        <script
+            type="text/javascript"
+            src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mindaac.js?ver=9.9.5"
+            id="wc-add-to-cart-js"
+            defer="defer"
+            data-wp-strategy="defer"
+        ></script>
+        <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min0333.js?ver=2.1.4-wc.9.9.5" id="js-cookie-js" data-wp-strategy="defer"></script>
         <script type="text/javascript" id="woocommerce-js-extra">
             /* <![CDATA[ */
             var woocommerce_params = { ajax_url: "\/wp-admin\/admin-ajax.php", wc_ajax_url: "\/?wc-ajax=%%endpoint%%", i18n_password_show: "Show password", i18n_password_hide: "Hide password" };
             /* ]]> */
         </script>
-        <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.mindaac.js?ver=9.9.5" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
-        <script type="text/javascript" src="../wp-includes/js/underscore.min3ab8.js?ver=1.13.7" id="underscore-js"></script>
+        <script
+            type="text/javascript"
+            src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.mindaac.js?ver=9.9.5"
+            id="woocommerce-js"
+            defer="defer"
+            data-wp-strategy="defer"
+        ></script>
+        <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-includes/js/underscore.min3ab8.js?ver=1.13.7" id="underscore-js"></script>
         <script type="text/javascript" id="wp-util-js-extra">
             /* <![CDATA[ */
             var _wpUtilSettings = { ajax: { url: "\/wp-admin\/admin-ajax.php" } };
             /* ]]> */
         </script>
-        <script type="text/javascript" src="../wp-includes/js/wp-util.min6c2d.js?ver=6.8.2" id="wp-util-js"></script>
-        <link rel="https://api.w.org/" href="../wp-json/index.html" />
-        <link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/646" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+        <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-includes/js/wp-util.min6c2d.js?ver=6.8.2" id="wp-util-js"></script>
+        <link rel="https://api.w.org/" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-json/index.html" />
+        <link rel="alternate" title="JSON" type="application/json" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-json/wp/v2/pages/646" />
+        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/xmlrpc0db0.php?rsd" />
         <meta name="generator" content="WordPress 6.8.2" />
         <meta name="generator" content="WooCommerce 9.9.5" />
         <link rel="canonical" href="index.html" />
-        <link rel="shortlink" href="../index8bcd.html?p=646" />
-        <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embeddaa0?url=https%3A%2F%2Fbitrader.thetork.com%2Fhome-three%2F" />
-        <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed71aa?url=https%3A%2F%2Fbitrader.thetork.com%2Fhome-three%2F&amp;format=xml" />
+        <link rel="shortlink" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/index8bcd.html?p=646" />
+        <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-json/oembed/1.0/embeddaa0?url=https%3A%2F%2Fbitrader.thetork.com%2Fhome-three%2F" />
+        <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-json/oembed/1.0/embed71aa?url=https%3A%2F%2Fbitrader.thetork.com%2Fhome-three%2F&amp;format=xml" />
         <noscript>
             <style>
                 .woocommerce-product-gallery {
@@ -589,9 +639,9 @@
                 }
             }
         </style>
-        <link rel="icon" href="../wp-content/uploads/2023/10/favicon-2-150x150.png" sizes="32x32" />
-        <link rel="icon" href="../wp-content/uploads/2023/10/favicon-2.png" sizes="192x192" />
-        <link rel="apple-touch-icon" href="../wp-content/uploads/2023/10/favicon-2.png" />
+        <link rel="icon" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/2023/10/favicon-2-150x150.png" sizes="32x32" />
+        <link rel="icon" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/2023/10/favicon-2.png" sizes="192x192" />
+        <link rel="apple-touch-icon" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/2023/10/favicon-2.png" />
         <meta name="msapplication-TileImage" content="https://bitrader.thetork.com/wp-content/uploads/2023/10/favicon-2.png" />
         <style id="kirki-inline-styles"></style>
     </head>
@@ -601,13 +651,13 @@
     >
         <!-- preloader -->
         <div class="preloader">
-            <img src="../wp-content/themes/bitrader/assets/img/logo/preloader.png" alt="Preloader" />
+            <img src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/preloader.png" alt="Preloader" />
         </div>
         <!-- preloader-end -->
 
         <div class="lightdark-switch">
             <span class="switch-btn dark-btn" id="btnSwitch" style="background-color: rgb(0, 208, 148);">
-                <img src="../wp-content/themes/bitrader/assets/img/icons/sun.svg" alt="light-dark-switchbtn" class="swtich-icon" />
+                <img src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/icons/sun.svg" alt="light-dark-switchbtn" class="swtich-icon" />
             </span>
 
             <script>
@@ -617,10 +667,10 @@
                     const theme = document.documentElement.getAttribute("data-bs-theme");
                     document.documentElement.setAttribute("data-bs-theme", theme === "dark" ? "light" : "dark");
                     if (theme === "dark") {
-                        icon.src = "../wp-content/themes/bitrader/assets/img/icons/moon.svg";
+                        icon.src = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/icons/moon.svg";
                         moon.style.backgroundColor = "#00D094";
                     } else {
-                        icon.src = "../wp-content/themes/bitrader/assets/img/icons/sun.svg";
+                        icon.src = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/icons/sun.svg";
                         moon.style.backgroundColor = "white";
                     }
                 });
@@ -642,8 +692,8 @@
                                     var mainLogo = document.getElementById("main-logo");
 
                                     // Logo URLs from PHP
-                                    var lightLogoUrl = "../wp-content/themes/bitrader/assets/img/logo/logo.png";
-                                    var darkLogoUrl = "../wp-content/themes/bitrader/assets/img/logo/logo-dark.png";
+                                    var lightLogoUrl = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo.png";
+                                    var darkLogoUrl = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo-dark.png";
 
                                     // Initial mode from PHP
                                     var isDarkVersion = true;
@@ -659,8 +709,8 @@
                                 });
                             </script>
 
-                            <a class="main-logo" href="../index.html">
-                                <img id="main-logo" class="dark" src="../wp-content/themes/bitrader/assets/img/logo/logo-dark.png" style="max-height: 30px;" alt="Logo" />
+                            <a class="main-logo" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/index.html">
+                                <img id="main-logo" class="dark" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo-dark.png" style="max-height: 30px;" alt="Logo" />
                             </a>
                         </div>
                         <div class="menu-area menu--style1">
@@ -679,10 +729,10 @@
                                             id="menu-item-816"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-816 nav-item"
                                         >
-                                            <a title="Home Stock" href="../index.html" class="dropdown-items">Home Stock</a>
+                                            <a title="Home Stock" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/index.html" class="dropdown-items">Home Stock</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821 nav-item">
-                                            <a title="Home Crypto" href="../home-two/index.html" class="dropdown-items">Home Crypto</a>
+                                            <a title="Home Crypto" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/home-two/index.html" class="dropdown-items">Home Crypto</a>
                                         </li>
                                         <li
                                             itemscope="itemscope"
@@ -693,10 +743,10 @@
                                             <a title="Home Forex" href="index.html" class="dropdown-items">Home Forex</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1460 nav-item">
-                                            <a title="Home Day Trading" href="../home-four/index.html" class="dropdown-items">Home Day Trading</a>
+                                            <a title="Home Day Trading" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/home-four/index.html" class="dropdown-items">Home Day Trading</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1463 nav-item">
-                                            <a title="Home Trading Platform" href="../home-five/index.html" class="dropdown-items">Home Trading Platform</a>
+                                            <a title="Home Trading Platform" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/home-five/index.html" class="dropdown-items">Home Trading Platform</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -709,15 +759,15 @@
                                     <a title="Services" href="#" class="nav-links">Services</a>
                                     <ul class="submenu" role="menu">
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823 nav-item">
-                                            <a title="Our Services" href="../our-services/index.html" class="dropdown-items">Our Services</a>
+                                            <a title="Our Services" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/our-services/index.html" class="dropdown-items">Our Services</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828 nav-item">
-                                            <a title="Services Details" href="../services/strategy-consulting/index.html" class="dropdown-items">Services Details</a>
+                                            <a title="Services Details" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/services/strategy-consulting/index.html" class="dropdown-items">Services Details</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item">
-                                    <a title="About Us" href="../about-us/index.html" class="nav-links">About Us</a>
+                                    <a title="About Us" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/about-us/index.html" class="nav-links">About Us</a>
                                 </li>
                                 <li
                                     itemscope="itemscope"
@@ -728,19 +778,19 @@
                                     <a title="Pages" href="#" class="nav-links">Pages</a>
                                     <ul class="submenu" role="menu">
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824 nav-item">
-                                            <a title="Our Team" href="../our-team/index.html" class="dropdown-items">Our Team</a>
+                                            <a title="Our Team" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/our-team/index.html" class="dropdown-items">Our Team</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2351" class="menu-item menu-item-type-post_type menu-item-object-teams menu-item-2351 nav-item">
-                                            <a title="Team Details" href="../teams/dianne-russell/index.html" class="dropdown-items">Team Details</a>
+                                            <a title="Team Details" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/teams/dianne-russell/index.html" class="dropdown-items">Team Details</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822 nav-item">
-                                            <a title="Our Pricing" href="../our-pricing/index.html" class="dropdown-items">Our Pricing</a>
+                                            <a title="Our Pricing" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/our-pricing/index.html" class="dropdown-items">Our Pricing</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817 nav-item">
-                                            <a title="Blog" href="../blog/index.html" class="dropdown-items">Blog</a>
+                                            <a title="Blog" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/blog/index.html" class="dropdown-items">Blog</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2576" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2576 nav-item">
-                                            <a title="Blog Details" href="../options-trading-business/index.html" class="dropdown-items">Blog Details</a>
+                                            <a title="Blog Details" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/options-trading-business/index.html" class="dropdown-items">Blog Details</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -750,37 +800,37 @@
                                     id="menu-item-2924"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-2924 nav-item"
                                 >
-                                    <a title="Shop" href="../shop/index.html" class="nav-links">Shop</a>
+                                    <a title="Shop" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/shop/index.html" class="nav-links">Shop</a>
                                     <ul class="submenu" role="menu">
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3022 nav-item">
-                                            <a title="Shop" href="../shop/index.html" class="dropdown-items">Shop</a>
+                                            <a title="Shop" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/shop/index.html" class="dropdown-items">Shop</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2980" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2980 nav-item">
-                                            <a title="Shop Details" href="../product/apple-watch-series-7/index.html" class="dropdown-items">Shop Details</a>
+                                            <a title="Shop Details" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/product/apple-watch-series-7/index.html" class="dropdown-items">Shop Details</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3018 nav-item">
-                                            <a title="Cart" href="../cart/index.html" class="dropdown-items">Cart</a>
+                                            <a title="Cart" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/cart/index.html" class="dropdown-items">Cart</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3019 nav-item">
-                                            <a title="Checkout" href="../checkout/index.html" class="dropdown-items">Checkout</a>
+                                            <a title="Checkout" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/checkout/index.html" class="dropdown-items">Checkout</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3023 nav-item">
-                                            <a title="Wishlist" href="../wishlist/index.html" class="dropdown-items">Wishlist</a>
+                                            <a title="Wishlist" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wishlist/index.html" class="dropdown-items">Wishlist</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3021 nav-item">
-                                            <a title="My account" href="../my-account/index.html" class="dropdown-items">My account</a>
+                                            <a title="My account" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/my-account/index.html" class="dropdown-items">My account</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819 nav-item">
-                                    <a title="Contact Us" href="../contact-us/index.html" class="nav-links">Contact Us</a>
+                                    <a title="Contact Us" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/contact-us/index.html" class="nav-links">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="header-action">
                             <div class="menu-area">
                                 <div class="header-btn">
-                                    <a href="../contact-us" style="background-color: #00d094; border: 1px solid #00d094;" class="trk-btn trk-btn--border trk-btn--primary">
+                                    <a href="{{asset('/public/novareex/')}}/bitrader.thetork.com/contact-us" style="background-color: #00d094; border: 1px solid #00d094;" class="trk-btn trk-btn--border trk-btn--primary">
                                         <span>Join Now</span>
                                     </a>
                                 </div>
@@ -799,1418 +849,7 @@
         </header>
         <!-- main-area -->
         <main class="main-area fix">
-            <div data-elementor-type="wp-page" data-elementor-id="646" class="elementor elementor-646">
-                <div class="elementor-element elementor-element-9585615 e-con-full e-flex e-con e-parent" data-id="9585615" data-element_type="container">
-                    <div class="elementor-element elementor-element-8dcc6ae elementor-widget elementor-widget-hero-banner" data-id="8dcc6ae" data-element_type="widget" data-widget_type="hero-banner.default">
-                        <div class="elementor-widget-container">
-                            <script>
-                                jQuery(document).ready(function ($) {
-                                    AOS.init();
-                                });
-                            </script>
-
-                            <section class="banner banner--style3 tg-section">
-                                <div class="container">
-                                    <div class="banner__wrapper">
-                                        <div class="row gy-5 gx-4 align-items-end">
-                                            <div class="col-lg-5 col-md-5">
-                                                <div class="banner__content tg-content" data-aos="fade-right" data-aos-duration="1000">
-                                                    <div class="banner__content-coin banner__content-coin--style2">
-                                                        <img decoding="async" src="../wp-content/uploads/2025/02/2-2.png" alt="Coin icon" />
-                                                    </div>
-
-                                                    <h1 class="banner__content-heading title">Invest your money with higher return</h1>
-
-                                                    <p class="banner__content-moto">Anyone can invest money to different currency to increase their earnings by the help of Bitrader through online.</p>
-
-                                                    <div class="banner__btn-group btn-group normalbtnh3">
-                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--primary"> Get Started </a>
-
-                                                        <a href="https://www.youtube.com/watch?v=6mkoGSqTqFI" class="videobtnh3 trk-btn trk-btn--defult" data-fslightbox>
-                                                            <span class="style1">
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-                                                                    <g clip-path="url(#clip0_1397_814)">
-                                                                        <path
-                                                                            d="M10.5547 7.03647C9.89015 6.59343 9 7.06982 9 7.86852V16.1315C9 16.9302 9.89015 17.4066 10.5547 16.9635L16.7519 12.8321C17.3457 12.4362 17.3457 11.5638 16.7519 11.1679L10.5547 7.03647Z"
-                                                                            stroke="#0A4FD5"
-                                                                            stroke-width="1.5"
-                                                                            stroke-linecap="round"
-                                                                            stroke-linejoin="round"
-                                                                        />
-                                                                    </g>
-                                                                    <rect x="-0.75" y="0.75" width="22.5" height="22.5" rx="11.25" transform="matrix(-1 0 0 1 22.5 0)" stroke="#0A4FD5" stroke-width="1.5" />
-                                                                    <defs>
-                                                                        <clipPath id="clip0_1397_814">
-                                                                            <rect width="24" height="24" fill="white" />
-                                                                        </clipPath>
-                                                                    </defs>
-                                                                </svg>
-                                                            </span>
-                                                            <span class="d-md-none d-lg-block"> Watch Video </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-lg-4 col-md-4">
-                                                <div class="banner__thumb">
-                                                    <img decoding="async" src="../wp-content/uploads/2025/02/1-1.png" alt="" />
-                                                </div>
-                                            </div>
-
-                                            <div class="col-lg-3 col-md-3">
-                                                <div class="banner__counter">
-                                                    <div class="banner__counter-inner">
-                                                        <div class="banner__counter-item">
-                                                            <h4><span class="purecounter" data-purecounter-start="0" data-purecounter-end="10">10</span>Years</h4>
-                                                            <p>Trading experience</p>
-                                                        </div>
-                                                        <div class="banner__counter-item">
-                                                            <h4><span class="purecounter" data-purecounter-start="0" data-purecounter-end="24">24</span>/7</h4>
-                                                            <p>Online Support</p>
-                                                        </div>
-                                                        <div class="banner__counter-item">
-                                                            <h4><span class="purecounter" data-purecounter-start="0" data-purecounter-end="25">25</span>K+</h4>
-                                                            <p>satisfied Customers</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="banner__shape">
-                                    <span class="banner__shape-item banner__shape-item--3"><img decoding="async" src="../wp-content/uploads/2025/02/1-2.png" width="106" alt="shape icon" /></span>
-
-                                    <span class="banner__shape-item banner__shape-item--4"><img decoding="async" src="../wp-content/uploads/2025/02/2-1.png" width="48" alt="shape icon" /></span>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-40a3899 e-flex e-con-boxed e-con e-parent" data-id="40a3899" data-element_type="container" data-settings='{"background_background":"classic"}'>
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-2e94e67 e-flex e-con-boxed e-con e-child" data-id="2e94e67" data-element_type="container">
-                            <div class="e-con-inner">
-                                <div class="elementor-element elementor-element-f1858d3 elementor-widget elementor-widget-tg-heading" data-id="f1858d3" data-element_type="widget" data-widget_type="tg-heading.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="section-title">
-                                            <h2 class="title">Features We Have</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-362383d elementor-widget elementor-widget-heading" data-id="362383d" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <p class="elementor-heading-title elementor-size-default">Hey there! Here are the features we have: user-friendly interface, top-notch security, and fast performance.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-083c12a elementor-widget elementor-widget-tg-iconbox" data-id="083c12a" data-element_type="widget" data-widget_type="tg-iconbox.default">
-                            <div class="elementor-widget-container">
-                                <script>
-                                    jQuery(document).ready(function ($) {
-                                        AOS.init();
-                                    });
-                                </script>
-                                <div class="feature--style2">
-                                    <div class="feature__wrapper">
-                                        <div class="row g-4 align-items-center">
-                                            <div class="col-sm-6 col-lg-3">
-                                                <div class="feature__item" data-aos="fade-up" data-aos-duration="800">
-                                                    <div class="feature__item-inner text-center">
-                                                        <div class="feature__item-thumb">
-                                                            <img decoding="async" src="../wp-content/uploads/2023/10/features_icon01.png" alt="Icon" />
-                                                        </div>
-                                                        <div class="feature__item-content">
-                                                            <h5>Real-time data</h5>
-                                                            <p>Real-time data is like having a magic crystal ball that tells you what&#039;s happening now.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-lg-3">
-                                                <div class="feature__item" data-aos="fade-up" data-aos-duration="800">
-                                                    <div class="feature__item-inner text-center">
-                                                        <div class="feature__item-thumb">
-                                                            <img decoding="async" src="../wp-content/uploads/2023/10/features_icon02.png" alt="Icon" />
-                                                        </div>
-                                                        <div class="feature__item-content">
-                                                            <h5>Customer support</h5>
-                                                            <p>Real-time data is like having a magic crystal ball that tells you what&#039;s happening now.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-lg-3">
-                                                <div class="feature__item" data-aos="fade-up" data-aos-duration="800">
-                                                    <div class="feature__item-inner text-center">
-                                                        <div class="feature__item-thumb">
-                                                            <img decoding="async" src="../wp-content/uploads/2023/10/features_icon03.png" alt="Icon" />
-                                                        </div>
-                                                        <div class="feature__item-content">
-                                                            <h5>Higher security</h5>
-                                                            <p>Real-time data is like having a magic crystal ball that tells you what&#039;s happening now.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-lg-3">
-                                                <div class="feature__item" data-aos="fade-up" data-aos-duration="800">
-                                                    <div class="feature__item-inner text-center">
-                                                        <div class="feature__item-thumb">
-                                                            <img decoding="async" src="../wp-content/uploads/2023/10/features_icon04.png" alt="Icon" />
-                                                        </div>
-                                                        <div class="feature__item-content">
-                                                            <h5>Lower commissions</h5>
-                                                            <p>Real-time data is like having a magic crystal ball that tells you what&#039;s happening now.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div
-                            class="elementor-element elementor-element-1a3fea2 elementor-widget__width-auto elementor-absolute upAndDown_animation elementor-widget elementor-widget-image"
-                            data-id="1a3fea2"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img decoding="async" width="106" height="106" src="../wp-content/uploads/2023/10/shape01-2.png" class="attachment-full size-full wp-image-238" alt="" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-88604e7 e-flex e-con-boxed e-con e-parent" data-id="88604e7" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-be94024 e-con-full e-flex e-con e-child" data-id="be94024" data-element_type="container">
-                            <div class="elementor-element elementor-element-2c2d860 elementor-widget elementor-widget-genix-image" data-id="2c2d860" data-element_type="widget" data-widget_type="genix-image.default">
-                                <div class="elementor-widget-container">
-                                    <script>
-                                        jQuery(document).ready(function ($) {
-                                            AOS.init();
-                                        });
-                                    </script>
-
-                                    <div class="about__thumb" data-aos="fade-right" data-aos-duration="800">
-                                        <div class="about__thumb-inner">
-                                            <div class="about__thumb-image text-center floating-content">
-                                                <img decoding="async" src="../wp-content/uploads/2023/10/about_img_light-2.png" alt="" />
-                                                <div class="floating-content__bottom-left floating-content__bottom-left--style3">
-                                                    <div class="floating-content__item floating-content__item--style4">
-                                                        <div class="floating-content__item-thum">
-                                                            <img decoding="async" src="../wp-content/uploads/2023/10/about_author.png" width="65" alt="Author" />
-                                                        </div>
-
-                                                        <div class="floating-content__item-content">
-                                                            <p>Mobarok Hossain</p>
-                                                            <span>Founder &amp; MD</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-791e829 e-con-full e-flex e-con e-child" data-id="791e829" data-element_type="container">
-                            <div class="elementor-element elementor-element-09405ca elementor-widget elementor-widget-image" data-id="09405ca" data-element_type="widget" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <img decoding="async" width="104" height="52" src="../wp-content/uploads/2023/10/banner3-2.png" class="attachment-full size-full wp-image-652" alt="" />
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-c4aceda elementor-widget elementor-widget-heading" data-id="c4aceda" data-element_type="widget" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Meet our platform to know more about</h2>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-470629f elementor-widget elementor-widget-heading" data-id="470629f" data-element_type="widget" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <p class="elementor-heading-title elementor-size-default">
-                                        Hey folks! Meet our platform! With our platform, you'll get access to all the info you need to make informed decisions. Our platform is your one-stop-shop for everything you need to know. So what are
-                                        you waiting for? Let's get started!
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-4a724ea elementor-widget elementor-widget-tg-btn" data-id="4a724ea" data-element_type="widget" data-widget_type="tg-btn.default">
-                                <div class="elementor-widget-container">
-                                    <div class="myclass1">
-                                        <a href="../about-us/index.html" target="_self" rel="nofollow" class="trk-btn trk-btn--border trk-btn--primary"> Explore More </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-4c83745 e-flex e-con-boxed e-con e-parent" data-id="4c83745" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-e4290e9 e-con-full e-flex e-con e-child" data-id="e4290e9" data-element_type="container">
-                            <div class="elementor-element elementor-element-71b816e elementor-widget elementor-widget-heading" data-id="71b816e" data-element_type="widget" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Our Commitment To Help Growing Your Business</h2>
-                                </div>
-                            </div>
-                            <div
-                                class="elementor-element elementor-element-83721a1 elementor-view-stacked elementor-position-left elementor-mobile-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box"
-                                data-id="83721a1"
-                                data-element_type="widget"
-                                data-widget_type="icon-box.default"
-                            >
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-icon-box-wrapper">
-                                        <div class="elementor-icon-box-icon">
-                                            <span class="elementor-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
-                                                    ></path>
-                                                </svg>
-                                            </span>
-                                        </div>
-
-                                        <div class="elementor-icon-box-content">
-                                            <p class="elementor-icon-box-title">
-                                                <span> Building a Better Trading Future </span>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div
-                                class="elementor-element elementor-element-3e8b891 elementor-view-stacked elementor-position-left elementor-mobile-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box"
-                                data-id="3e8b891"
-                                data-element_type="widget"
-                                data-widget_type="icon-box.default"
-                            >
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-icon-box-wrapper">
-                                        <div class="elementor-icon-box-icon">
-                                            <span class="elementor-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
-                                                    ></path>
-                                                </svg>
-                                            </span>
-                                        </div>
-
-                                        <div class="elementor-icon-box-content">
-                                            <p class="elementor-icon-box-title">
-                                                <span> Provide a Trading Experience </span>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div
-                                class="elementor-element elementor-element-0f1c99b elementor-view-stacked elementor-position-left elementor-mobile-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box"
-                                data-id="0f1c99b"
-                                data-element_type="widget"
-                                data-widget_type="icon-box.default"
-                            >
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-icon-box-wrapper">
-                                        <div class="elementor-icon-box-icon">
-                                            <span class="elementor-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
-                                                    ></path>
-                                                </svg>
-                                            </span>
-                                        </div>
-
-                                        <div class="elementor-icon-box-content">
-                                            <p class="elementor-icon-box-title">
-                                                <span> The Experts Behind Your Success </span>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div
-                                class="elementor-element elementor-element-8d7327e elementor-view-stacked elementor-position-left elementor-mobile-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box"
-                                data-id="8d7327e"
-                                data-element_type="widget"
-                                data-widget_type="icon-box.default"
-                            >
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-icon-box-wrapper">
-                                        <div class="elementor-icon-box-icon">
-                                            <span class="elementor-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
-                                                    ></path>
-                                                </svg>
-                                            </span>
-                                        </div>
-
-                                        <div class="elementor-icon-box-content">
-                                            <p class="elementor-icon-box-title">
-                                                <span> Empowering Traders Worldwide </span>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-d1cb889 elementor-widget elementor-widget-tg-btn" data-id="d1cb889" data-element_type="widget" data-widget_type="tg-btn.default">
-                                <div class="elementor-widget-container">
-                                    <div class="myclass1">
-                                        <a href="../our-team/index.html" target="_self" rel="nofollow" class="trk-btn trk-btn--border trk-btn--primary"> Meet our experts </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-ad64dee e-con-full e-flex e-con e-child" data-id="ad64dee" data-element_type="container">
-                            <div class="elementor-element elementor-element-0569b3c elementor-widget elementor-widget-genix-image" data-id="0569b3c" data-element_type="widget" data-widget_type="genix-image.default">
-                                <div class="elementor-widget-container">
-                                    <script>
-                                        jQuery(document).ready(function ($) {
-                                            AOS.init();
-                                        });
-                                    </script>
-
-                                    <div class="about__thumb" data-aos="fade-left" data-aos-duration="800">
-                                        <div class="about__thumb-inner">
-                                            <div class="about__thumb-image text-center floating-content">
-                                                <img decoding="async" src="../wp-content/uploads/2023/10/about_img_light02-2.png" alt="" />
-
-                                                <div class="floating-content__top-left floating-content__top-left--style2">
-                                                    <div class="floating-content__item floating-content__item--style5">
-                                                        <h3>90%</h3>
-                                                        <p>Satisfied clients</p>
-
-                                                        <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-ee0a0df bg-color-7 e-flex e-con-boxed e-con e-parent" data-id="ee0a0df" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-d170fca e-flex e-con-boxed e-con e-child" data-id="d170fca" data-element_type="container">
-                            <div class="e-con-inner">
-                                <div class="elementor-element elementor-element-49302ae elementor-widget elementor-widget-tg-heading" data-id="49302ae" data-element_type="widget" data-widget_type="tg-heading.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="section-title">
-                                            <h2 class="title"><span style="color: var(--brand-color);">Services</span> We offer</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-7eff6fc elementor-widget elementor-widget-heading" data-id="7eff6fc" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <p class="elementor-heading-title elementor-size-default">We offer the best services around - from installations to repairs, maintenance, and more!</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-5befb4d elementor-widget elementor-widget-tg-servicesBox" data-id="5befb4d" data-element_type="widget" data-widget_type="tg-servicesBox.default">
-                            <div class="elementor-widget-container">
-                                <script>
-                                    jQuery(document).ready(function ($) {
-                                        AOS.init();
-                                    });
-                                </script>
-
-                                <div class="row g-4 align-items-center">
-                                    <div class="col-sm-6 col-md-6 col-lg-4">
-                                        <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="800">
-                                            <div class="service__item-inner text-center">
-                                                <div class="service__thumb mb-30">
-                                                    <div class="service__thumb-inner">
-                                                        <img decoding="async" src="../wp-content/uploads/2023/10/services01.png" width="48" alt="Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="service__content">
-                                                    <h5 class="mb-15">
-                                                        <a class="stretched-link" href="../services/strategy-consulting/index.html">Strategy Consulting</a>
-                                                    </h5>
-                                                    <p class="mb-0">A social assistant that's flexible can accommodate your schedule and needs, making life easier.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm-6 col-md-6 col-lg-4">
-                                        <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="900">
-                                            <div class="service__item-inner text-center">
-                                                <div class="service__thumb mb-30">
-                                                    <div class="service__thumb-inner">
-                                                        <img decoding="async" src="../wp-content/uploads/2023/10/services02.png" width="48" alt="Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="service__content">
-                                                    <h5 class="mb-15">
-                                                        <a class="stretched-link" href="../services/financial-advisory/index.html">Financial Advisory</a>
-                                                    </h5>
-                                                    <p class="mb-0">Modules transform smart trading by automating processes and improving decision-making.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm-6 col-md-6 col-lg-4">
-                                        <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="1000">
-                                            <div class="service__item-inner text-center">
-                                                <div class="service__thumb mb-30">
-                                                    <div class="service__thumb-inner">
-                                                        <img decoding="async" src="../wp-content/uploads/2023/10/services03.png" width="48" alt="Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="service__content">
-                                                    <h5 class="mb-15">
-                                                        <a class="stretched-link" href="../services/management/index.html">Management</a>
-                                                    </h5>
-                                                    <p class="mb-0">There, it's me, your friendly neighborhood reporter's news analyst processes and improving</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm-6 col-md-6 col-lg-4">
-                                        <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="1100">
-                                            <div class="service__item-inner text-center">
-                                                <div class="service__thumb mb-30">
-                                                    <div class="service__thumb-inner">
-                                                        <img decoding="async" src="../wp-content/uploads/2023/10/services04.png" width="48" alt="Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="service__content">
-                                                    <h5 class="mb-15">
-                                                        <a class="stretched-link" href="../services/supply-optimization/index.html">Supply Optimization</a>
-                                                    </h5>
-                                                    <p class="mb-0">Hey, have you checked out that new cryptocurrency platform? It's pretty cool and easy to use!</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm-6 col-md-6 col-lg-4">
-                                        <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="1200">
-                                            <div class="service__item-inner text-center">
-                                                <div class="service__thumb mb-30">
-                                                    <div class="service__thumb-inner">
-                                                        <img decoding="async" src="../wp-content/uploads/2023/10/services05.png" width="48" alt="Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="service__content">
-                                                    <h5 class="mb-15">
-                                                        <a class="stretched-link" href="../services/hr-consulting/index.html">HR consulting</a>
-                                                    </h5>
-                                                    <p class="mb-0">Hey guys, just a quick update on exchange orders. There have been some changes currency!</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm-6 col-md-6 col-lg-4">
-                                        <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="1300">
-                                            <div class="service__item-inner text-center">
-                                                <div class="service__thumb mb-30">
-                                                    <div class="service__thumb-inner">
-                                                        <img decoding="async" src="../wp-content/uploads/2023/10/services06.png" width="48" alt="Icon" />
-                                                    </div>
-                                                </div>
-                                                <div class="service__content">
-                                                    <h5 class="mb-15">
-                                                        <a class="stretched-link" href="../services/marketing-consulting/index.html">Marketing consulting</a>
-                                                    </h5>
-                                                    <p class="mb-0">Hey! Just wanted to let you know that the price notification module processes is now live!</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div
-                            class="elementor-element elementor-element-1266749 elementor-widget__width-auto elementor-absolute upAndDown_animation elementor-widget elementor-widget-image"
-                            data-id="1266749"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img decoding="async" width="106" height="106" src="../wp-content/uploads/2023/10/shape01-2.png" class="attachment-full size-full wp-image-238" alt="" />
-                            </div>
-                        </div>
-                        <div
-                            class="elementor-element elementor-element-dd47321 elementor-widget__width-auto elementor-absolute bit_rotate_animation elementor-widget elementor-widget-image"
-                            data-id="dd47321"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img decoding="async" width="65" height="65" src="../wp-content/uploads/2023/10/cta_shape1-2.png" class="attachment-full size-full wp-image-341" alt="" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-48fddd2 e-flex e-con-boxed e-con e-parent" data-id="48fddd2" data-element_type="container" data-settings='{"background_background":"classic"}'>
-                    <div class="e-con-inner">
-                        <div
-                            class="elementor-element elementor-element-615a6ae elementor-widget__width-auto elementor-absolute left_to_right_move elementor-widget elementor-widget-image"
-                            data-id="615a6ae"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="150" height="75" src="../wp-content/uploads/2023/10/pricing_wave-2.png" class="attachment-full size-full wp-image-701" alt="" />
-                            </div>
-                        </div>
-                        <div
-                            class="elementor-element elementor-element-69389b4 elementor-widget__width-auto elementor-absolute upAndDown_animation elementor-widget elementor-widget-image"
-                            data-id="69389b4"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img decoding="async" width="106" height="106" src="../wp-content/uploads/2023/10/shape01-2.png" class="attachment-full size-full wp-image-238" alt="" />
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-f067799 e-flex e-con-boxed e-con e-child" data-id="f067799" data-element_type="container">
-                            <div class="e-con-inner">
-                                <div class="elementor-element elementor-element-a41e706 elementor-widget elementor-widget-tg-heading" data-id="a41e706" data-element_type="widget" data-widget_type="tg-heading.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="section-title">
-                                            <h2 class="title">Our <span>Pricings </span>Plan</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-9aa8cd9 elementor-widget elementor-widget-heading" data-id="9aa8cd9" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <p class="elementor-heading-title elementor-size-default">We offer the best pricings around - from installations to repairs, maintenance, and more!</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-049e5c7 e-con-full e-flex e-con e-child" data-id="049e5c7" data-element_type="container">
-                            <div class="elementor-element elementor-element-1111791 e-con-full e-flex e-con e-child" data-id="1111791" data-element_type="container">
-                                <div class="elementor-element elementor-element-e0f733e elementor-widget elementor-widget-tg-pricing" data-id="e0f733e" data-element_type="widget" data-widget_type="tg-pricing.default">
-                                    <div class="elementor-widget-container">
-                                        <script>
-                                            jQuery(document).ready(function ($) {
-                                                AOS.init();
-                                            });
-                                        </script>
-
-                                        <div class="pricing__item" data-aos="fade-right" data-aos-duration="1000">
-                                            <div class="pricing__item-inner default">
-                                                <div class="pricing__item-content">
-                                                    <!-- pricing top part -->
-                                                    <div class="pricing__item-top">
-                                                        <h6 class="mb-15">Basic</h6>
-                                                        <h3 class="mb-25">&#036;99/<span>Monthly</span></h3>
-                                                    </div>
-
-                                                    <!-- pricing middle part -->
-                                                    <div class="pricing__item-middle">
-                                                        <ul class="pricing__list list-wrap">
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Weekly online meeting
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Unlimited learning access
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                24/7 technical support
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Personal training
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-
-                                                    <!-- pricing bottom part -->
-                                                    <div class="pricing__item-bottom">
-                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--outline"> Choose Plan </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-f494200 e-con-full e-flex e-con e-child" data-id="f494200" data-element_type="container">
-                                <div class="elementor-element elementor-element-4e0ea8b elementor-widget elementor-widget-tg-pricing" data-id="4e0ea8b" data-element_type="widget" data-widget_type="tg-pricing.default">
-                                    <div class="elementor-widget-container">
-                                        <script>
-                                            jQuery(document).ready(function ($) {
-                                                AOS.init();
-                                            });
-                                        </script>
-
-                                        <div class="pricing__item" data-aos="fade-up" data-aos-duration="1000">
-                                            <div class="pricing__item-inner active">
-                                                <div class="pricing__item-content">
-                                                    <!-- pricing top part -->
-                                                    <div class="pricing__item-top">
-                                                        <h6 class="mb-15">standard</h6>
-                                                        <h3 class="mb-25">&#036;149/<span>Monthly</span></h3>
-                                                    </div>
-
-                                                    <!-- pricing middle part -->
-                                                    <div class="pricing__item-middle">
-                                                        <ul class="pricing__list list-wrap">
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Weekly online meeting
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Unlimited learning access
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                24/7 technical support
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Personal training
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Business analysis
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-
-                                                    <!-- pricing bottom part -->
-                                                    <div class="pricing__item-bottom">
-                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--outline"> Choose Plan </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-6df35ba e-con-full e-flex e-con e-child" data-id="6df35ba" data-element_type="container">
-                                <div class="elementor-element elementor-element-9d59097 elementor-widget elementor-widget-tg-pricing" data-id="9d59097" data-element_type="widget" data-widget_type="tg-pricing.default">
-                                    <div class="elementor-widget-container">
-                                        <script>
-                                            jQuery(document).ready(function ($) {
-                                                AOS.init();
-                                            });
-                                        </script>
-
-                                        <div class="pricing__item" data-aos="fade-left" data-aos-duration="1000">
-                                            <div class="pricing__item-inner default">
-                                                <div class="pricing__item-content">
-                                                    <!-- pricing top part -->
-                                                    <div class="pricing__item-top">
-                                                        <h6 class="mb-15">premium</h6>
-                                                        <h3 class="mb-25">&#036;199/<span>Monthly</span></h3>
-                                                    </div>
-
-                                                    <!-- pricing middle part -->
-                                                    <div class="pricing__item-middle">
-                                                        <ul class="pricing__list list-wrap">
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Weekly online meeting
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Unlimited learning access
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                24/7 technical support
-                                                            </li>
-                                                            <li class="pricing__list-item">
-                                                                <span>
-                                                                    <img decoding="async" src="../wp-content/uploads/2023/10/check.svg" width="24" alt="Icon" />
-                                                                </span>
-                                                                Personal training
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-
-                                                    <!-- pricing bottom part -->
-                                                    <div class="pricing__item-bottom">
-                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--outline"> Choose Plan </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-e0ed31e bg-color e-flex e-con-boxed e-con e-parent" data-id="e0ed31e" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-804b545 e-con-full e-flex e-con e-child" data-id="804b545" data-element_type="container">
-                            <div class="elementor-element elementor-element-50d49a6 e-con-full e-flex e-con e-child" data-id="50d49a6" data-element_type="container">
-                                <div class="elementor-element elementor-element-0bc4d3b elementor-widget elementor-widget-tg-heading" data-id="0bc4d3b" data-element_type="widget" data-widget_type="tg-heading.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="section-title">
-                                            <h2 class="title">Connect With <span>Our Clients</span></h2>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-e763137 elementor-widget elementor-widget-heading" data-id="e763137" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <p class="elementor-heading-title elementor-size-default">We love connecting with our clients to hear about their experiences and how we can improve.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-7de23f2 e-con-full e-flex e-con e-child" data-id="7de23f2" data-element_type="container">
-                                <div class="elementor-element elementor-element-0f92192 elementor-widget elementor-widget-html" data-id="0f92192" data-element_type="widget" data-widget_type="html.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="section-header__action">
-                                            <div class="swiper-nav justify-content-start justify-content-md-end">
-                                                <button class="swiper-nav__btn testimonial__slider-prev"><i class="fas fa-angle-left"></i></button>
-                                                <button class="swiper-nav__btn testimonial__slider-next active"><i class="fas fa-angle-right"></i></button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-c503616 elementor-widget elementor-widget-testimonial" data-id="c503616" data-element_type="widget" data-widget_type="testimonial.default">
-                            <div class="elementor-widget-container">
-                                <script>
-                                    jQuery(document).ready(function ($) {
-                                        AOS.init();
-
-                                        // testimonial slider
-                                        const testimonial = new Swiper(".testimonial__slider", {
-                                            spaceBetween: 24,
-                                            grabCursor: true,
-                                            loop: true,
-                                            slidesPerView: 1,
-                                            breakpoints: {
-                                                576: {
-                                                    slidesPerView: 1,
-                                                },
-                                                768: {
-                                                    slidesPerView: 2,
-                                                },
-                                                992: {
-                                                    slidesPerView: 2,
-                                                },
-                                                1200: {
-                                                    slidesPerView: 2,
-                                                    spaceBetween: 25,
-                                                },
-                                            },
-
-                                            autoplay: true,
-                                            speed: 500,
-
-                                            navigation: {
-                                                nextEl: ".testimonial__slider-next",
-                                                prevEl: ".testimonial__slider-prev",
-                                            },
-                                        });
-                                    });
-                                </script>
-
-                                <div class="testimonial__wrapper" data-aos="fade-up" data-aos-duration="1000">
-                                    <div class="testimonial__slider swiper">
-                                        <div class="swiper-wrapper">
-                                            <div class="swiper-slide">
-                                                <div class="testimonial__item testimonial__item--style1">
-                                                    <div class="testimonial__item-inner">
-                                                        <div class="testimonial__item-content">
-                                                            <p class="mb-0">
-                                                                The above testimonial is about Martha Chumo, who taught herself to code in one summer. This testimonial example works because it allows prospective customers to see themselves
-                                                                in Codeacademy’s current customer base.
-                                                            </p>
-                                                            <div class="testimonial__footer">
-                                                                <div class="testimonial__author">
-                                                                    <div class="testimonial__author-thumb">
-                                                                        <img decoding="async" src="../wp-content/uploads/2023/10/testi01-2.png" width="48" alt="" />
-                                                                    </div>
-                                                                    <div class="testimonial__author-designation">
-                                                                        <h6>Mobarok Hossain</h6>
-                                                                        <span> Trade Master </span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="testimonial__quote">
-                                                                    <span><i class="fas fa-quote-right"></i></span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="testimonial__item testimonial__item--style1">
-                                                    <div class="testimonial__item-inner">
-                                                        <div class="testimonial__item-content">
-                                                            <p class="mb-0">
-                                                                The above testimonial is about Martha Chumo, who taught herself to code in one summer. This testimonial example works because it allows prospective customers to see themselves
-                                                                in Codeacademy’s current customer base.
-                                                            </p>
-                                                            <div class="testimonial__footer">
-                                                                <div class="testimonial__author">
-                                                                    <div class="testimonial__author-thumb">
-                                                                        <img decoding="async" src="../wp-content/uploads/2023/10/testi02-2.png" width="48" alt="" />
-                                                                    </div>
-                                                                    <div class="testimonial__author-designation">
-                                                                        <h6>Guy Hawkins</h6>
-                                                                        <span> Trade Master </span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="testimonial__quote">
-                                                                    <span><i class="fas fa-quote-right"></i></span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="testimonial__item testimonial__item--style1">
-                                                    <div class="testimonial__item-inner">
-                                                        <div class="testimonial__item-content">
-                                                            <p class="mb-0">
-                                                                The above testimonial is about Martha Chumo, who taught herself to code in one summer. This testimonial example works because it allows prospective customers to see themselves
-                                                                in Codeacademy’s current customer base.
-                                                            </p>
-                                                            <div class="testimonial__footer">
-                                                                <div class="testimonial__author">
-                                                                    <div class="testimonial__author-thumb">
-                                                                        <img decoding="async" src="../wp-content/uploads/2023/10/testi03-2.png" width="48" alt="" />
-                                                                    </div>
-                                                                    <div class="testimonial__author-designation">
-                                                                        <h6>Belal Hossain</h6>
-                                                                        <span> Trade Master </span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="testimonial__quote">
-                                                                    <span><i class="fas fa-quote-right"></i></span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-557da09 e-flex e-con-boxed e-con e-parent" data-id="557da09" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div
-                            class="elementor-element elementor-element-74f3bbf elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image"
-                            data-id="74f3bbf"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img decoding="async" width="65" height="65" src="../wp-content/uploads/2023/10/cta_shape1-2.png" class="attachment-full size-full wp-image-341" alt="" />
-                            </div>
-                        </div>
-                        <div
-                            class="elementor-element elementor-element-2984536 elementor-widget__width-auto elementor-absolute left_to_right_move elementor-widget elementor-widget-image"
-                            data-id="2984536"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="162" height="101" src="../wp-content/uploads/2023/10/faq_wave-2.png" class="attachment-full size-full wp-image-702" alt="" />
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-3b81403 e-flex e-con-boxed e-con e-child" data-id="3b81403" data-element_type="container">
-                            <div class="e-con-inner">
-                                <div class="elementor-element elementor-element-55a9063 elementor-widget elementor-widget-tg-heading" data-id="55a9063" data-element_type="widget" data-widget_type="tg-heading.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="section-title">
-                                            <h2 class="title"><span>Frequently</span> Asked Questions</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-742c803 elementor-widget elementor-widget-heading" data-id="742c803" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <p class="elementor-heading-title elementor-size-default">Hey there! Got questions? We've got answers. Check out our FAQ page for all the deets. Still not satisfied? Hit us up.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-38fd5a3 e-con-full e-flex e-con e-child" data-id="38fd5a3" data-element_type="container">
-                            <div class="elementor-element elementor-element-34ff32f e-flex e-con-boxed e-con e-child" data-id="34ff32f" data-element_type="container">
-                                <div class="e-con-inner">
-                                    <div class="elementor-element elementor-element-8feac38 elementor-widget elementor-widget-genix-faq" data-id="8feac38" data-element_type="widget" data-widget_type="genix-faq.default">
-                                        <div class="elementor-widget-container">
-                                            <script>
-                                                jQuery(document).ready(function ($) {
-                                                    AOS.init();
-                                                });
-                                            </script>
-
-                                            <div class="accordion accordion--style1" id="faqAccordion1" data-aos="fade-right" data-aos-duration="1000">
-                                                <div class="accordion__item">
-                                                    <div class="accordion__header" id="faq0">
-                                                        <button class="accordion__button" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody0" aria-expanded="false" aria-controls="faqBody0">
-                                                            <span class="accordion__button-content"> What does this tool do? </span>
-                                                            <span class="accordion__button-plusicon"></span>
-                                                        </button>
-                                                    </div>
-                                                    <div id="faqBody0" class="accordion-collapse collapse show" aria-labelledby="faq0" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="accordion__item">
-                                                    <div class="accordion__header" id="faq1">
-                                                        <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody1" aria-expanded="false" aria-controls="faqBody1">
-                                                            <span class="accordion__button-content"> What are the disadvantages of online trading? </span>
-                                                            <span class="accordion__button-plusicon"></span>
-                                                        </button>
-                                                    </div>
-                                                    <div id="faqBody1" class="accordion-collapse collapse" aria-labelledby="faq1" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="accordion__item">
-                                                    <div class="accordion__header" id="faq2">
-                                                        <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody2" aria-expanded="false" aria-controls="faqBody2">
-                                                            <span class="accordion__button-content"> Is online trading safe? </span>
-                                                            <span class="accordion__button-plusicon"></span>
-                                                        </button>
-                                                    </div>
-                                                    <div id="faqBody2" class="accordion-collapse collapse" aria-labelledby="faq2" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="accordion__item">
-                                                    <div class="accordion__header" id="faq3">
-                                                        <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody3" aria-expanded="false" aria-controls="faqBody3">
-                                                            <span class="accordion__button-content"> What is online trading, and how does it work? </span>
-                                                            <span class="accordion__button-plusicon"></span>
-                                                        </button>
-                                                    </div>
-                                                    <div id="faqBody3" class="accordion-collapse collapse" aria-labelledby="faq3" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="accordion__item">
-                                                    <div class="accordion__header" id="faq4">
-                                                        <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody4" aria-expanded="false" aria-controls="faqBody4">
-                                                            <span class="accordion__button-content"> Which app is best for online trading? </span>
-                                                            <span class="accordion__button-plusicon"></span>
-                                                        </button>
-                                                    </div>
-                                                    <div id="faqBody4" class="accordion-collapse collapse" aria-labelledby="faq4" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="accordion__item">
-                                                    <div class="accordion__header" id="faq5">
-                                                        <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody5" aria-expanded="false" aria-controls="faqBody5">
-                                                            <span class="accordion__button-content"> How to create a trading account? </span>
-                                                            <span class="accordion__button-plusicon"></span>
-                                                        </button>
-                                                    </div>
-                                                    <div id="faqBody5" class="accordion-collapse collapse" aria-labelledby="faq5" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-2d8c364 e-flex e-con-boxed e-con e-child" data-id="2d8c364" data-element_type="container">
-                                <div class="e-con-inner">
-                                    <div class="elementor-element elementor-element-223e69f elementor-widget elementor-widget-image" data-id="223e69f" data-element_type="widget" data-widget_type="image.default">
-                                        <div class="elementor-widget-container">
-                                            <img
-                                                loading="lazy"
-                                                decoding="async"
-                                                width="537"
-                                                height="493"
-                                                src="../wp-content/uploads/2023/10/faq_img002-2.png"
-                                                class="attachment-full size-full wp-image-710"
-                                                alt=""
-                                                srcset="https://bitrader.thetork.com/wp-content/uploads/2023/10/faq_img002-2.png 537w, https://bitrader.thetork.com/wp-content/uploads/2023/10/faq_img002-2-300x275.png 300w"
-                                                sizes="(max-width: 537px) 100vw, 537px"
-                                            />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-e202390 bg-color e-flex e-con-boxed e-con e-parent" data-id="e202390" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-190f3be e-con-full e-flex e-con e-child" data-id="190f3be" data-element_type="container">
-                            <div class="elementor-element elementor-element-331e559 e-con-full e-flex e-con e-child" data-id="331e559" data-element_type="container">
-                                <div class="elementor-element elementor-element-4fd0c4c elementor-widget elementor-widget-tg-heading" data-id="4fd0c4c" data-element_type="widget" data-widget_type="tg-heading.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="section-title">
-                                            <h2 class="title"><span>Articles </span> For Pro Traders</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-e1eae93 elementor-widget elementor-widget-heading" data-id="e1eae93" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <p class="elementor-heading-title elementor-size-default">Hey there pro traders, check out these articles with tips to take your trading game to the next level!</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-13e3eb7 e-con-full e-flex e-con e-child" data-id="13e3eb7" data-element_type="container">
-                                <div class="elementor-element elementor-element-0f8b01f elementor-widget elementor-widget-html" data-id="0f8b01f" data-element_type="widget" data-widget_type="html.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="section-header__action">
-                                            <div class="swiper-nav swiper-nav--style1 justify-content-start justify-content-md-end">
-                                                <button class="swiper-nav__btn blog__slider-prev"><i class="fas fa-angle-left"></i></button>
-                                                <button class="swiper-nav__btn blog__slider-next active"><i class="fas fa-angle-right"></i></button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-3660025 elementor-widget elementor-widget-blogpost" data-id="3660025" data-element_type="widget" data-widget_type="blogpost.default">
-                            <div class="elementor-widget-container">
-                                <script>
-                                    jQuery(document).ready(function ($) {
-                                        AOS.init();
-
-                                        // blog  slider here
-                                        const blog = new Swiper(".blog__slider", {
-                                            spaceBetween: 24,
-                                            grabCursor: true,
-                                            loop: true,
-                                            slidesPerView: 1,
-                                            breakpoints: {
-                                                576: {
-                                                    slidesPerView: 1,
-                                                },
-                                                768: {
-                                                    slidesPerView: 2,
-                                                },
-                                                992: {
-                                                    slidesPerView: 3,
-                                                },
-                                                1200: {
-                                                    slidesPerView: 3,
-                                                },
-                                            },
-
-                                            autoplay: true,
-                                            speed: 500,
-                                            navigation: {
-                                                nextEl: ".blog__slider-next",
-                                                prevEl: ".blog__slider-prev",
-                                            },
-                                        });
-                                    });
-                                </script>
-
-                                <div class="blog__wrapper" data-aos="fade-up" data-aos-duration="1000">
-                                    <div class="blog__slider swiper">
-                                        <div class="swiper-wrapper">
-                                            <div class="swiper-slide">
-                                                <div class="blog__item home-blog-post blog__item--style2">
-                                                    <div class="blog__item-inner">
-                                                        <div class="blog__thumb">
-                                                            <img
-                                                                loading="lazy"
-                                                                decoding="async"
-                                                                width="710"
-                                                                height="480"
-                                                                src="../wp-content/uploads/2023/10/blog_post01-2.jpg"
-                                                                class="attachment-65 size-65 wp-post-image"
-                                                                alt=""
-                                                                full=""
-                                                                srcset="
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post01-2.jpg         710w,
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post01-2-600x406.jpg 600w,
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post01-2-300x203.jpg 300w
-                                                                "
-                                                                sizes="(max-width: 710px) 100vw, 710px"
-                                                            />
-                                                        </div>
-                                                        <div class="blog__content">
-                                                            <div class="blog__meta">
-                                                                <a href="../category/dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Dividend stocks</a>
-                                                            </div>
-                                                            <h5 class="10">
-                                                                <a href="../online-trading-for-beginners/index.html">Online trading for beginners</a>
-                                                            </h5>
-
-                                                            <p class="mb-15">Lorem ipsum dolor sit amet consectetur. At sed amet viverra etiam elit vivamus ultrices pharetra. Diam augue</p>
-
-                                                            <div class="blog__writer">
-                                                                <div class="blog__writer-thumb">
-                                                                    <img decoding="async" src="https://secure.gravatar.com/avatar/ed15ab87fdc9b9269998d3f44137ed73a68b98e33ee3c2990146f50237f59768?s=40&amp;d=mm&amp;r=g" alt="admin" />
-                                                                </div>
-                                                                <div class="blog__writer-designation">
-                                                                    <h6 class="mb-0">admin</h6>
-                                                                    <span>October 6, 2023</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="blog__item home-blog-post blog__item--style2">
-                                                    <div class="blog__item-inner">
-                                                        <div class="blog__thumb">
-                                                            <img
-                                                                loading="lazy"
-                                                                decoding="async"
-                                                                width="710"
-                                                                height="480"
-                                                                src="../wp-content/uploads/2023/10/blog_post05-2.jpg"
-                                                                class="attachment-63 size-63 wp-post-image"
-                                                                alt=""
-                                                                full=""
-                                                                srcset="
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post05-2.jpg         710w,
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post05-2-600x406.jpg 600w,
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post05-2-300x203.jpg 300w
-                                                                "
-                                                                sizes="(max-width: 710px) 100vw, 710px"
-                                                            />
-                                                        </div>
-                                                        <div class="blog__content">
-                                                            <div class="blog__meta">
-                                                                <a href="../category/dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Dividend stocks</a>
-                                                            </div>
-                                                            <h5 class="10">
-                                                                <a href="../options-trading-business/index.html">Options Trading business?</a>
-                                                            </h5>
-
-                                                            <p class="mb-15">Lorem ipsum dolor sit amet consectetur. At sed amet viverra etiam elit vivamus ultrices pharetra. Diam augue</p>
-
-                                                            <div class="blog__writer">
-                                                                <div class="blog__writer-thumb">
-                                                                    <img decoding="async" src="https://secure.gravatar.com/avatar/ed15ab87fdc9b9269998d3f44137ed73a68b98e33ee3c2990146f50237f59768?s=40&amp;d=mm&amp;r=g" alt="admin" />
-                                                                </div>
-                                                                <div class="blog__writer-designation">
-                                                                    <h6 class="mb-0">admin</h6>
-                                                                    <span>October 6, 2023</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="blog__item home-blog-post blog__item--style2">
-                                                    <div class="blog__item-inner">
-                                                        <div class="blog__thumb">
-                                                            <img
-                                                                loading="lazy"
-                                                                decoding="async"
-                                                                width="710"
-                                                                height="480"
-                                                                src="../wp-content/uploads/2023/10/blog_post07-2.jpg"
-                                                                class="attachment-61 size-61 wp-post-image"
-                                                                alt=""
-                                                                full=""
-                                                                srcset="
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post07-2.jpg         710w,
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post07-2-600x406.jpg 600w,
-                                                                    https://bitrader.thetork.com/wp-content/uploads/2023/10/blog_post07-2-300x203.jpg 300w
-                                                                "
-                                                                sizes="(max-width: 710px) 100vw, 710px"
-                                                            />
-                                                        </div>
-                                                        <div class="blog__content">
-                                                            <div class="blog__meta">
-                                                                <a href="../category/non-dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Non-dividend stocks</a>
-                                                            </div>
-                                                            <h5 class="10">
-                                                                <a href="../advantages-of-day-trading/index.html">Advantages of day trading</a>
-                                                            </h5>
-
-                                                            <p class="mb-15">Lorem ipsum dolor sit amet consectetur. At sed amet viverra etiam elit vivamus ultrices pharetra. Diam augue</p>
-
-                                                            <div class="blog__writer">
-                                                                <div class="blog__writer-thumb">
-                                                                    <img decoding="async" src="https://secure.gravatar.com/avatar/ed15ab87fdc9b9269998d3f44137ed73a68b98e33ee3c2990146f50237f59768?s=40&amp;d=mm&amp;r=g" alt="admin" />
-                                                                </div>
-                                                                <div class="blog__writer-designation">
-                                                                    <h6 class="mb-0">admin</h6>
-                                                                    <span>October 6, 2023</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-7bbf568 e-con-full e-flex e-con e-child" data-id="7bbf568" data-element_type="container">
-                            <div class="elementor-element elementor-element-90df3fb elementor-widget elementor-widget-tg-btn" data-id="90df3fb" data-element_type="widget" data-widget_type="tg-btn.default">
-                                <div class="elementor-widget-container">
-                                    <div class="myclass1">
-                                        <a href="../blog/index.html" target="_self" rel="nofollow" class="trk-btn trk-btn--border trk-btn--primary"> View more </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-6e2faa0 e-flex e-con-boxed e-con e-parent" data-id="6e2faa0" data-element_type="container" data-settings='{"background_background":"classic"}'>
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-683d2be e-flex e-con-boxed e-con e-child" data-id="683d2be" data-element_type="container" data-settings='{"background_background":"classic"}'>
-                            <div class="e-con-inner">
-                                <div class="elementor-element elementor-element-4ec8929 e-con-full e-flex e-con e-child" data-id="4ec8929" data-element_type="container" data-settings='{"background_background":"classic"}'>
-                                    <div class="elementor-element elementor-element-6b15f09 e-con-full e-flex e-con e-child" data-id="6b15f09" data-element_type="container">
-                                        <div class="elementor-element elementor-element-cc9f767 elementor-widget elementor-widget-image" data-id="cc9f767" data-element_type="widget" data-widget_type="image.default">
-                                            <div class="elementor-widget-container">
-                                                <img loading="lazy" decoding="async" width="244" height="235" src="../wp-content/uploads/2023/10/cta-2.png" class="attachment-full size-full wp-image-312" alt="" />
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-3340b37 nwsltrcolor e-flex e-con-boxed e-con e-child" data-id="3340b37" data-element_type="container">
-                                        <div class="e-con-inner">
-                                            <div class="elementor-element elementor-element-227907e elementor-widget elementor-widget-tg-heading" data-id="227907e" data-element_type="widget" data-widget_type="tg-heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="section-title">
-                                                        <h2 class="title"><span>Subscribe </span> Our News</h2>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-0a1a063 elementor-widget elementor-widget-heading" data-id="0a1a063" data-element_type="widget" data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <p class="elementor-heading-title elementor-size-default">Hey! Are you tired of missing out on our updates? Subscribe to our news now and stay in the loop!</p>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-1d0c306 text-center elementor-widget elementor-widget-shortcode" data-id="1d0c306" data-element_type="widget" data-widget_type="shortcode.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-shortcode">
-                                                        <script>
-                                                            (function () {
-                                                                window.mc4wp = window.mc4wp || {
-                                                                    listeners: [],
-                                                                    forms: {
-                                                                        on: function (evt, cb) {
-                                                                            window.mc4wp.listeners.push({
-                                                                                event: evt,
-                                                                                callback: cb,
-                                                                            });
-                                                                        },
-                                                                    },
-                                                                };
-                                                            })();
-                                                        </script>
-                                                        <!-- Mailchimp for WordPress v4.10.5 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
-                                                        <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-329" method="post" data-id="329" data-name="Newsletter Form">
-                                                            <div class="mc4wp-form-fields">
-                                                                <div class="cta-form cta-form--style2 form-subscribe">
-                                                                    <div class="cta-form__inner d-sm-flex align-items-center">
-                                                                        <input type="email" class="form-control form-control--style2 mb-3 mb-sm-0" name="EMAIL" placeholder="Email Address" required />
-                                                                        <button class="trk-btn trk-btn--large trk-btn--secondary2" type="submit">Submit</button>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label>
-                                                            <input type="hidden" name="_mc4wp_timestamp" value="1752623030" /><input type="hidden" name="_mc4wp_form_id" value="329" />
-                                                            <input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" />
-                                                            <div class="mc4wp-response"></div>
-                                                        </form>
-                                                        <!-- / Mailchimp for WordPress Plugin -->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div
-                                    class="elementor-element elementor-element-3942505 elementor-widget__width-auto elementor-absolute bit_rotate_animation elementor-widget elementor-widget-image"
-                                    data-id="3942505"
-                                    data-element_type="widget"
-                                    data-settings='{"_position":"absolute"}'
-                                    data-widget_type="image.default"
-                                >
-                                    <div class="elementor-widget-container">
-                                        <img decoding="async" width="65" height="65" src="../wp-content/uploads/2023/10/cta_shape1-2.png" class="attachment-full size-full wp-image-341" alt="" />
-                                    </div>
-                                </div>
-                                <div
-                                    class="elementor-element elementor-element-cbb3f7d elementor-widget__width-auto elementor-absolute upAndDown_animation elementor-widget elementor-widget-image"
-                                    data-id="cbb3f7d"
-                                    data-element_type="widget"
-                                    data-settings='{"_position":"absolute"}'
-                                    data-widget_type="image.default"
-                                >
-                                    <div class="elementor-widget-container">
-                                        <img decoding="async" width="106" height="106" src="../wp-content/uploads/2023/10/shape01-2.png" class="attachment-full size-full wp-image-238" alt="" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            @yield('body')
 
             <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
                 <div class="footer-width-fixer">
@@ -2243,10 +882,10 @@
                                         >
                                             <div class="elementor-widget-container">
                                                 <div class="hfe-site-logo">
-                                                    <a data-elementor-open-lightbox="" class="elementor-clickable" href="../index.html">
+                                                    <a data-elementor-open-lightbox="" class="elementor-clickable" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/index.html">
                                                         <div class="hfe-site-logo-set">
                                                             <div class="hfe-site-logo-container">
-                                                                <img class="hfe-site-logo-img elementor-animation-" src="../wp-content/uploads/2023/10/logo-dark-2.png" alt="logo-dark" />
+                                                                <img class="hfe-site-logo-img elementor-animation-" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/2023/10/logo-dark-2.png" alt="logo-dark" />
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2263,12 +902,28 @@
                                         <div class="elementor-element elementor-element-b5d045a e-grid e-con-full e-con e-child" data-id="b5d045a" data-element_type="container">
                                             <div class="elementor-element elementor-element-7554086 elementor-widget elementor-widget-image" data-id="7554086" data-element_type="widget" data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
-                                                    <a href="#"> <img width="100" height="36" src="../wp-content/uploads/2023/10/App-store-3.png" class="attachment-full size-full wp-image-1200" alt="" /> </a>
+                                                    <a href="#">
+                                                        <img
+                                                            width="100"
+                                                            height="36"
+                                                            src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/2023/10/App-store-3.png"
+                                                            class="attachment-full size-full wp-image-1200"
+                                                            alt=""
+                                                        />
+                                                    </a>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-596b301 elementor-widget elementor-widget-image" data-id="596b301" data-element_type="widget" data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
-                                                    <a href="#"> <img width="100" height="36" src="../wp-content/uploads/2023/10/Google-play-store-2.png" class="attachment-full size-full wp-image-1201" alt="" /> </a>
+                                                    <a href="#">
+                                                        <img
+                                                            width="100"
+                                                            height="36"
+                                                            src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/2023/10/Google-play-store-2.png"
+                                                            class="attachment-full size-full wp-image-1201"
+                                                            alt=""
+                                                        />
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -2288,7 +943,7 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="../about-us/index.html">
+                                                        <a href="{{asset('/public/novareex/')}}/bitrader.thetork.com/about-us/index.html">
                                                             <span class="elementor-icon-list-text">About Us</span>
                                                         </a>
                                                     </li>
@@ -2298,7 +953,7 @@
                                                         </a>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="../our-services/index.html">
+                                                        <a href="{{asset('/public/novareex/')}}/bitrader.thetork.com/our-services/index.html">
                                                             <span class="elementor-icon-list-text">Services</span>
                                                         </a>
                                                     </li>
@@ -2454,7 +1109,7 @@
                                     data-widget_type="image.default"
                                 >
                                     <div class="elementor-widget-container">
-                                        <img width="81" height="40" src="../wp-content/uploads/2023/10/footer_shape-2.png" class="attachment-full size-full wp-image-419" alt="" />
+                                        <img width="81" height="40" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/uploads/2023/10/footer_shape-2.png" class="attachment-full size-full wp-image-419" alt="" />
                                     </div>
                                 </div>
                             </div>
@@ -2560,16 +1215,16 @@
                     document.body.className = c;
                 })();
             </script>
-            <link rel="stylesheet" id="wc-blocks-style-css" href="../wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks392f.css?ver=wc-9.9.5" type="text/css" media="all" />
-            <link rel="stylesheet" id="widget-icon-list-css" href="../wp-content/plugins/elementor/assets/css/widget-icon-list.min415f.css?ver=3.30.0" type="text/css" media="all" />
-            <script type="text/javascript" src="../wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
-            <script type="text/javascript" src="../wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+            <link rel="stylesheet" id="wc-blocks-style-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks392f.css?ver=wc-9.9.5" type="text/css" media="all" />
+            <link rel="stylesheet" id="widget-icon-list-css" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min415f.css?ver=3.30.0" type="text/css" media="all" />
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
             <script type="text/javascript" id="wp-i18n-js-after">
                 /* <![CDATA[ */
                 wp.i18n.setLocaleData({ "text direction\u0004ltr": ["ltr"] });
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/swv/js/index9b2d.js?ver=6.1" id="swv-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/contact-form-7/includes/swv/js/index9b2d.js?ver=6.1" id="swv-js"></script>
             <script type="text/javascript" id="contact-form-7-js-before">
                 /* <![CDATA[ */
                 var wpcf7 = {
@@ -2581,11 +1236,11 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/js/index9b2d.js?ver=6.1" id="contact-form-7-js"></script>
-            <script type="text/javascript" src="../wp-content/plugins/bitrader-core/assets/js/hello-world6c2d.js?ver=6.8.2" id="genixcore-js"></script>
-            <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/webpack.runtime.min415f.js?ver=3.30.0" id="elementor-webpack-runtime-js"></script>
-            <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend-modules.min415f.js?ver=3.30.0" id="elementor-frontend-modules-js"></script>
-            <script type="text/javascript" src="../wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/contact-form-7/includes/js/index9b2d.js?ver=6.1" id="contact-form-7-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/bitrader-core/assets/js/hello-world6c2d.js?ver=6.8.2" id="genixcore-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min415f.js?ver=3.30.0" id="elementor-webpack-runtime-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/js/frontend-modules.min415f.js?ver=3.30.0" id="elementor-frontend-modules-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
             <script type="text/javascript" id="elementor-frontend-js-before">
                 /* <![CDATA[ */
                 var elementorFrontendConfig = {
@@ -2655,7 +1310,7 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend.min415f.js?ver=3.30.0" id="elementor-frontend-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/elementor/assets/js/frontend.min415f.js?ver=3.30.0" id="elementor-frontend-js"></script>
             <script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
                 /* <![CDATA[ */
                 var wc_add_to_cart_variation_params = {
@@ -2667,10 +1322,23 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.mindaac.js?ver=9.9.5" id="wc-add-to-cart-variation-js" data-wp-strategy="defer"></script>
-            <script type="text/javascript" src="../wp-content/plugins/woo-smart-quick-view/assets/libs/slick/slick.minae82.js?ver=4.2.0" id="slick-js"></script>
-            <script type="text/javascript" src="../wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.minae82.js?ver=4.2.0" id="perfect-scrollbar-js"></script>
-            <script type="text/javascript" src="../wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/jquery.magnific-popup.minae82.js?ver=4.2.0" id="magnific-popup-js"></script>
+            <script
+                type="text/javascript"
+                src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.mindaac.js?ver=9.9.5"
+                id="wc-add-to-cart-variation-js"
+                data-wp-strategy="defer"
+            ></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/libs/slick/slick.minae82.js?ver=4.2.0" id="slick-js"></script>
+            <script
+                type="text/javascript"
+                src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.minae82.js?ver=4.2.0"
+                id="perfect-scrollbar-js"
+            ></script>
+            <script
+                type="text/javascript"
+                src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/jquery.magnific-popup.minae82.js?ver=4.2.0"
+                id="magnific-popup-js"
+            ></script>
             <script type="text/javascript" id="woosq-frontend-js-extra">
                 /* <![CDATA[ */
                 var woosq_vars = {
@@ -2695,7 +1363,7 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="../wp-content/plugins/woo-smart-quick-view/assets/js/frontendae82.js?ver=4.2.0" id="woosq-frontend-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-quick-view/assets/js/frontendae82.js?ver=4.2.0" id="woosq-frontend-js"></script>
             <script type="text/javascript" id="woosw-frontend-js-extra">
                 /* <![CDATA[ */
                 var woosw_vars = {
@@ -2723,20 +1391,20 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="../wp-content/plugins/woo-smart-wishlist/assets/js/frontend972f.js?ver=5.0.1" id="woosw-frontend-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/bootstrap.min6c2d.js?ver=6.8.2" id="bootstrap-bundle-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/all.min6c2d.js?ver=6.8.2" id="font-awesome-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/swiper.min6c2d.js?ver=6.8.2" id="swiper-js-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/slick.min6c2d.js?ver=6.8.2" id="slick-min-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/aos6c2d.js?ver=6.8.2" id="aos-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/nice-select6c2d.js?ver=6.8.2" id="nice-select-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/fslightbox6c2d.js?ver=6.8.2" id="fslightbox-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/purecounter_vanilla6c2d.js?ver=6.8.2" id="purecounter-js"></script>
-            <script type="text/javascript" src="../wp-includes/js/imagesloaded.minbb93.js?ver=5.0.0" id="imagesloaded-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/isotope.pkgd.min6c2d.js?ver=6.8.2" id="isotope-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/custom6c2d.js?ver=6.8.2" id="bitrader-custom-js"></script>
-            <script type="text/javascript" src="../wp-content/themes/bitrader/assets/js/tork-elementor6c2d.js?ver=6.8.2" id="tork-elementor-js-js"></script>
-            <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.mindaac.js?ver=9.9.5" id="sourcebuster-js-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woo-smart-wishlist/assets/js/frontend972f.js?ver=5.0.1" id="woosw-frontend-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/bootstrap.min6c2d.js?ver=6.8.2" id="bootstrap-bundle-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/all.min6c2d.js?ver=6.8.2" id="font-awesome-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/swiper.min6c2d.js?ver=6.8.2" id="swiper-js-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/slick.min6c2d.js?ver=6.8.2" id="slick-min-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/aos6c2d.js?ver=6.8.2" id="aos-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/nice-select6c2d.js?ver=6.8.2" id="nice-select-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/fslightbox6c2d.js?ver=6.8.2" id="fslightbox-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/purecounter_vanilla6c2d.js?ver=6.8.2" id="purecounter-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-includes/js/imagesloaded.minbb93.js?ver=5.0.0" id="imagesloaded-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/isotope.pkgd.min6c2d.js?ver=6.8.2" id="isotope-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/custom6c2d.js?ver=6.8.2" id="bitrader-custom-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/js/tork-elementor6c2d.js?ver=6.8.2" id="tork-elementor-js-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.mindaac.js?ver=9.9.5" id="sourcebuster-js-js"></script>
             <script type="text/javascript" id="wc-order-attribution-js-extra">
                 /* <![CDATA[ */
                 var wc_order_attribution = {
@@ -2762,8 +1430,8 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.mindaac.js?ver=9.9.5" id="wc-order-attribution-js"></script>
-            <script type="text/javascript" defer src="../wp-content/plugins/mailchimp-for-wp/assets/js/forms00f2.js?ver=4.10.5" id="mc4wp-forms-api-js"></script>
+            <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.mindaac.js?ver=9.9.5" id="wc-order-attribution-js"></script>
+            <script type="text/javascript" defer src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms00f2.js?ver=4.10.5" id="mc4wp-forms-api-js"></script>
 
             <!-- Mirrored from bitrader.thetork.com/home-three/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Jul 2025 17:11:50 GMT -->
 
