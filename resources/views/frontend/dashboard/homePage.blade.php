@@ -1,4 +1,5 @@
-@extends('include') @section('body')
+@extends('include') 
+@section('frontBody')
 <!-- main-area -->
 <div data-elementor-type="wp-page" data-elementor-id="646" class="elementor elementor-646">
     <div class="elementor-element elementor-element-9585615 e-con-full e-flex e-con e-parent" data-id="9585615" data-element_type="container">

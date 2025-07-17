@@ -1,14 +1,11 @@
 <!DOCTYPE html>
-<html lang="en-US" data-bs-theme="dark">
-    <!-- Mirrored from bitrader.thetork.com/home-three/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Jul 2025 17:11:50 GMT -->
-    <!-- Added by HTTrack -->
+<html lang="en-US" data-bs-theme="light">
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <!-- /Added by HTTrack -->
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="profile" href="https://gmpg.org/xfn/11" />
-        <title>Home Three &#8211; Bitrader</title>
+        <title>Nuvarex</title>
         <meta name="robots" content="max-image-preview:large" />
         <style>
             img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -667,10 +664,10 @@
                     const theme = document.documentElement.getAttribute("data-bs-theme");
                     document.documentElement.setAttribute("data-bs-theme", theme === "dark" ? "light" : "dark");
                     if (theme === "dark") {
-                        icon.src = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/icons/moon.svg";
+                        icon.src = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/icons/sun.svg";
                         moon.style.backgroundColor = "#00D094";
                     } else {
-                        icon.src = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/icons/sun.svg";
+                        icon.src = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/icons/moon.svg";
                         moon.style.backgroundColor = "white";
                     }
                 });
@@ -692,8 +689,8 @@
                                     var mainLogo = document.getElementById("main-logo");
 
                                     // Logo URLs from PHP
-                                    var lightLogoUrl = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo.png";
-                                    var darkLogoUrl = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo-dark.png";
+                                    var lightLogoUrl = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo-dark.png";
+                                    var darkLogoUrl = "{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo.png";
 
                                     // Initial mode from PHP
                                     var isDarkVersion = true;
@@ -710,7 +707,7 @@
                             </script>
 
                             <a class="main-logo" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/index.html">
-                                <img id="main-logo" class="dark" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo-dark.png" style="max-height: 30px;" alt="Logo" />
+                                <img id="main-logo" class="dark" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/logo-dark.png" style="max-height: 60px;" alt="Logo" />
                             </a>
                         </div>
                         <div class="menu-area menu--style1">
@@ -849,7 +846,7 @@
         </header>
         <!-- main-area -->
         <main class="main-area fix">
-            @yield('body')
+            @yield('frontBody')
 
             <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
                 <div class="footer-width-fixer">
@@ -1432,10 +1429,6 @@
             </script>
             <script type="text/javascript" src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.mindaac.js?ver=9.9.5" id="wc-order-attribution-js"></script>
             <script type="text/javascript" defer src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms00f2.js?ver=4.10.5" id="mc4wp-forms-api-js"></script>
-
-            <!-- Mirrored from bitrader.thetork.com/home-three/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Jul 2025 17:11:50 GMT -->
-
-            <!-- Page cached by LiteSpeed Cache 7.2 on 2025-07-15 23:43:51 -->
         </main>
     </body>
 </html>
