@@ -1,10 +1,16 @@
 <?php
+use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\frontendController;
-use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('/view',[
+    frontendController::class,
+    'homePage'
+])->name('homePage');
 
 
