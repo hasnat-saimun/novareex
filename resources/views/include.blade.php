@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US" data-bs-theme="light">
+<html lang="en-US" data-bs-theme="dark">
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <head>
         <meta charset="UTF-8" />
@@ -11,6 +11,9 @@
             img:is([sizes="auto" i], [sizes^="auto," i]) {
                 contain-intrinsic-size: 3000px 1500px;
             }
+            /* .banner__content-moto {
+                color: #300a99 !important;
+            } */
         </style>
         <link rel="alternate" type="application/rss+xml" title="Bitrader &raquo; Feed" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/feed/index.html" />
         <link rel="alternate" type="application/rss+xml" title="Bitrader &raquo; Comments Feed" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/comments/feed/index.html" />
@@ -828,7 +831,7 @@
                             <div class="menu-area">
                                 <div class="header-btn">
                                     <a href="{{asset('/public/novareex/')}}/bitrader.thetork.com/contact-us" style="background-color: #00d094; border: 1px solid #00d094;" class="trk-btn trk-btn--border trk-btn--primary">
-                                        <span>Join Now</span>
+                                        <span>Login Now</span>
                                     </a>
                                 </div>
 
@@ -847,7 +850,6 @@
         <!-- main-area -->
         <main class="main-area fix">
             @yield('frontBody')
-
             <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
                 <div class="footer-width-fixer">
                     <div data-elementor-type="wp-post" data-elementor-id="367" class="elementor elementor-367">

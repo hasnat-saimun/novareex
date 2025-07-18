@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\frontendController;
 
 Route::get('/', function () {
-    return view('frontend.dashboard.homePage');
+    return view('frontend.dashboard.homePageTrade');
 });
 
 
