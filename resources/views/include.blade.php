@@ -653,7 +653,7 @@
         <div class="preloader">
             <img src="{{asset('/public/novareex/')}}/bitrader.thetork.com/wp-content/themes/bitrader/assets/img/logo/preloader.png" alt="Preloader" />
         </div>
-        <!-- preloader-end -->
+        <!-- preloader-end --> 
 
         <div class="lightdark-switch">
             <span class="switch-btn dark-btn" id="btnSwitch" style="background-color: rgb(0, 208, 148);">
