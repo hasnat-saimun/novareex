@@ -69,7 +69,7 @@
 				</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-36475d9 e-con-full e-flex e-con e-parent" data-id="36475d9" data-element_type="container">
+		<div class="elementor-element elementor-element-36475d9 e-con-full e-flex e-con e-parent px-4" data-id="36475d9" data-element_type="container">
 				<div class="elementor-element elementor-element-5b68ec9 elementor-widget elementor-widget-tg-counterups" data-id="5b68ec9" data-element_type="widget" data-widget_type="tg-counterups.default">
 				<div class="elementor-widget-container">
 					
@@ -134,7 +134,7 @@
 				</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-e64b589 e-con-full e-flex e-con e-parent" data-id="e64b589" data-element_type="container">
+		<div class="elementor-element elementor-element-e64b589 e-con-full e-flex e-con e-parent px-4" data-id="e64b589" data-element_type="container">
 				<div class="elementor-element elementor-element-6488ac0 elementor-widget elementor-widget-genix-aboutsection" data-id="6488ac0" data-element_type="widget" data-widget_type="genix-aboutsection.default">
 				<div class="elementor-widget-container">
 					
@@ -186,7 +186,7 @@
 </div>
 </div>
 </div>
-		<div class="elementor-element elementor-element-1bca9ce bg-color-7 e-flex e-con-boxed e-con e-parent" data-id="1bca9ce" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-1bca9ce bg-color-7 e-flex e-con-boxed e-con e-parent px-4" data-id="1bca9ce" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-2365fe6 e-flex e-con-boxed e-con e-child" data-id="2365fe6" data-element_type="container">
 					<div class="e-con-inner">
@@ -354,7 +354,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="elementor-element elementor-element-da409ff e-flex e-con-boxed e-con e-parent" data-id="da409ff" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-da409ff e-flex e-con-boxed e-con e-parent px-4" data-id="da409ff" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-9fd7375 elementor-widget__width-auto elementor-absolute left_to_right_move elementor-widget elementor-widget-image" data-id="9fd7375" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
@@ -569,7 +569,7 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-96fa530 bg-color e-flex e-con-boxed e-con e-parent" data-id="96fa530" data-element_type="container">
+		<div class="elementor-element elementor-element-96fa530 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="96fa530" data-element_type="container">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-060d2c8 e-flex e-con-boxed e-con e-child" data-id="060d2c8" data-element_type="container">
 					<div class="e-con-inner">
@@ -783,7 +783,7 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-16964fd e-flex e-con-boxed e-con e-parent" data-id="16964fd" data-element_type="container">
+		<div class="elementor-element elementor-element-16964fd e-flex e-con-boxed e-con e-parent px-4" data-id="16964fd" data-element_type="container">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-8916cca e-con-full e-flex e-con e-child" data-id="8916cca" data-element_type="container">
 		<div class="elementor-element elementor-element-214d737 e-con-full e-flex e-con e-child" data-id="214d737" data-element_type="container">
@@ -985,7 +985,7 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-ed4ee47 bg-color e-flex e-con-boxed e-con e-parent" data-id="ed4ee47" data-element_type="container">
+		<div class="elementor-element elementor-element-ed4ee47 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="ed4ee47" data-element_type="container">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-d6e0d80 e-con-full e-flex e-con e-child" data-id="d6e0d80" data-element_type="container">
 		<div class="elementor-element elementor-element-f251bb9 e-con-full e-flex e-con e-child" data-id="f251bb9" data-element_type="container">
@@ -1141,7 +1141,7 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-c6d2a2d e-flex e-con-boxed e-con e-parent" data-id="c6d2a2d" data-element_type="container">
+		<div class="elementor-element elementor-element-c6d2a2d e-flex e-con-boxed e-con e-parent px-4" data-id="c6d2a2d" data-element_type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-ed540c8 elementor-widget__width-auto elementor-absolute upAndDown_animation elementor-widget elementor-widget-image" data-id="ed540c8" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
@@ -1280,7 +1280,7 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-96259f1 bg-color e-flex e-con-boxed e-con e-parent" data-id="96259f1" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-96259f1 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="96259f1" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-71c5500 e-flex e-con-boxed e-con e-child" data-id="71c5500" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="e-con-inner">
