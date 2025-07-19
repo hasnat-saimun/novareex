@@ -1,4 +1,5 @@
- @extends('frontend.dashboard.include') @section('frontBody')
+ @extends('frontend.dashboard.include') 
+ @section('frontBody')
  
             <section class="breadcrumb-area pb-2" style="background-image: url({{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/06/breadcrumb_bg-1.png);">
                 <div class="container">

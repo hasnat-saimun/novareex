@@ -16,7 +16,7 @@ class frontendController extends Controller
 
     
      public function service(){
-        return view('frontend.dashboard.service');
+        return view('frontend.dashboard.servicePage');
     }
 
 
