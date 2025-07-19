@@ -823,7 +823,7 @@
                                     </ul>
                                 </li>
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819 nav-item">
-                                    <a title="Contact Us" href="{{asset('/public/novareex/')}}/bitrader.thetork.com/contact-us/index.html" class="nav-links">Contact Us</a>
+                                    <a title="Contact Us" href="{{route('contactPage')}}" class="nav-links">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
