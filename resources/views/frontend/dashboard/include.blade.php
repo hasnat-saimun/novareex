@@ -108,13 +108,14 @@ html:root {
 <link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/google-fonts/css/robotoslab1877.css?ver=1743915934' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-gf-local-opensans-css' href='{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/google-fonts/css/opensans13c1.css?ver=1743915937' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-gf-local-anektelugu-css' href='{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/google-fonts/css/anektelugu13c1.css?ver=1743915937' type='text/css' media='all' />
+
 @verbatim
 <script type="text/template" id="tmpl-variation-template">
 	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
 	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
 	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
 </script>
-@endverbatim
+ @endverbatim
 <script type="text/template" id="tmpl-unavailable-variation-template">
 	<p role="alert">Sorry, this product is unavailable. Please choose a different combination.</p>
 </script>
