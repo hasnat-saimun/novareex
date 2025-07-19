@@ -13,4 +13,9 @@ Route::get('/view',[
     'homePage'
 ])->name('homePage');
 
+Route::get('/contact',[
+    frontendController::class,
+    'contactPage'
+])->name('contactPage');
+
 
