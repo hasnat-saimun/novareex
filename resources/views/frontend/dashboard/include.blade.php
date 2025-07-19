@@ -587,7 +587,7 @@
         <link rel="EditURI" type="application/rsd+xml" title="RSD" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/xmlrpc0db0.php?rsd" />
         <meta name="generator" content="WordPress 6.8.2" />
         <meta name="generator" content="WooCommerce 9.9.5" />
-        <link rel="canonical" href="index.html" />
+        <link rel="canonical" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/index.html" />
         <link rel='shortlink' href="{{ asset('public/novareex/bitrader.thetork.com/') }}/index3b28.html?p=1267" />
         <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/oembed/1.0/embed8913?url=https%3A%2F%2Fbitrader.thetork.com%2Fhome-four%2F" />
         <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/oembed/1.0/embed5381?url=https%3A%2F%2Fbitrader.thetork.com%2Fhome-four%2F&amp;format=xml" />
@@ -645,10 +645,10 @@
                     const theme = document.documentElement.getAttribute('data-bs-theme');
                     document.documentElement.setAttribute('data-bs-theme', theme === 'dark' ? 'light' : 'dark');
                     if (theme === 'dark') {
-                        icon.src = '{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/icons/moon.svg';
+                        icon.src = "{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/icons/moon.svg";
                         moon.style.backgroundColor = '#00D094';
                     } else {
-                        icon.src = '{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/icons/sun.svg';
+                        icon.src = "{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/icons/sun.svg";
                         moon.style.backgroundColor = 'white';
                     }
                 });
@@ -671,8 +671,8 @@
                                 	var mainLogo = document.getElementById('main-logo');
 
                                 	// Logo URLs from PHP
-                                	var lightLogoUrl = '{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/logo.png';
-                                	var darkLogoUrl = '{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/logo-dark.png';
+                                	var lightLogoUrl = "{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/logo.png";
+                                	var darkLogoUrl = "{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/logo-dark.png";
 
                                 	// Initial mode from PHP
                                 	var isDarkVersion = true;
@@ -699,7 +699,7 @@
                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                     id="menu-item-826"
                                 >
-                                    <a title="Home" href="#" class="nav-links">Home</a>
+                                    <a title="Home" href="{{route('home')}}" class="nav-links">Home</a>
                                     
                                 </li>
                                 <li
@@ -711,15 +711,15 @@
                                     <a title="Services" href="#" class="nav-links">Services</a>
                                     <ul class="submenu" role="menu">
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823 nav-item">
-                                            <a title="Our Services" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/our-services/index.html" class="dropdown-items">Our Services</a>
+                                            <a title="Our Services" href="{{route('service')}}" class="dropdown-items">Our Services</a>
                                         </li>
                                         <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828 nav-item">
-                                            <a title="Services Details" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/services/strategy-consulting/index.html" class="dropdown-items">Services Details</a>
+                                            <a title="Services Details" href="{{route('serviceDetails')}}" class="dropdown-items">Services Details</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item">
-                                    <a title="About Us" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/about-us/index.html" class="nav-links">About Us</a>
+                                    <a title="About Us" href="{{route('aboutUs')}}" class="nav-links">About Us</a>
                                 </li>
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819 nav-item">
                                     <a title="Contact Us" href="{{route('contactPage')}}" class="nav-links">Contact Us</a>
@@ -749,6 +749,7 @@
         <!-- ===============>> Header section end here <<================= -->
         <!-- main-area -->
         <main class="main-area fix">
+            
             @yield('frontBody')
 
             <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
