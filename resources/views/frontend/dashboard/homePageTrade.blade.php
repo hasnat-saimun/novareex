@@ -1,5 +1,4 @@
 @extends('frontend.dashboard.include') @section('frontBody')
-<!-- main-area -->
 <div data-elementor-type="wp-page" data-elementor-id="1267" class="elementor elementor-1267">
     <div class="elementor-element elementor-element-97c6a74 e-con-full e-flex e-con e-parent" data-id="97c6a74" data-element_type="container">
         <div class="elementor-element elementor-element-c016561 elementor-widget elementor-widget-hero-banner" data-id="c016561" data-element_type="widget" data-widget_type="hero-banner.default">
@@ -10,7 +9,7 @@
                     });
                 </script>
 
-                <section class="banner banner--style4 bg--cover" style="background-image:url({{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/1-3.png)">
+                <section class="banner banner--style4 bg--cover" style="background-image: url({{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/1-3.png);">
                     <div class="container">
                         <div class="banner__wrapper">
                             <div class="row justify-content-center">
@@ -48,7 +47,7 @@
             </div>
         </div>
     </div>
-    <div class="elementor-element elementor-element-36475d9 e-con-full e-flex e-con e-parent px-4" data-id="36475d9" data-element_type="container">
+    <div class="elementor-element elementor-element-36475d9 e-con-full e-flex e-con e-parent" data-id="36475d9" data-element_type="container">
         <div class="elementor-element elementor-element-5b68ec9 elementor-widget elementor-widget-tg-counterups" data-id="5b68ec9" data-element_type="widget" data-widget_type="tg-counterups.default">
             <div class="elementor-widget-container">
                 <script>
@@ -66,36 +65,36 @@
                                     <div class="col-sm-6 col-lg-3">
                                         <div class="counter__item" data-aos="fade-up" data-aos-duration="800">
                                             <div class="counter__item-inner">
-                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/1-1-2.png" alt="Nuvareex" class="dark" />
-                                                <h3><span>0.0</span></h3>
-                                                <p>Pips Spreads*</p>
+                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/1-1-2.png" alt="Bitrader" class="dark" />
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="900">900</span> M+</h3>
+                                                <p>Total Market Value</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-sm-6 col-lg-3">
                                         <div class="counter__item" data-aos="fade-up" data-aos-duration="800">
                                             <div class="counter__item-inner">
-                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/2-1-2.png" alt="Nuvareex" class="dark" />
-                                                <h3><span>1:1000</span></h3>
-                                                <p>Leverage</p>
+                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/2-1-2.png" alt="Bitrader" class="dark" />
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="10">10</span> years</h3>
+                                                <p>Total Market Value</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-sm-6 col-lg-3">
                                         <div class="counter__item" data-aos="fade-up" data-aos-duration="800">
                                             <div class="counter__item-inner">
-                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/3-2.png" alt="Nuvareex" class="dark" />
-                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="2000">2000</span>+</h3>
-                                                <p>Instruments</p>
+                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/3-2.png" alt="Bitrader" class="dark" />
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="80">80</span> +</h3>
+                                                <p>Total Market Value</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-sm-6 col-lg-3">
                                         <div class="counter__item" data-aos="fade-up" data-aos-duration="800">
                                             <div class="counter__item-inner">
-                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/4-2.png" alt="Nuvareex" class="dark" />
-                                                <h3><span>0.01</span></h3>
-                                                <p>Standard Lot</p>
+                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/4-2.png" alt="Bitrader" class="dark" />
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="12">12</span> k+</h3>
+                                                <p>Total Market Value</p>
                                             </div>
                                         </div>
                                     </div>
@@ -104,12 +103,11 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- ===============>> counter end here << ================= -->
             </div>
         </div>
     </div>
-    <div class="elementor-element elementor-element-e64b589 e-con-full e-flex e-con e-parent px-4" data-id="e64b589" data-element_type="container">
+    <div class="elementor-element elementor-element-e64b589 e-con-full e-flex e-con e-parent" data-id="e64b589" data-element_type="container">
         <div class="elementor-element elementor-element-6488ac0 elementor-widget elementor-widget-genix-aboutsection" data-id="6488ac0" data-element_type="widget" data-widget_type="genix-aboutsection.default">
             <div class="elementor-widget-container">
                 <script>
@@ -126,14 +124,25 @@
                                     <div class="about__thumb about__thumb--style4" data-aos="fade-right" data-aos-duration="800">
                                         <div class="about__thumb-inner">
                                             <div class="about__thumb-image text-center floating-content">
-                                                <img decoding="async" class="dark" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/aboutImg.png" alt="Nuvareex" />
+                                                <img decoding="async" class="dark" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/about_img_light-2.png" alt="Bitrader" />
+                                                <div class="floating-content__bottom-left floating-content__bottom-left--style3" data-aos="fade-right" data-aos-duration="1000">
+                                                    <div class="floating-content__item floating-content__item--style4">
+                                                        <div class="floating-content__item-thum">
+                                                            <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/about_author-2.png" width="65" alt="Author" />
+                                                        </div>
+                                                        <div class="floating-content__item-content">
+                                                            <p>Mobarok Hossain</p>
+                                                            <span>Founder &amp; MD</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="about__content" data-aos="fade-left" data-aos-duration="800">
-                                        <h2>Meet<span> With Us</span> Unless Miss The Opportunity</h2>
+                                        <h2>Meet<span> Our Company</span> Unless Miss The Opportunity</h2>
                                         <p class="mb-0">
                                             Hey there! So glad you stopped by to Meet with us. Don't miss out on this opportunity to learn about what we do and the amazing team that makes it all happen! Our company is all about creating
                                             innovative solutions and providing top-notch services to our clients. From start to finish, we're dedicated to delivering results that exceed expectations.
@@ -200,7 +209,7 @@
 </script>
 
     </div>
-    <div class="elementor-element elementor-element-1bca9ce bg-color-7 e-flex e-con-boxed e-con e-parent px-4" data-id="1bca9ce" data-element_type="container" data-settings='{"background_background":"classic"}'>
+    <div class="elementor-element elementor-element-1bca9ce bg-color-7 e-flex e-con-boxed e-con e-parent" data-id="1bca9ce" data-element_type="container" data-settings='{"background_background":"classic"}'>
         <div class="e-con-inner">
             <div class="elementor-element elementor-element-2365fe6 e-flex e-con-boxed e-con e-child" data-id="2365fe6" data-element_type="container">
                 <div class="e-con-inner">
@@ -237,7 +246,7 @@
                                     </div>
                                     <div class="service__content">
                                         <h5 class="mb-15">
-                                            <a class="stretched-link" href="../services/strategy-consulting/index.html">Strategy Consulting</a>
+                                            <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/services/strategy-consulting/index.html">Strategy Consulting</a>
                                         </h5>
                                         <p class="mb-0">A social assistant that's flexible can accommodate your schedule and needs, making life easier.</p>
                                     </div>
@@ -255,7 +264,7 @@
                                     </div>
                                     <div class="service__content">
                                         <h5 class="mb-15">
-                                            <a class="stretched-link" href="../services/financial-advisory/index.html">Financial Advisory</a>
+                                            <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/services/financial-advisory/index.html">Financial Advisory</a>
                                         </h5>
                                         <p class="mb-0">Modules transform smart trading by automating processes and improving decision-making.</p>
                                     </div>
@@ -273,7 +282,7 @@
                                     </div>
                                     <div class="service__content">
                                         <h5 class="mb-15">
-                                            <a class="stretched-link" href="../services/management/index.html">Management</a>
+                                            <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/services/management/index.html">Management</a>
                                         </h5>
                                         <p class="mb-0">There, it's me, your friendly neighborhood reporter's news analyst processes and improving</p>
                                     </div>
@@ -291,7 +300,7 @@
                                     </div>
                                     <div class="service__content">
                                         <h5 class="mb-15">
-                                            <a class="stretched-link" href="#">Social Trading</a>
+                                            <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/services/supply-optimization/index.html">Supply Optimization</a>
                                         </h5>
                                         <p class="mb-0">Hey, have you checked out that new cryptocurrency platform? It's pretty cool and easy to use!</p>
                                     </div>
@@ -309,7 +318,7 @@
                                     </div>
                                     <div class="service__content">
                                         <h5 class="mb-15">
-                                            <a class="stretched-link" href="../services/hr-consulting/index.html">HR consulting</a>
+                                            <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/services/hr-consulting/index.html">HR consulting</a>
                                         </h5>
                                         <p class="mb-0">Hey guys, just a quick update on exchange orders. There have been some changes currency!</p>
                                     </div>
@@ -327,7 +336,7 @@
                                     </div>
                                     <div class="service__content">
                                         <h5 class="mb-15">
-                                            <a class="stretched-link" href="../services/marketing-consulting/index.html">Marketing consulting</a>
+                                            <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/services/marketing-consulting/index.html">Marketing consulting</a>
                                         </h5>
                                         <p class="mb-0">Hey! Just wanted to let you know that the price notification module processes is now live!</p>
                                     </div>
@@ -361,7 +370,7 @@
             </div>
         </div>
     </div>
-    <div class="elementor-element elementor-element-da409ff e-flex e-con-boxed e-con e-parent px-4" data-id="da409ff" data-element_type="container" data-settings='{"background_background":"classic"}'>
+    <div class="elementor-element elementor-element-da409ff e-flex e-con-boxed e-con e-parent" data-id="da409ff" data-element_type="container" data-settings='{"background_background":"classic"}'>
         <div class="e-con-inner">
             <div
                 class="elementor-element elementor-element-9fd7375 elementor-widget__width-auto elementor-absolute left_to_right_move elementor-widget elementor-widget-image"
@@ -585,7 +594,7 @@
             </div>
         </div>
     </div>
-    <div class="elementor-element elementor-element-96fa530 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="96fa530" data-element_type="container">
+    <div class="elementor-element elementor-element-96fa530 bg-color e-flex e-con-boxed e-con e-parent" data-id="96fa530" data-element_type="container">
         <div class="e-con-inner">
             <div class="elementor-element elementor-element-060d2c8 e-flex e-con-boxed e-con e-child" data-id="060d2c8" data-element_type="container">
                 <div class="e-con-inner">
@@ -635,7 +644,7 @@
                                             <div class="team__item-author team__item-author--style1">
                                                 <div class="team__item-authorinfo">
                                                     <h6 class="mb-1">
-                                                        <a class="stretched-link" href="../teams/albert-flores/index.html">Albert Flores</a>
+                                                        <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/teams/albert-flores/index.html">Albert Flores</a>
                                                     </h6>
                                                     <p class="mb-0">
                                                         Management Consultant
@@ -666,7 +675,7 @@
                                             <div class="team__item-author team__item-author--style1">
                                                 <div class="team__item-authorinfo">
                                                     <h6 class="mb-1">
-                                                        <a class="stretched-link" href="../teams/courtney-henry/index.html">Courtney Henry</a>
+                                                        <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/teams/courtney-henry/index.html">Courtney Henry</a>
                                                     </h6>
                                                     <p class="mb-0">
                                                         Strategic Advisor
@@ -697,7 +706,7 @@
                                             <div class="team__item-author team__item-author--style1">
                                                 <div class="team__item-authorinfo">
                                                     <h6 class="mb-1">
-                                                        <a class="stretched-link" href="../teams/theresa-webb/index.html">Theresa Webb</a>
+                                                        <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/teams/theresa-webb/index.html">Theresa Webb</a>
                                                     </h6>
                                                     <p class="mb-0">
                                                         Trade Captain
@@ -728,7 +737,7 @@
                                             <div class="team__item-author team__item-author--style1">
                                                 <div class="team__item-authorinfo">
                                                     <h6 class="mb-1">
-                                                        <a class="stretched-link" href="../teams/dianne-russell/index.html">Dianne Russell</a>
+                                                        <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/teams/dianne-russell/index.html">Dianne Russell</a>
                                                     </h6>
                                                     <p class="mb-0">
                                                         Financial Advisor
@@ -759,7 +768,7 @@
                                             <div class="team__item-author team__item-author--style1">
                                                 <div class="team__item-authorinfo">
                                                     <h6 class="mb-1">
-                                                        <a class="stretched-link" href="../teams/darrell-steward/index.html">Darrell Steward</a>
+                                                        <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/teams/darrell-steward/index.html">Darrell Steward</a>
                                                     </h6>
                                                     <p class="mb-0">
                                                         Management Consultant
@@ -790,7 +799,7 @@
                                             <div class="team__item-author team__item-author--style1">
                                                 <div class="team__item-authorinfo">
                                                     <h6 class="mb-1">
-                                                        <a class="stretched-link" href="../teams/wade-warren/index.html">Wade Warren</a>
+                                                        <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/teams/wade-warren/index.html">Wade Warren</a>
                                                     </h6>
                                                     <p class="mb-0">
                                                         Development Specialist
@@ -821,7 +830,7 @@
                                             <div class="team__item-author team__item-author--style1">
                                                 <div class="team__item-authorinfo">
                                                     <h6 class="mb-1">
-                                                        <a class="stretched-link" href="../teams/cody-fisher/index.html">Cody Fisher</a>
+                                                        <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/teams/cody-fisher/index.html">Cody Fisher</a>
                                                     </h6>
                                                     <p class="mb-0">
                                                         Management Consultant
@@ -852,7 +861,7 @@
                                             <div class="team__item-author team__item-author--style1">
                                                 <div class="team__item-authorinfo">
                                                     <h6 class="mb-1">
-                                                        <a class="stretched-link" href="../teams/bessie-cooper/index.html">Bessie Cooper</a>
+                                                        <a class="stretched-link" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/teams/bessie-cooper/index.html">Bessie Cooper</a>
                                                     </h6>
                                                     <p class="mb-0">
                                                         Strategic Advisor
@@ -871,14 +880,14 @@
                 <div class="elementor-element elementor-element-bb1ff4b elementor-widget elementor-widget-tg-btn" data-id="bb1ff4b" data-element_type="widget" data-widget_type="tg-btn.default">
                     <div class="elementor-widget-container">
                         <div class="myclass1">
-                            <a href="../our-team/index.html" target="_self" rel="nofollow" class="trk-btn trk-btn--border trk-btn--primary"> View more </a>
+                            <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/our-team/index.html" target="_self" rel="nofollow" class="trk-btn trk-btn--border trk-btn--primary"> View more </a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="elementor-element elementor-element-16964fd e-flex e-con-boxed e-con e-parent px-4" data-id="16964fd" data-element_type="container">
+    <div class="elementor-element elementor-element-16964fd e-flex e-con-boxed e-con e-parent" data-id="16964fd" data-element_type="container">
         <div class="e-con-inner">
             <div class="elementor-element elementor-element-8916cca e-con-full e-flex e-con e-child" data-id="8916cca" data-element_type="container">
                 <div class="elementor-element elementor-element-214d737 e-con-full e-flex e-con e-child" data-id="214d737" data-element_type="container">
@@ -971,10 +980,10 @@
                                             </div>
                                             <div class="blog__content">
                                                 <div class="blog__meta">
-                                                    <a href="../category/dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Dividend stocks</a>
+                                                    <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/category/dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Dividend stocks</a>
                                                 </div>
                                                 <h5 class="10">
-                                                    <a href="../online-trading-for-beginners/index.html">Online trading for beginners</a>
+                                                    <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/online-trading-for-beginners/index.html">Online trading for beginners</a>
                                                 </h5>
 
                                                 <p class="mb-15">Lorem ipsum dolor sit amet consectetur. At sed amet viverra etiam elit vivamus ultrices pharetra. Diam augue</p>
@@ -1015,10 +1024,10 @@
                                             </div>
                                             <div class="blog__content">
                                                 <div class="blog__meta">
-                                                    <a href="../category/dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Dividend stocks</a>
+                                                    <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/category/dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Dividend stocks</a>
                                                 </div>
                                                 <h5 class="10">
-                                                    <a href="../options-trading-business/index.html">Options Trading business?</a>
+                                                    <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/options-trading-business/index.html">Options Trading business?</a>
                                                 </h5>
 
                                                 <p class="mb-15">Lorem ipsum dolor sit amet consectetur. At sed amet viverra etiam elit vivamus ultrices pharetra. Diam augue</p>
@@ -1059,10 +1068,10 @@
                                             </div>
                                             <div class="blog__content">
                                                 <div class="blog__meta">
-                                                    <a href="../category/non-dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Non-dividend stocks</a>
+                                                    <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/category/non-dividend-stocks/index.html" class="blog__meta-tag blog__meta-tag--style1">Non-dividend stocks</a>
                                                 </div>
                                                 <h5 class="10">
-                                                    <a href="../advantages-of-day-trading/index.html">Advantages of day trading</a>
+                                                    <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/advantages-of-day-trading/index.html">Advantages of day trading</a>
                                                 </h5>
 
                                                 <p class="mb-15">Lorem ipsum dolor sit amet consectetur. At sed amet viverra etiam elit vivamus ultrices pharetra. Diam augue</p>
@@ -1089,7 +1098,7 @@
                 <div class="elementor-element elementor-element-071885a elementor-widget elementor-widget-tg-btn" data-id="071885a" data-element_type="widget" data-widget_type="tg-btn.default">
                     <div class="elementor-widget-container">
                         <div class="myclass1">
-                            <a href="../blog/index.html" target="_self" rel="nofollow" class="trk-btn trk-btn--border trk-btn--primary"> View more </a>
+                            <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/blog/index.html" target="_self" rel="nofollow" class="trk-btn trk-btn--border trk-btn--primary"> View more </a>
                         </div>
                     </div>
                 </div>
@@ -1111,7 +1120,7 @@
             </div>
         </div>
     </div>
-    <div class="elementor-element elementor-element-ed4ee47 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="ed4ee47" data-element_type="container">
+    <div class="elementor-element elementor-element-ed4ee47 bg-color e-flex e-con-boxed e-con e-parent" data-id="ed4ee47" data-element_type="container">
         <div class="e-con-inner">
             <div class="elementor-element elementor-element-d6e0d80 e-con-full e-flex e-con e-child" data-id="d6e0d80" data-element_type="container">
                 <div class="elementor-element elementor-element-f251bb9 e-con-full e-flex e-con e-child" data-id="f251bb9" data-element_type="container">
@@ -1268,7 +1277,7 @@
             </div>
         </div>
     </div>
-    <div class="elementor-element elementor-element-c6d2a2d e-flex e-con-boxed e-con e-parent px-4" data-id="c6d2a2d" data-element_type="container">
+    <div class="elementor-element elementor-element-c6d2a2d e-flex e-con-boxed e-con e-parent" data-id="c6d2a2d" data-element_type="container">
         <div class="e-con-inner">
             <div
                 class="elementor-element elementor-element-ed540c8 elementor-widget__width-auto elementor-absolute upAndDown_animation elementor-widget elementor-widget-image"
@@ -1414,7 +1423,7 @@
             </div>
         </div>
     </div>
-    <div class="elementor-element elementor-element-96259f1 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="96259f1" data-element_type="container" data-settings='{"background_background":"classic"}'>
+    <div class="elementor-element elementor-element-96259f1 bg-color e-flex e-con-boxed e-con e-parent" data-id="96259f1" data-element_type="container" data-settings='{"background_background":"classic"}'>
         <div class="e-con-inner">
             <div class="elementor-element elementor-element-71c5500 e-flex e-con-boxed e-con e-child" data-id="71c5500" data-element_type="container" data-settings='{"background_background":"classic"}'>
                 <div class="e-con-inner">
@@ -1427,15 +1436,7 @@
                                 data-widget_type="image.default"
                             >
                                 <div class="elementor-widget-container">
-                                    <img
-                                        loading="lazy"
-                                        decoding="async"
-                                        width="244"
-                                        height="235"
-                                        src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/cta-2.png"
-                                        class="attachment-full size-full wp-image-312"
-                                        alt=""
-                                    />
+                                    <img loading="lazy" decoding="async" width="244" height="235" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/cta-2.png" class="attachment-full size-full wp-image-312" alt="" />
                                 </div>
                             </div>
                         </div>
