@@ -8,11 +8,12 @@
                 padding: 2.25rem;color:#fff
             }
         </style>
+        <script src="https://kit.fontawesome.com/7001e2ea29.js" crossorigin="anonymous"></script>
         <header id="sticky-header" class="header-section header-section--style4">
             <div class="header-bottom">
                 <div class="container">
-                    <div class="header-wrapper">
-                        <div class="logo">
+                    <div class="header-wrapper row">
+                        <div class="logo col-6 col-md-2 mx-auto">
                             <script>
                                 document.addEventListener("DOMContentLoaded", function() {
                                 	var toggleVersionButton = document.getElementById('btnSwitch');
@@ -36,11 +37,20 @@
                                 });
                             </script>
 
-                            <a class="secondary-logo" href="#">
-                                <img src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/logo.png" style="max-height: 30px;" alt="Logo" />
+                            <a class="secondary-logo text-center" href="#">
+                                <img src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/logo.png" alt="Logo" class="w-100" />
                             </a>
                         </div>
-                        <div class="menu-area menu--style2">
+
+                        <div class="col-6 mx-auto d-block d-md-none my-4 text-center">
+                            <a href="#" class="btn btn-success">
+                                <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
+                            </a> 
+                            <a href="#" class="btn btn-primary">
+                                <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
+                            </a>
+                        </div>
+                        <div class="menu-area menu--style2 col-12 col-md-6 mx-auto">
                             <ul id="menu-main-menu" class="menu menu">
                                 <li
                                     itemscope="itemscope"
@@ -74,11 +84,14 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="header-action">
+                        <div class="header-action col-12 col-md-4 mx-auto">
                             <div class="menu-area">
-                                <div class="header-btn">
-                                    <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/contact-us" style="background-color: #00d094; border: 1px solid #00d094;" class="trk-btn trk-btn--border trk-btn--primary">
-                                        <span>Join Now</span>
+                                <div class="header-btn d-none d-md-block">
+                                    <a href="#" class="btn btn-success">
+                                        <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
+                                    </a> 
+                                    <a href="#" class="btn btn-primary">
+                                        <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
                                     </a>
                                 </div>
 
