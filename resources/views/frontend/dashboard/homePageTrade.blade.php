@@ -25,14 +25,9 @@
                                         </p>
 
                                         <div class="banner__content-btn btn-group normalbtnh4 justify-content-center">
-                                            <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--primary"> trading now </a>
+                                            <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--primary">Start Trading</a>
 
-                                            <a href="https://www.youtube.com/watch?v=6mkoGSqTqFI" class="playbtn nocolor" data-fslightbox>
-                                                <span class="playbtn__thumb">
-                                                    <i class="fa-solid fa-play"></i>
-                                                </span>
-                                                <span class="playbtn__content"> Watch Video </span>
-                                            </a>
+                                            <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--secondary">Try a free demo</a>
                                         </div>
                                     </div>
                                 </div>
@@ -140,7 +135,7 @@
                                     <div class="about__content" data-aos="fade-left" data-aos-duration="800">
                                         <h2>Meet<span> With Us</span> Unless Miss The Opportunity</h2>
                                         <p class="mb-0">
-                                            Hey there! So glad you stopped by to Meet Our Company. Don't miss out on this opportunity to learn about what we do and the amazing team that makes it all happen! Our company is all about creating
+                                            Hey there! So glad you stopped by to Meet with us. Don't miss out on this opportunity to learn about what we do and the amazing team that makes it all happen! Our company is all about creating
                                             innovative solutions and providing top-notch services to our clients. From start to finish, we're dedicated to delivering results that exceed expectations.
                                         </p>
 
@@ -156,7 +151,54 @@
                     </div>
                 </section>
             </div>
-        </div>
+        </div><script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+
+        <div id="chart" style="width: 100%; height: 500px;"></div>
+
+<script>
+    const chart = LightweightCharts.createChart(document.getElementById('chart'), {
+        width: 800,
+        height: 500,
+        layout: {
+            background: { color: '#ffffff' },
+            textColor: '#000',
+        },
+        grid: {
+            vertLines: { color: '#eee' },
+            horzLines: { color: '#eee' },
+        },
+        priceScale: {
+            borderColor: '#ccc',
+        },
+        timeScale: {
+            borderColor: '#ccc',
+        },
+    });
+
+    const candleSeries = chart.addCandlestickSeries();
+
+    // Sample data
+    candleSeries.setData([
+        { time: '2025-07-17', open: 1.105, high: 1.108, low: 1.103, close: 1.107 },
+        { time: '2025-07-18', open: 1.107, high: 1.110, low: 1.105, close: 1.106 },
+        { time: '2025-07-19', open: 1.106, high: 1.109, low: 1.102, close: 1.104 },
+    ]);
+
+    // Simulate live update
+    setInterval(() => {
+        const lastBar = candleSeries._data[candleSeries._data.length - 1];
+        const newTime = (new Date().getTime() / 1000) | 0;
+        const newBar = {
+            time: newTime,
+            open: lastBar.close,
+            high: lastBar.close + Math.random() * 0.002,
+            low: lastBar.close - Math.random() * 0.002,
+            close: lastBar.close + (Math.random() - 0.5) * 0.004,
+        };
+        candleSeries.update(newBar);
+    }, 3000);
+</script>
+
     </div>
     <div class="elementor-element elementor-element-1bca9ce bg-color-7 e-flex e-con-boxed e-con e-parent px-4" data-id="1bca9ce" data-element_type="container" data-settings='{"background_background":"classic"}'>
         <div class="e-con-inner">
@@ -1359,11 +1401,11 @@
                                     decoding="async"
                                     width="443"
                                     height="370"
-                                    src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/faq-2.png"
-                                    class="attachment-full size-full wp-image-301"
+                                    src="{{ asset('public/') }}/wp-content/uploads/2023/10/faq_2.jpg"
+                                    class="attachment-full size-full wp-image-301 rounded"
                                     alt=""
-                                    srcset="https://bitrader.thetork.com/wp-content/uploads/2023/10/faq-2.png 443w, https://bitrader.thetork.com/wp-content/uploads/2023/10/faq-2-300x251.png 300w"
-                                    sizes="(max-width: 443px) 100vw, 443px"
+                                    srcset="{{ asset('public/') }}/wp-content/uploads/2023/10/faq_2.jpg"
+                                    sizes="(max-width: 550px) 100vw, 550px"
                                 />
                             </div>
                         </div>
