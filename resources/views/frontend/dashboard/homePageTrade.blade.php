@@ -42,6 +42,7 @@
                     return t.every(function (e, t) {
                         return e === a[t];
                     });
+<<<<<<< HEAD
                 }
                 function u(e, t) {
                     e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
@@ -509,6 +510,233 @@
                         $(".hfe-scroll-to-top-wrap").on("click", function () {
                             $("html, body").animate({ scrollTop: 0 }, 300);
                             return !1;
+=======
+                </script>
+
+                <section class="banner banner--style4 bg--cover" style="background-image: url({{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/1-3.png);">
+                    <div class="container">
+                        <div class="banner__wrapper">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10 justify-content-center">
+                                    <div class="banner__content" data-aos="fade-up" data-aos-duration="800">
+                                        <h1>
+                                            Empower Your ultimate Financial Future
+                                        </h1>
+
+                                        <p>
+                                            Explore our comprehensive resources and expert insights to empower your trading journey. Master the art of making decision.
+                                        </p>
+
+                                        <div class="banner__content-btn btn-group normalbtnh4 justify-content-center">
+                                            <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--primary">Start Trading</a>
+
+                                            <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--secondary">Try a free demo</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="banner__shape">
+                        <span class="banner__shape-item banner__shape-item--1">
+                            <img decoding="async" src="#" alt="" />
+                        </span>
+
+                        <span class="banner__shape-item banner__shape-item--5">
+                            <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2025/02/2.png" alt="" />
+                        </span>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+    <div class="elementor-element elementor-element-36475d9 e-con-full e-flex e-con e-parent" data-id="36475d9" data-element_type="container">
+        <div class="elementor-element elementor-element-5b68ec9 elementor-widget elementor-widget-tg-counterups" data-id="5b68ec9" data-element_type="widget" data-widget_type="tg-counterups.default">
+            <div class="elementor-widget-container">
+                <script>
+                    jQuery(document).ready(function ($) {
+                        AOS.init();
+                    });
+                </script>
+
+                <!-- ===============>> counter start here << ================= -->
+                <div class="counter padding-bottom">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <div class="row g-3">
+                                    <div class="col-sm-6 col-lg-3">
+                                        <div class="counter__item" data-aos="fade-up" data-aos-duration="800">
+                                            <div class="counter__item-inner">
+                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/1-1-2.png" alt="Bitrader" class="dark" />
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="900">900</span> M+</h3>
+                                                <p>Total Market Value</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-lg-3">
+                                        <div class="counter__item" data-aos="fade-up" data-aos-duration="800">
+                                            <div class="counter__item-inner">
+                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/2-1-2.png" alt="Bitrader" class="dark" />
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="10">10</span> years</h3>
+                                                <p>Total Market Value</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-lg-3">
+                                        <div class="counter__item" data-aos="fade-up" data-aos-duration="800">
+                                            <div class="counter__item-inner">
+                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/3-2.png" alt="Bitrader" class="dark" />
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="80">80</span> +</h3>
+                                                <p>Total Market Value</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-lg-3">
+                                        <div class="counter__item" data-aos="fade-up" data-aos-duration="800">
+                                            <div class="counter__item-inner">
+                                                <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/4-2.png" alt="Bitrader" class="dark" />
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="12">12</span> k+</h3>
+                                                <p>Total Market Value</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ===============>> counter end here << ================= -->
+            </div>
+        </div>
+    </div>
+    <div class="elementor-element elementor-element-e64b589 e-con-full e-flex e-con e-parent" data-id="e64b589" data-element_type="container">
+        <div class="elementor-element elementor-element-6488ac0 elementor-widget elementor-widget-genix-aboutsection" data-id="6488ac0" data-element_type="widget" data-widget_type="genix-aboutsection.default">
+            <div class="elementor-widget-container">
+                <script>
+                    jQuery(document).ready(function ($) {
+                        AOS.init();
+                    });
+                </script>
+
+                <section class="about about--style3 padding-bottom">
+                    <div class="container">
+                        <div class="about__wrapper">
+                            <div class="row g-4 align-items-center">
+                                <div class="col-md-6">
+                                    <div class="about__thumb about__thumb--style4" data-aos="fade-right" data-aos-duration="800">
+                                        <div class="about__thumb-inner">
+                                            <div class="about__thumb-image text-center floating-content">
+                                                <img decoding="async" class="dark" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/about_img_light-2.png" alt="Bitrader" />
+                                                <div class="floating-content__bottom-left floating-content__bottom-left--style3" data-aos="fade-right" data-aos-duration="1000">
+                                                    <div class="floating-content__item floating-content__item--style4">
+                                                        <div class="floating-content__item-thum">
+                                                            <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/about_author-2.png" width="65" alt="Author" />
+                                                        </div>
+                                                        <div class="floating-content__item-content">
+                                                            <p>Mobarok Hossain</p>
+                                                            <span>Founder &amp; MD</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="about__content" data-aos="fade-left" data-aos-duration="800">
+                                        <h2>Meet<span> Our Company</span> Unless Miss The Opportunity</h2>
+                                        <p class="mb-0">
+                                            Hey there! So glad you stopped by to Meet with us. Don't miss out on this opportunity to learn about what we do and the amazing team that makes it all happen! Our company is all about creating
+                                            innovative solutions and providing top-notch services to our clients. From start to finish, we're dedicated to delivering results that exceed expectations.
+                                        </p>
+
+                                        <div class="about_btnc">
+                                            <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--primary trk-btn--arrow">
+                                                Explore More
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div><script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+
+        <div id="chart" style="width: 100%; height: 500px;"></div>
+
+<script>
+    const chart = LightweightCharts.createChart(document.getElementById('chart'), {
+        width: 800,
+        height: 500,
+        layout: {
+            background: { color: '#ffffff' },
+            textColor: '#000',
+        },
+        grid: {
+            vertLines: { color: '#eee' },
+            horzLines: { color: '#eee' },
+        },
+        priceScale: {
+            borderColor: '#ccc',
+        },
+        timeScale: {
+            borderColor: '#ccc',
+        },
+    });
+
+    const candleSeries = chart.addCandlestickSeries();
+
+    // Sample data
+    candleSeries.setData([
+        { time: '2025-07-17', open: 1.105, high: 1.108, low: 1.103, close: 1.107 },
+        { time: '2025-07-18', open: 1.107, high: 1.110, low: 1.105, close: 1.106 },
+        { time: '2025-07-19', open: 1.106, high: 1.109, low: 1.102, close: 1.104 },
+    ]);
+
+    // Simulate live update
+    setInterval(() => {
+        const lastBar = candleSeries._data[candleSeries._data.length - 1];
+        const newTime = (new Date().getTime() / 1000) | 0;
+        const newBar = {
+            time: newTime,
+            open: lastBar.close,
+            high: lastBar.close + Math.random() * 0.002,
+            low: lastBar.close - Math.random() * 0.002,
+            close: lastBar.close + (Math.random() - 0.5) * 0.004,
+        };
+        candleSeries.update(newBar);
+    }, 3000);
+</script>
+
+    </div>
+    <div class="elementor-element elementor-element-1bca9ce bg-color-7 e-flex e-con-boxed e-con e-parent" data-id="1bca9ce" data-element_type="container" data-settings='{"background_background":"classic"}'>
+        <div class="e-con-inner">
+            <div class="elementor-element elementor-element-2365fe6 e-flex e-con-boxed e-con e-child" data-id="2365fe6" data-element_type="container">
+                <div class="e-con-inner">
+                    <div class="elementor-element elementor-element-09382a6 elementor-widget elementor-widget-tg-heading" data-id="09382a6" data-element_type="widget" data-widget_type="tg-heading.default">
+                        <div class="elementor-widget-container">
+                            <div class="section-title">
+                                <h2 class="title"><span style="color: var(--brand-color);">Services</span> We offer</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-415304d elementor-widget elementor-widget-heading" data-id="415304d" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <p class="elementor-heading-title elementor-size-default">We offer the best services around - from installations to repairs, maintenance, and more!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-f763df7 elementor-widget elementor-widget-tg-servicesBox" data-id="f763df7" data-element_type="widget" data-widget_type="tg-servicesBox.default">
+                <div class="elementor-widget-container">
+                    <script>
+                        jQuery(document).ready(function ($) {
+                            AOS.init();
+>>>>>>> 8cdacfe22b6dcf3b748af3acc3da6102a3ecfdd1
                         });
                 });
             })(jQuery);
@@ -952,6 +1180,7 @@
                             data-widget_type="image.default"
                         >
                             <div class="elementor-widget-container">
+<<<<<<< HEAD
                                 <img decoding="async" width="106" height="106" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/shape01-2.png" class="attachment-full size-full wp-image-238" alt="" />
                             </div>
                         </div>
@@ -964,6 +1193,19 @@
                         >
                             <div class="elementor-widget-container">
                                 <img decoding="async" width="65" height="65" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/cta_shape1-2.png" class="attachment-full size-full wp-image-341" alt="" />
+=======
+                                <img
+                                    loading="lazy"
+                                    decoding="async"
+                                    width="443"
+                                    height="370"
+                                    src="{{ asset('public/') }}/wp-content/uploads/2023/10/faq_2.jpg"
+                                    class="attachment-full size-full wp-image-301 rounded"
+                                    alt=""
+                                    srcset="{{ asset('public/') }}/wp-content/uploads/2023/10/faq_2.jpg"
+                                    sizes="(max-width: 550px) 100vw, 550px"
+                                />
+>>>>>>> 8cdacfe22b6dcf3b748af3acc3da6102a3ecfdd1
                             </div>
                         </div>
                     </div>
