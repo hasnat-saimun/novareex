@@ -448,7 +448,7 @@
                                                     <a data-elementor-open-lightbox="" class="elementor-clickable" href="../index.html">
                                                         <div class="hfe-site-logo-set">
                                                             <div class="hfe-site-logo-container">
-                                                                <img class="hfe-site-logo-img elementor-animation-" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/logo-dark-2.png" alt="logo-dark" />
+                                                                <img class="hfe-site-logo-img elementor-animation-" src="{{ asset('public/') }}/wp-content/uploads/2023/10/logo.png" alt="logo-dark" />
                                                             </div>
                                                         </div>
                                                     </a>
