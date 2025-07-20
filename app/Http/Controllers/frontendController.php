@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class frontendController extends Controller
 {
      public function homePage(){
-        return view('frontend.dashboard.homePage');
+        return view('frontend.dashboard.homePageTrade');
     }
     
      public function contactPage(){
@@ -16,7 +16,7 @@ class frontendController extends Controller
 
     
      public function service(){
-        return view('frontend.dashboard.servicePage');
+        return view('frontend.dashboard.service');
     }
 
 
