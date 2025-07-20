@@ -649,7 +649,7 @@
 
     <body
         class="wp-singular page-template page-template-elementor_header_footer page page-id-1267 wp-embed-responsive wp-theme-bitrader theme-bitrader woocommerce-no-js ehf-footer ehf-template-bitrader ehf-stylesheet-bitrader no-sidebar home-4 elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-1267"
-    >
+        >
         <!-- preloader -->
         <div class="preloader">
             <img src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/preloader.png" alt="Preloader" />
@@ -1106,82 +1106,79 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-10 mx-auto">
-                                <table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;" class="table table-striped table-bordered shadow">
-                                    <thead style="background-color: #222; color: white;">
-                                        <tr class="text-uppercase p-4">
-                                            <th>Features</th>
-                                            <th>Starter</th>
-                                            <th>Standard</th>
-                                            <th>VIP</th>
-                                            <th>Pro‑ECN</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody class="pricing-box">
-                                        <tr class="fw-bold">
-                                            <td><strong>Min Balance</strong></td>
-                                            <td>$100+</td>
-                                            <td>$1,000+</td>
-                                            <td>$10,000+</td>
-                                            <td>$25,000+</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Max Balance</strong></th>
-                                            <td>None</td>
-                                            <td>None</td>
-                                            <td>None</td>
-                                            <td>None</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Spreads From</strong></th>
-                                            <td>2.0 pips+</td>
-                                            <td>1.5 pips+</td>
-                                            <td>1.0 pip+</td>
-                                            <td>0.00–0.08 pips+</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Min Lot Size</strong></th>
-                                            <td>0.01</td>
-                                            <td>0.01</td>
-                                            <td>0.01</td>
-                                            <td>0.01</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Leverage</strong></th>
-                                            <td>1:100–1:500</td>
-                                            <td>1:100–1:500</td>
-                                            <td>1:100–1:500</td>
-                                            <td>1:100–1:500</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Standard Lot Size</strong></th>
-                                            <td>100K</td>
-                                            <td>100K</td>
-                                            <td>100K</td>
-                                            <td>100K</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Account Type</strong></th>
-                                            <td>Individual, Joint, Corporate</td>
-                                            <td>Individual, Joint, Corporate</td>
-                                            <td>Individual, Joint, Corporate</td>
-                                            <td>Individual, Joint, Corporate</td>
-                                        </tr>
-                                        <tr>
-                                            <td></td>
-                                            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-                                            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-                                            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-                                            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
+                        <div class="col-12"><table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;" class="table table-striped table-bordered shadow">
+    <thead style="background-color: #222; color: white;">
+        <tr class="text-uppercase p-4">
+            <th>Features</th>
+            <th>Starter</th>
+            <th>Standard</th>
+            <th>VIP</th>
+            <th>Pro‑ECN</th>
+        </tr>
+    </thead>
+    <tbody class="pricing-box">
+        <tr class="fw-bold">
+            <td><strong>Min Balance</strong></td>
+            <td>$100+</td>
+            <td>$1,000+</td>
+            <td>$10,000+</td>
+            <td>$25,000+</td>
+        </tr>
+        <tr>
+            <th><strong>Max Balance</strong></th>
+            <td>None</td>
+            <td>None</td>
+            <td>None</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <th><strong>Spreads From</strong></th>
+            <td>2.0 pips+</td>
+            <td>1.5 pips+</td>
+            <td>1.0 pip+</td>
+            <td>0.00–0.08 pips+</td>
+        </tr>
+        <tr>
+            <th><strong>Min Lot Size</strong></th>
+            <td>0.01</td>
+            <td>0.01</td>
+            <td>0.01</td>
+            <td>0.01</td>
+        </tr>
+        <tr>
+            <th><strong>Leverage</strong></th>
+            <td>1:100–1:500</td>
+            <td>1:100–1:500</td>
+            <td>1:100–1:500</td>
+            <td>1:100–1:500</td>
+        </tr>
+        <tr>
+            <th><strong>Standard Lot Size</strong></th>
+            <td>100K</td>
+            <td>100K</td>
+            <td>100K</td>
+            <td>100K</td>
+        </tr>
+        <tr>
+            <th><strong>Account Type</strong></th>
+            <td>Individual, Joint, Corporate</td>
+            <td>Individual, Joint, Corporate</td>
+            <td>Individual, Joint, Corporate</td>
+            <td>Individual, Joint, Corporate</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
+            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
+            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
+            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-96fa530 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="96fa530" data-element_type="container">
+                <div class="elementor-element elementor-element-96fa530 bg-color e-flex e-con-boxed e-con e-parent" data-id="96fa530" data-element_type="container">
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-060d2c8 e-flex e-con-boxed e-con e-child" data-id="060d2c8" data-element_type="container">
                             <div class="e-con-inner">
@@ -2298,6 +2295,9 @@
                     </div>
                 </div>
             </footer>
+            
+            <!-- Page cached by LiteSpeed Cache 7.2 on 2025-07-15 23:55:20 -->
+        </main>
 
             <script type="speculationrules">
                 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/bitrader\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
@@ -2617,7 +2617,5 @@
 
             <!-- Mirrored from bitrader.thetork.com/home-four/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Jul 2025 17:11:51 GMT -->
 
-            <!-- Page cached by LiteSpeed Cache 7.2 on 2025-07-15 23:55:20 -->
-        </main>
     </body>
 </html>

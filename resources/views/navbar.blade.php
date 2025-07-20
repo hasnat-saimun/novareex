@@ -36,8 +36,8 @@
                                 });
                             </script>
 
-                            <a class="secondary-logo" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/index.html">
-                                <img src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/secondary_logo.svg" style="max-height: 30px;" alt="Logo" />
+                            <a class="secondary-logo" href="#">
+                                <img src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/logo.png" style="max-height: 30px;" alt="Logo" />
                             </a>
                         </div>
                         <div class="menu-area menu--style2">
