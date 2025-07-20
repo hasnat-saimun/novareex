@@ -1,4 +1,5 @@
 @extends('headerFooter')
+@section('interfaceTitle') Homepage @endsection
 @section('frontendBody')
 
         <link rel="stylesheet" id="contact-form-7-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/contact-form-7/includes/css/styles9b2d.css?ver=6.1" type="text/css" media="all" />

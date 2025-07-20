@@ -50,7 +50,7 @@
                                 <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
                             </a>
                         </div>
-                        <div class="menu-area menu--style2 col-12 col-md-6 mx-auto">
+                        <div class="menu-area menu--style2 col-12 col-md-6 mx-auto text-center">
                             <ul id="menu-main-menu" class="menu menu">
                                 <li
                                     itemscope="itemscope"
@@ -60,21 +60,8 @@
                                     <a title="Home" href="{{route('home')}}" class="nav-links">Home</a>
                                     
                                 </li>
-                                <li
-                                    itemscope="itemscope"
-                                    itemtype="https://www.schema.org/SiteNavigationElement"
-                                    id="menu-item-827"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown has-dropdown menu-item-827 nav-item"
-                                >
-                                    <a title="Services" href="#" class="nav-links">Services</a>
-                                    <ul class="submenu" role="menu">
-                                        <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823 nav-item">
-                                            <a title="Our Services" href="{{route('service')}}" class="dropdown-items">Our Services</a>
-                                        </li>
-                                        <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828 nav-item">
-                                            <a title="Services Details" href="{{route('serviceDetails')}}" class="dropdown-items">Services Details</a>
-                                        </li>
-                                    </ul>
+                                <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item">
+                                    <a title="Services" href="{{route('aboutUs')}}" class="nav-links">Services</a>
                                 </li>
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item">
                                     <a title="About Us" href="{{route('aboutUs')}}" class="nav-links">About Us</a>
