@@ -3,6 +3,10 @@
                 background: #093d47;
                 color: #fff;
             }
+            .darkBg{
+                background:rgba(0,0,0,.8);
+                padding: 2.25rem;color:#fff
+            }
         </style>
         <header id="sticky-header" class="header-section header-section--style4">
             <div class="header-bottom">

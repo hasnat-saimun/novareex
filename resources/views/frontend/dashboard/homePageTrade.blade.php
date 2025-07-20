@@ -514,7 +514,7 @@
         <link rel="stylesheet" id="elementor-gf-local-anektelugu-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/google-fonts/css/anektelugu13c1.css?ver=1743915937" type="text/css" media="all" />
         @verbatim
         <script type="text/template" id="tmpl-variation-template">
-            <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+              <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
             <div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
             <div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
         </script>
@@ -751,7 +751,7 @@
 
                             <!-- ===============>> counter start here << ================= -->
                             <div class="counter padding-bottom">
-                                <div class="container">
+                                <div class="container-fluid">
                                     <div class="row justify-content-center">
                                         <div class="col-md-10">
                                             <div class="row g-3">
@@ -778,7 +778,7 @@
                                                         <div class="counter__item-inner">
                                                             <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/04/3-2.png" alt="Bitrader" class="dark" />
                                                             <h3><span>0.01</span> +</h3>
-                                                            <p>STANDARD LOT TRADING</p>
+                                                            <p>STANDARD LOT</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -826,8 +826,8 @@
                                                 <div class="about__content" data-aos="fade-left" data-aos-duration="800">
                                                     <h2>Meet<span> With Us</span> Unless Miss The Opportunity</h2>
                                                     <p class="mb-0">
-                                                        Hey there! So glad you stopped by to Meet with us. Don't miss out on this opportunity to learn about what we do and the amazing team that makes it all happen! Our company is all
-                                                        about creating innovative solutions and providing top-notch services to our clients. From start to finish, we're dedicated to delivering results that exceed expectations.
+                                                        Hey there! So glad you stopped by to Meet with us. Don't miss out on this opportunity to learn about what we do and the amazing team that makes it all happen! Our company is all about
+                                                        creating innovative solutions and providing top-notch services to our clients. From start to finish, we're dedicated to delivering results that exceed expectations.
                                                     </p>
 
                                                     <div class="about_btnc">
@@ -841,10 +841,93 @@
                                     </div>
                                 </div>
                             </section>
+
+                <section class="raw-chart-sec">
+                    <div class="container py-5">
+                        <div class="card" style="background:url('{{ asset('public/wp-content/uploads/2023/10/') }}/darkSpark2.jpg');background-size: 100%;">
+                            <div class="darkBg">
+                                <div class="row align-items-center">
+                                    <div class="col-5">
+                                        <h4 class="text-white display-5 fw-bold">The Raw Spread Advantage</h4>
+                                        <p style="text-align:justify">Raw Spreads are the difference you have been waiting for. Trade with spreads from 0.0 pips, no requotes, best possible prices and no restrictions. Nuvareex Trading LLC is the multi-asset trading platform of choice for high volume traders, scalpers and robots.</p>
+                                        <a href="#" class="btn btn-success btn-lg">Try a Free Demo</a>
+                                    </div>
+                                    <div class="col-7 mx-auto">
+                                        <!-- TradingView Market Overview Widget BEGIN -->
+                                        <div class="tradingview-widget-container">
+                                            <div class="tradingview-widget-container__widget"></div>
+                                            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+                                            {
+                                                "colorTheme": "light",
+                                                "dateRange": "12M",
+                                                "showChart": false,
+                                                "locale": "en",
+                                                "width": "100%",
+                                                "height": "250",
+                                                "largeChartUrl": "",
+                                                "isTransparent": false,
+                                                "showSymbolLogo": true,
+                                                "plotLineColorGrowing": "rgba(41, 98, 255, 1)",
+                                                "plotLineColorFalling": "rgba(255, 74, 104, 1)",
+                                                "gridLineColor": "rgba(240, 243, 250, 0)",
+                                                "scaleFontColor": "rgba(106, 109, 120, 1)",
+                                                "belowLineFillColorGrowing": "rgba(41, 98, 255, 0.12)",
+                                                "belowLineFillColorFalling": "rgba(255, 74, 104, 0.12)",
+                                                "symbolActiveColor": "rgba(41, 98, 255, 0.12)",
+                                                "tabs": [
+                                                {
+                                                    "title": "Forex",
+                                                    "symbols": [
+                                                    { "s": "FX:EURUSD", "d": "EUR/USD" },
+                                                    { "s": "FX:GBPUSD", "d": "GBP/USD" },
+                                                    { "s": "FX:USDJPY", "d": "USD/JPY" },
+                                                    { "s": "FX:AUDUSD", "d": "AUD/USD" },
+                                                    { "s": "FX:USDCAD", "d": "USD/CAD" }
+                                                    ],
+                                                    "originalTitle": "Forex"
+                                                },
+                                                {
+                                                    "title": "Commodities",
+                                                    "symbols": [
+                                                    { "s": "TVC:GOLD", "d": "Gold" },
+                                                    { "s": "TVC:SILVER", "d": "Silver" },
+                                                    { "s": "TVC:USOIL", "d": "Crude Oil" }
+                                                    ],
+                                                    "originalTitle": "Commodities"
+                                                },
+                                                {
+                                                    "title": "Indices",
+                                                    "symbols": [
+                                                    { "s": "FOREXCOM:SPXUSD", "d": "S&P 500" },
+                                                    { "s": "FOREXCOM:DJI", "d": "Dow Jones" },
+                                                    { "s": "FOREXCOM:NSXUSD", "d": "Nasdaq 100" }
+                                                    ],
+                                                    "originalTitle": "Indices"
+                                                },
+                                                {
+                                                    "title": "Crypto",
+                                                    "symbols": [
+                                                    { "s": "BINANCE:BTCUSDT", "d": "Bitcoin" },
+                                                    { "s": "BINANCE:ETHUSDT", "d": "Ethereum" },
+                                                    { "s": "BINANCE:BNBUSDT", "d": "BNB" }
+                                                    ],
+                                                    "originalTitle": "Cryptocurrencies"
+                                                }
+                                                ]
+                                            }
+                                            </script>
+                                        </div>
+                                        <!-- TradingView Market Overview Widget END -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-1bca9ce bg-color-7 e-flex e-con-boxed e-con e-parent" data-id="1bca9ce" data-element_type="container" data-settings='{"background_background":"classic"}'>
+                <div class="elementor-element elementor-element-1bca9ce bg-color-7 e-flex e-con-boxed e-con e-parent px-4" data-id="1bca9ce" data-element_type="container" data-settings='{"background_background":"classic"}'>
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-2365fe6 e-flex e-con-boxed e-con e-child" data-id="2365fe6" data-element_type="container">
                             <div class="e-con-inner">
@@ -1005,30 +1088,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-da409ff e-flex e-con-boxed e-con e-parent" data-id="da409ff" data-element_type="container" data-settings='{"background_background":"classic"}'>
+                <div class="elementor-element elementor-element-da409ff e-flex e-con-boxed e-con e-parent px-4" data-id="da409ff" data-element_type="container" data-settings='{"background_background":"classic"}'>
                     <div class="e-con-inner">
-                        <div
-                            class="elementor-element elementor-element-9fd7375 elementor-widget__width-auto elementor-absolute left_to_right_move elementor-widget elementor-widget-image"
-                            data-id="9fd7375"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img decoding="async" width="150" height="75" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/pricing_wave-2.png" class="attachment-full size-full wp-image-701" alt="" />
-                            </div>
-                        </div>
-                        <div
-                            class="elementor-element elementor-element-0593c28 elementor-widget__width-auto elementor-absolute upAndDown_animation elementor-widget elementor-widget-image"
-                            data-id="0593c28"
-                            data-element_type="widget"
-                            data-settings='{"_position":"absolute"}'
-                            data-widget_type="image.default"
-                        >
-                            <div class="elementor-widget-container">
-                                <img decoding="async" width="106" height="106" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/shape01-2.png" class="attachment-full size-full wp-image-238" alt="" />
-                            </div>
-                        </div>
                         <div class="elementor-element elementor-element-271bdd7 e-flex e-con-boxed e-con e-child" data-id="271bdd7" data-element_type="container">
                             <div class="e-con-inner">
                                 <div class="elementor-element elementor-element-e706358 elementor-widget elementor-widget-tg-heading" data-id="e706358" data-element_type="widget" data-widget_type="tg-heading.default">
@@ -1045,79 +1106,82 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12"><table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;" class="table table-striped table-bordered shadow">
-    <thead style="background-color: #222; color: white;">
-        <tr class="text-uppercase p-4">
-            <th>Features</th>
-            <th>Starter</th>
-            <th>Standard</th>
-            <th>VIP</th>
-            <th>Pro‑ECN</th>
-        </tr>
-    </thead>
-    <tbody class="pricing-box">
-        <tr class="fw-bold">
-            <td><strong>Min Balance</strong></td>
-            <td>$100+</td>
-            <td>$1,000+</td>
-            <td>$10,000+</td>
-            <td>$25,000+</td>
-        </tr>
-        <tr>
-            <th><strong>Max Balance</strong></th>
-            <td>None</td>
-            <td>None</td>
-            <td>None</td>
-            <td>None</td>
-        </tr>
-        <tr>
-            <th><strong>Spreads From</strong></th>
-            <td>2.0 pips+</td>
-            <td>1.5 pips+</td>
-            <td>1.0 pip+</td>
-            <td>0.00–0.08 pips+</td>
-        </tr>
-        <tr>
-            <th><strong>Min Lot Size</strong></th>
-            <td>0.01</td>
-            <td>0.01</td>
-            <td>0.01</td>
-            <td>0.01</td>
-        </tr>
-        <tr>
-            <th><strong>Leverage</strong></th>
-            <td>1:100–1:500</td>
-            <td>1:100–1:500</td>
-            <td>1:100–1:500</td>
-            <td>1:100–1:500</td>
-        </tr>
-        <tr>
-            <th><strong>Standard Lot Size</strong></th>
-            <td>100K</td>
-            <td>100K</td>
-            <td>100K</td>
-            <td>100K</td>
-        </tr>
-        <tr>
-            <th><strong>Account Type</strong></th>
-            <td>Individual, Joint, Corporate</td>
-            <td>Individual, Joint, Corporate</td>
-            <td>Individual, Joint, Corporate</td>
-            <td>Individual, Joint, Corporate</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-        </tr>
-    </tbody>
-</table>
-</div>
+                        <div class="row">
+                            <div class="col-10 mx-auto">
+                                <table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;" class="table table-striped table-bordered shadow">
+                                    <thead style="background-color: #222; color: white;">
+                                        <tr class="text-uppercase p-4">
+                                            <th>Features</th>
+                                            <th>Starter</th>
+                                            <th>Standard</th>
+                                            <th>VIP</th>
+                                            <th>Pro‑ECN</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="pricing-box">
+                                        <tr class="fw-bold">
+                                            <td><strong>Min Balance</strong></td>
+                                            <td>$100+</td>
+                                            <td>$1,000+</td>
+                                            <td>$10,000+</td>
+                                            <td>$25,000+</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Max Balance</strong></th>
+                                            <td>None</td>
+                                            <td>None</td>
+                                            <td>None</td>
+                                            <td>None</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Spreads From</strong></th>
+                                            <td>2.0 pips+</td>
+                                            <td>1.5 pips+</td>
+                                            <td>1.0 pip+</td>
+                                            <td>0.00–0.08 pips+</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Min Lot Size</strong></th>
+                                            <td>0.01</td>
+                                            <td>0.01</td>
+                                            <td>0.01</td>
+                                            <td>0.01</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Leverage</strong></th>
+                                            <td>1:100–1:500</td>
+                                            <td>1:100–1:500</td>
+                                            <td>1:100–1:500</td>
+                                            <td>1:100–1:500</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Standard Lot Size</strong></th>
+                                            <td>100K</td>
+                                            <td>100K</td>
+                                            <td>100K</td>
+                                            <td>100K</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Account Type</strong></th>
+                                            <td>Individual, Joint, Corporate</td>
+                                            <td>Individual, Joint, Corporate</td>
+                                            <td>Individual, Joint, Corporate</td>
+                                            <td>Individual, Joint, Corporate</td>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
+                                            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
+                                            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
+                                            <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-96fa530 bg-color e-flex e-con-boxed e-con e-parent" data-id="96fa530" data-element_type="container">
+                <div class="elementor-element elementor-element-96fa530 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="96fa530" data-element_type="container">
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-060d2c8 e-flex e-con-boxed e-con e-child" data-id="060d2c8" data-element_type="container">
                             <div class="e-con-inner">
@@ -1282,7 +1346,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-16964fd e-flex e-con-boxed e-con e-parent" data-id="16964fd" data-element_type="container">
+                <div class="elementor-element elementor-element-16964fd e-flex e-con-boxed e-con e-parent px-4" data-id="16964fd" data-element_type="container">
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-8916cca e-con-full e-flex e-con e-child" data-id="8916cca" data-element_type="container">
                             <div class="elementor-element elementor-element-214d737 e-con-full e-flex e-con e-child" data-id="214d737" data-element_type="container">
@@ -1515,7 +1579,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-ed4ee47 bg-color e-flex e-con-boxed e-con e-parent" data-id="ed4ee47" data-element_type="container">
+                <div class="elementor-element elementor-element-ed4ee47 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="ed4ee47" data-element_type="container">
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-d6e0d80 e-con-full e-flex e-con e-child" data-id="d6e0d80" data-element_type="container">
                             <div class="elementor-element elementor-element-f251bb9 e-con-full e-flex e-con e-child" data-id="f251bb9" data-element_type="container">
@@ -1672,7 +1736,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-c6d2a2d e-flex e-con-boxed e-con e-parent" data-id="c6d2a2d" data-element_type="container">
+                <div class="elementor-element elementor-element-c6d2a2d e-flex e-con-boxed e-con e-parent px-4" data-id="c6d2a2d" data-element_type="container">
                     <div class="e-con-inner">
                         <div
                             class="elementor-element elementor-element-ed540c8 elementor-widget__width-auto elementor-absolute upAndDown_animation elementor-widget elementor-widget-image"
@@ -1734,8 +1798,13 @@
                                                         </button>
                                                     </div>
                                                     <div id="faqBody1" class="accordion-collapse collapse" aria-labelledby="faq1" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
+                                                        <div class="accordion__body px-2">
+                                                            <p> Security Risks</p>
+                                                            <p> Lack of Expert Guidance</p>
+                                                            <p> Overtrading and </p>
+                                                            <p> Emotional Decisions</p>
+                                                            <p> Technical Issues</p>
+                                                            <p> Hidden Costs and Fees</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1747,8 +1816,8 @@
                                                         </button>
                                                     </div>
                                                     <div id="faqBody2" class="accordion-collapse collapse" aria-labelledby="faq2" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
+                                                        <div class="accordion__body px-2">
+                                                            <p><span class="fw-bold">Yes, online trading can be safe</span> — but only if proper precautions are taken.It depends on factors like the platform you use, your personal security practices, and awareness of potential risks.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1760,34 +1829,62 @@
                                                         </button>
                                                     </div>
                                                     <div id="faqBody3" class="accordion-collapse collapse" aria-labelledby="faq3" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
+                                                        <div class="accordion__body px-2">
+                                                            <p class="mb-15">Online trading is the process of buying and selling financial assets—like stocks, bonds, commodities, or cryptocurrencies—through internet-based platforms.</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="accordion__item">
                                                     <div class="accordion__header" id="faq4">
                                                         <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody4" aria-expanded="false" aria-controls="faqBody4">
-                                                            <span class="accordion__button-content"> Which app is best for online trading? </span>
+                                                            <span class="accordion__button-content"> Is Nuvareex apps safe for online trading? </span>
                                                             <span class="accordion__button-plusicon"></span>
                                                         </button>
                                                     </div>
                                                     <div id="faqBody4" class="accordion-collapse collapse" aria-labelledby="faq4" data-bs-parent="#faqAccordion1">
                                                         <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
+                                                            <p class="mb-15">Yes, Nuvareex trading apps (such as an accociate of Match-Trader platform) can be safe for online trading — because of they are using through a regulated and reputable broker.</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="accordion__item">
                                                     <div class="accordion__header" id="faq5">
                                                         <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody5" aria-expanded="false" aria-controls="faqBody5">
-                                                            <span class="accordion__button-content"> How to create a trading account? </span>
+                                                            <span class="accordion__button-content"> How does this work? </span>
                                                             <span class="accordion__button-plusicon"></span>
                                                         </button>
                                                     </div>
                                                     <div id="faqBody5" class="accordion-collapse collapse" aria-labelledby="faq5" data-bs-parent="#faqAccordion1">
-                                                        <div class="accordion__body">
-                                                            <p class="mb-15">Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
+                                                        <div class="accordion__body px-2">
+ <div style="margin-bottom: 20px;">
+    <h3 class="h5">1. Open an Account</h3>
+    <p>Choose a trusted online broker or trading app and create an account.</p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <h3 class="h5">2. Deposit Funds</h3>
+    <p>Add money to your account using a bank transfer, card, or digital payment.</p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <h3 class="h5">3. Choose an Asset to Trade</h3>
+    <p>Search for a stock, forex pair, crypto, or commodity you want to trade.</p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <h3 class="h5">4. Place an Order</h3>
+    <p>Decide whether to buy or sell, set the quantity, and choose order type (market, limit, stop-loss, etc.).</p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <h3 class="h5">5. Monitor and Manage Trades</h3>
+    <p>Track your trades in real-time and make decisions based on price changes or market news.</p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <h3 class="h5">6. Withdraw Profits or Reinvest</h3>
+    <p>Sell when you're ready and withdraw funds to your bank account, or reinvest in other assets.</p>
+  </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1803,13 +1900,9 @@
                                             <img
                                                 loading="lazy"
                                                 decoding="async"
-                                                width="443"
-                                                height="370"
-                                                src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/faq-2.png"
-                                                class="attachment-full size-full wp-image-301"
+                                                src="{{ asset('public/') }}/wp-content/uploads/2023/10/faq.jpg"
+                                                class="attachment-full w-100 rounded"
                                                 alt=""
-                                                srcset="https://bitrader.thetork.com/wp-content/uploads/2023/10/faq-2.png 443w, https://bitrader.thetork.com/wp-content/uploads/2023/10/faq-2-300x251.png 300w"
-                                                sizes="(max-width: 443px) 100vw, 443px"
                                             />
                                         </div>
                                     </div>
@@ -1818,7 +1911,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-96259f1 bg-color e-flex e-con-boxed e-con e-parent" data-id="96259f1" data-element_type="container" data-settings='{"background_background":"classic"}'>
+                <div class="elementor-element elementor-element-96259f1 bg-color e-flex e-con-boxed e-con e-parent px-4" data-id="96259f1" data-element_type="container" data-settings='{"background_background":"classic"}'>
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-71c5500 e-flex e-con-boxed e-con e-child" data-id="71c5500" data-element_type="container" data-settings='{"background_background":"classic"}'>
                             <div class="e-con-inner">
@@ -1942,7 +2035,7 @@
             <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
                 <div class="footer-width-fixer">
                     <div data-elementor-type="wp-post" data-elementor-id="367" class="elementor elementor-367">
-                        <div class="elementor-element elementor-element-e7278ee e-flex e-con-boxed e-con e-parent" data-id="e7278ee" data-element_type="container" data-settings='{"background_background":"classic"}'>
+                        <div class="elementor-element elementor-element-e7278ee e-flex e-con-boxed e-con e-parent px-4" data-id="e7278ee" data-element_type="container" data-settings='{"background_background":"classic"}'>
                             <div class="e-con-inner">
                                 <div
                                     class="elementor-element elementor-element-ca3a5d8 elementor-widget__width-inherit elementor-absolute h-100 elementor-widget elementor-widget-bg-shapes"
