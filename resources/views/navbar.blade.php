@@ -1,4 +1,10 @@
-<header id="sticky-header" class="header-section header-section--style4">
+        <style>
+            .pricing-box th{
+                background: #093d47;
+                color: #fff;
+            }
+        </style>
+        <header id="sticky-header" class="header-section header-section--style4">
             <div class="header-bottom">
                 <div class="container">
                     <div class="header-wrapper">
