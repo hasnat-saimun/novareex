@@ -1,14 +1,11 @@
 <!DOCTYPE html>
-<html lang="en-US" data-bs-theme="dark">
-    <!-- Mirrored from bitrader.thetork.com/contact-us/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Jul 2025 17:13:08 GMT -->
-    <!-- Added by HTTrack -->
+<html lang="en-US" data-bs-theme="light">
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <!-- /Added by HTTrack -->
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="profile" href="https://gmpg.org/xfn/11" />
-        <title>Contact Us &#8211; Bitrader</title>
+        <title>Home Four &#8211; Bitrader</title>
         <meta name="robots" content="max-image-preview:large" />
         <style>
             img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -415,190 +412,12 @@
                 line-height: 1.6;
             }
         </style>
-        <link rel="stylesheet" id="contact-form-7-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/contact-form-7/includes/css/styles9b2d.css?ver=6.1" type="text/css" media="all" />
-        <style id="woocommerce-inline-inline-css" type="text/css">
-            .woocommerce form .form-row .required {
-                visibility: visible;
-            }
-        </style>
-        <link rel="stylesheet" id="hfe-style-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementorb2da.css?ver=2.4.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-frontend-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/css/frontend.min415f.css?ver=3.30.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-7-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/css/post-7896b.css?ver=1746510240" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-768-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/css/post-768758c.css?ver=1746618578" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-367-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/css/post-367896b.css?ver=1746510240" type="text/css" media="all" />
-        <link rel="stylesheet" id="slick-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/slick/slick6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="perfect-scrollbar-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/css/perfect-scrollbar.min6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="perfect-scrollbar-wpc-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/css/custom-theme6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="magnific-popup-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/magnific-popup6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosq-feather-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/feather/feather6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosq-icons-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/css/iconsae82.css?ver=4.2.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosq-frontend-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/css/frontendae82.css?ver=4.2.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosw-icons-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-wishlist/assets/css/icons972f.css?ver=5.0.1" type="text/css" media="all" />
-        <link rel="stylesheet" id="woosw-frontend-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-wishlist/assets/css/frontend972f.css?ver=5.0.1" type="text/css" media="all" />
-        <style id="woosw-frontend-inline-css" type="text/css">
-            .woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-bot .woosw-notice {
-                background-color: #5fbd74;
-            }
-            .woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-bot .woosw-popup-content-bot-inner a:hover {
-                color: #5fbd74;
-                border-color: #5fbd74;
-            }
-        </style>
-        <link rel="stylesheet" id="brands-styles-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/css/brandsdaac.css?ver=9.9.5" type="text/css" media="all" />
-        <link rel="stylesheet" id="bitrader-custom-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/css/bitrader-custom6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <style id="bitrader-custom-inline-css" type="text/css">
-            html:root {
-                --brand-color: #00d094;
-                --secondary-color: #0a4fd5;
-                --title-color: #0c263a;
-                --text-color: #6b777f;
-                --wh-color: #ffffff;
-            }
-            html:root[data-bs-theme="dark"],
-            [data-bs-theme="dark"] {
-                --brand-color: #00d094;
-                --secondary-color: #00d094;
-                --title-color: #ffffff;
-                --text-color: rgba(255, 255, 255, 0.6);
-                --wh-color: #1b2d29;
-            }
-        </style>
-        <link rel="stylesheet" id="bitrader-fonts-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/css/bitrader-fonts6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="bootstrap-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/css/bootstrap.min6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="font-awesome-pro-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/css/font-awesome-pro6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="font-awesome-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="swiper-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5" type="text/css" media="all" />
-        <link rel="stylesheet" id="aos-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/css/aos6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="nice-select-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/css/nice-select6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="bitrader-core-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/css/bitrader-core6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="woocommerce-core-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/css/woocommerce6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="bitrader-style-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/style6c2d.css?ver=6.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-elementor-icons-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min705c.css?ver=5.34.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-icons-list-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/css/widget-icon-list.min44b4.css?ver=3.24.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-social-icons-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/css/widget-social-icons.min2401.css?ver=3.24.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-social-share-icons-brands-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-social-share-icons-fontawesome-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="hfe-nav-menu-icons-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-gf-local-roboto-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/google-fonts/css/roboto258f.css?ver=1743915932" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-gf-local-robotoslab-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/google-fonts/css/robotoslab1877.css?ver=1743915934" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-gf-local-opensans-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/google-fonts/css/opensans13c1.css?ver=1743915937" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-gf-local-anektelugu-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/elementor/google-fonts/css/anektelugu13c1.css?ver=1743915937" type="text/css" media="all" />
-        @verbatim
-        <script type="text/template" id="tmpl-variation-template">
-            <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
-            <div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
-            <div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
-        </script>
-        @endverbatim
-
-        <script type="text/template" id="tmpl-unavailable-variation-template">
-            <p role="alert">Sorry, this product is unavailable. Please choose a different combination.</p>
-        </script>
-        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
-        <script type="text/javascript" id="jquery-js-after">
-            /* <![CDATA[ */
-            !(function ($) {
-                "use strict";
-                $(document).ready(function () {
-                    $(this).scrollTop() > 100 && $(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),
-                        $(window).scroll(function () {
-                            $(this).scrollTop() < 100 ? $(".hfe-scroll-to-top-wrap").fadeOut(300) : $(".hfe-scroll-to-top-wrap").fadeIn(300);
-                        }),
-                        $(".hfe-scroll-to-top-wrap").on("click", function () {
-                            $("html, body").animate({ scrollTop: 0 }, 300);
-                            return !1;
-                        });
-                });
-            })(jQuery);
-            !(function ($) {
-                "use strict";
-                $(document).ready(function () {
-                    var bar = $(".hfe-reading-progress-bar");
-                    if (!bar.length) return;
-                    $(window).on("scroll", function () {
-                        var s = $(window).scrollTop(),
-                            d = $(document).height() - $(window).height(),
-                            p = d ? (s / d) * 100 : 0;
-                        bar.css("width", p + "%");
-                    });
-                });
-            })(jQuery);
-            /* ]]> */
-        </script>
-        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min86fd.js?ver=2.7.0-wc.9.9.5" id="jquery-blockui-js" data-wp-strategy="defer"></script>
-        <script type="text/javascript" id="wc-add-to-cart-js-extra">
-            /* <![CDATA[ */
-            var wc_add_to_cart_params = {
-                ajax_url: "\/wp-admin\/admin-ajax.php",
-                wc_ajax_url: "\/?wc-ajax=%%endpoint%%",
-                i18n_view_cart: "View cart",
-                cart_url: "https:\/\/bitrader.thetork.com\/cart\/",
-                is_cart: "",
-                cart_redirect_after_add: "no",
-            };
-            /* ]]> */
-        </script>
-        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mindaac.js?ver=9.9.5" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
-        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min0333.js?ver=2.1.4-wc.9.9.5" id="js-cookie-js" data-wp-strategy="defer"></script>
-        <script type="text/javascript" id="woocommerce-js-extra">
-            /* <![CDATA[ */
-            var woocommerce_params = { ajax_url: "\/wp-admin\/admin-ajax.php", wc_ajax_url: "\/?wc-ajax=%%endpoint%%", i18n_password_show: "Show password", i18n_password_hide: "Hide password" };
-            /* ]]> */
-        </script>
-        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.mindaac.js?ver=9.9.5" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
-        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/underscore.min3ab8.js?ver=1.13.7" id="underscore-js"></script>
-        <script type="text/javascript" id="wp-util-js-extra">
-            /* <![CDATA[ */
-            var _wpUtilSettings = { ajax: { url: "\/wp-admin\/admin-ajax.php" } };
-            /* ]]> */
-        </script>
-        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/wp-util.min6c2d.js?ver=6.8.2" id="wp-util-js"></script>
-        <link rel="https://api.w.org/" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/index.html" />
-        <link rel="alternate" title="JSON" type="application/json" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/wp/v2/pages/768.json" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
-        <meta name="generator" content="WordPress 6.8.2" />
-        <meta name="generator" content="WooCommerce 9.9.5" />
-        <link rel="canonical" href="index.html" />
-        <link rel="shortlink" href="../indexb916.html?p=768" />
-        <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/oembed/1.0/embed7cb8.json?url=https%3A%2F%2Fbitrader.thetork.com%2Fcontact-us%2F" />
-        <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/oembed/1.0/embed9b05?url=https%3A%2F%2Fbitrader.thetork.com%2Fcontact-us%2F&amp;format=xml" />
-        <noscript>
-            <style>
-                .woocommerce-product-gallery {
-                    opacity: 1 !important;
-                }
-            </style>
-        </noscript>
-        <meta name="generator" content="Elementor 3.30.0; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap" />
-        <style>
-            .e-con.e-parent:nth-of-type(n + 4):not(.e-lazyloaded):not(.e-no-lazyload),
-            .e-con.e-parent:nth-of-type(n + 4):not(.e-lazyloaded):not(.e-no-lazyload) * {
-                background-image: none !important;
-            }
-            @media screen and (max-height: 1024px) {
-                .e-con.e-parent:nth-of-type(n + 3):not(.e-lazyloaded):not(.e-no-lazyload),
-                .e-con.e-parent:nth-of-type(n + 3):not(.e-lazyloaded):not(.e-no-lazyload) * {
-                    background-image: none !important;
-                }
-            }
-            @media screen and (max-height: 640px) {
-                .e-con.e-parent:nth-of-type(n + 2):not(.e-lazyloaded):not(.e-no-lazyload),
-                .e-con.e-parent:nth-of-type(n + 2):not(.e-lazyloaded):not(.e-no-lazyload) * {
-                    background-image: none !important;
-                }
-            }
-        </style>
-        <link rel="icon" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/favicon-2-150x150.png" sizes="32x32" />
-        <link rel="icon" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/favicon-2.png" sizes="192x192" />
-        <link rel="apple-touch-icon" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/favicon-2.png" />
-        <meta name="msapplication-TileImage" content="https://bitrader.thetork.com/wp-content/uploads/2023/10/favicon-2.png" />
-        <style id="kirki-inline-styles"></style>
+        @yield('link')
     </head>
 
     <body
-        class="wp-singular page-template page-template-elementor_header_footer page page-id-768 wp-embed-responsive wp-theme-bitrader theme-bitrader woocommerce-no-js ehf-footer ehf-template-bitrader ehf-stylesheet-bitrader no-sidebar elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-768"
-    >
+        class="wp-singular page-template page-template-elementor_header_footer page page-id-1267 wp-embed-responsive wp-theme-bitrader theme-bitrader woocommerce-no-js ehf-footer ehf-template-bitrader ehf-stylesheet-bitrader no-sidebar home-4 elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-1267"
+        >
         <!-- preloader -->
         <div class="preloader">
             <img src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/preloader.png" alt="Preloader" />
@@ -636,233 +455,8 @@
         <!-- ===============>> Header section end here <<================= -->
         <!-- main-area -->
         <main class="main-area fix">
-            <!-- breadcrumb-area -->
-            <section class="breadcrumb-area bg--cover" style="background-image: url({{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/06/breadcrumb_bg-1.png);">
-                <div class="container">
-                    <div class="breadcrumb-area__content">
-                        <h2 class="mt-5">Contact Us</h2>
-                        <nav aria-label="breadcrumb" class="breadcrumb">
-                            <!-- Breadcrumb NavXT 7.4.1 -->
-                            <span property="itemListElement" typeof="ListItem">
-                                <a property="item" typeof="WebPage" title="Go to Bitrader." href="../index.html" class="home"><span property="name">Bitrader</span></a><meta property="position" content="1" />
-                            </span>
-                            &gt;
-                            <span property="itemListElement" typeof="ListItem">
-                                <span property="name" class="post post-page current-item">Contact Us</span><meta property="url" content="https://bitrader.thetork.com/contact-us/" /><meta property="position" content="2" />
-                            </span>
-                        </nav>
-                    </div>
-                    <div class="breadcrumb-area__shape">
-                        <span class="breadcrumb-area__shape-item breadcrumb-area__shape-item--1">
-                            <img src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/bg/breadcrumb_shape.png" alt="Image" />
-                        </span>
-                    </div>
-                </div>
-            </section>
-            <!-- breadcrumb-area-end -->
-
-            <div data-elementor-type="wp-page" data-elementor-id="768" class="elementor elementor-768">
-                <div class="elementor-element elementor-element-2f8ab56 e-con-full e-flex e-con e-parent" data-id="2f8ab56" data-element_type="container">
-                    <div class="elementor-element elementor-element-abe41c9 elementor-widget elementor-widget-tg-contact" data-id="abe41c9" data-element_type="widget" data-widget_type="tg-contact.default">
-                        <div class="elementor-widget-container">
-                            <script>
-                                jQuery(document).ready(function ($) {
-                                    AOS.init();
-                                });
-                            </script>
-
-                            <div class="contact padding-top padding-bottom tg-section">
-                                <div class="container">
-                                    <div class="contact__wrapper">
-                                        <div class="row g-5">
-                                            <div class="col-md-5">
-                                                <div class="contact__info" data-aos="fade-right" data-aos-duration="1000">
-                                                    <div class="contact__social">
-                                                        <h3 class="title">Let’s <span>get in touch</span> With Us</h3>
-
-                                                        <ul class="social">
-                                                            <li class="social__item">
-                                                                <a href="#" class="social__link social__link--style4">
-                                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook-f" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
-                                                                        <path
-                                                                            d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"
-                                                                        ></path>
-                                                                    </svg>
-                                                                </a>
-                                                            </li>
-                                                            <li class="social__item">
-                                                                <a href="#" class="social__link social__link--style4">
-                                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-                                                                        <path
-                                                                            d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"
-                                                                        ></path>
-                                                                    </svg>
-                                                                </a>
-                                                            </li>
-                                                            <li class="social__item">
-                                                                <a href="#" class="social__link social__link--style4">
-                                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin-in" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-                                                                        <path
-                                                                            d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"
-                                                                        ></path>
-                                                                    </svg>
-                                                                </a>
-                                                            </li>
-                                                            <li class="social__item">
-                                                                <a href="#" class="social__link social__link--style4">
-                                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg">
-                                                                        <path
-                                                                            d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"
-                                                                        ></path>
-                                                                    </svg>
-                                                                </a>
-                                                            </li>
-                                                            <li class="social__item">
-                                                                <a href="#" class="social__link social__link--style4">
-                                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                                        <path
-                                                                            d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"
-                                                                        ></path>
-                                                                    </svg>
-                                                                </a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="contact__details">
-                                                        <div class="contact__item" data-aos="fade-right" data-aos-duration="1000">
-                                                            <div class="contact__item-inner">
-                                                                <div class="contact__item-thumb">
-                                                                    <span>
-                                                                        <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/phone.png" width="24" alt="Icon" />
-                                                                    </span>
-                                                                </div>
-                                                                <div class="contact__item-content">
-                                                                    <p>0917749254</p>
-                                                                    <p>0983888611</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="contact__item" data-aos="fade-right" data-aos-duration="1000">
-                                                            <div class="contact__item-inner">
-                                                                <div class="contact__item-thumb">
-                                                                    <span>
-                                                                        <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/envelope.png" width="24" alt="Icon" />
-                                                                    </span>
-                                                                </div>
-                                                                <div class="contact__item-content">
-                                                                    <p>Bitrader@gmail.com</p>
-                                                                    <p>hello@gmail.com</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="contact__item" data-aos="fade-right" data-aos-duration="1000">
-                                                            <div class="contact__item-inner">
-                                                                <div class="contact__item-thumb">
-                                                                    <span>
-                                                                        <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/marker.png" width="24" alt="Icon" />
-                                                                    </span>
-                                                                </div>
-                                                                <div class="contact__item-content">
-                                                                    <p>88 Sheridan Street</p>
-                                                                    <p>534 Victoria Trail</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-md-7">
-                                                <div class="wpcf7 no-js" id="wpcf7-f870-p768-o1" lang="en-US" dir="ltr" data-wpcf7-id="870">
-                                                    <div class="screen-reader-response">
-                                                        <p role="status" aria-live="polite" aria-atomic="true"></p>
-                                                        <ul></ul>
-                                                    </div>
-                                                    <form action="https://bitrader.thetork.com/contact-us/#wpcf7-f870-p768-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-                                                        <fieldset class="hidden-fields-container">
-                                                            <input type="hidden" name="_wpcf7" value="870" /><input type="hidden" name="_wpcf7_version" value="6.1" /><input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                                            <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f870-p768-o1" /><input type="hidden" name="_wpcf7_container_post" value="768" />
-                                                            <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                                                        </fieldset>
-                                                        <div class="contact__form">
-                                                            <div class="row g-4">
-                                                                <div class="col-12">
-                                                                    <div>
-                                                                        <label for="name" class="form-label">Name</label>
-                                                                        <span class="wpcf7-form-control-wrap" data-name="your-name">
-                                                                            <input
-                                                                                size="40"
-                                                                                maxlength="400"
-                                                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-                                                                                id="name"
-                                                                                aria-required="true"
-                                                                                aria-invalid="false"
-                                                                                placeholder="Full Name"
-                                                                                value=""
-                                                                                type="text"
-                                                                                name="your-name"
-                                                                            />
-                                                                        </span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-12">
-                                                                    <div>
-                                                                        <label for="email" class="form-label">Email</label>
-                                                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                                            <input
-                                                                                size="40"
-                                                                                maxlength="400"
-                                                                                class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control"
-                                                                                id="email"
-                                                                                aria-required="true"
-                                                                                aria-invalid="false"
-                                                                                placeholder="Email here"
-                                                                                value=""
-                                                                                type="email"
-                                                                                name="your-email"
-                                                                            />
-                                                                        </span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-12">
-                                                                    <div>
-                                                                        <label for="textarea" class="form-label">Message</label>
-                                                                        <span class="wpcf7-form-control-wrap" data-name="your-message">
-                                                                            <textarea
-                                                                                cols="40"
-                                                                                rows="10"
-                                                                                maxlength="2000"
-                                                                                class="wpcf7-form-control wpcf7-textarea form-control"
-                                                                                id="textarea"
-                                                                                aria-invalid="false"
-                                                                                placeholder="Enter Your Message"
-                                                                                name="your-message"
-                                                                            ></textarea>
-                                                                        </span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <button type="submit" class="trk-btn trk-btn--border trk-btn--primary mt-4 d-block">contact us now</button>
-                                                        </div>
-                                                        <div class="wpcf7-response-output" aria-hidden="true"></div>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="contact__shape">
-                                    <span class="contact__shape-item contact__shape-item--1">
-                                        <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/pricing_wave.png" width="70" alt="Icon" />
-                                    </span>
-                                    <span class="contact__shape-item contact__shape-item--2"> <span></span> </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
+           @yield('part')
+           
             <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
                 <div class="footer-width-fixer">
                     <div data-elementor-type="wp-post" data-elementor-id="367" class="elementor elementor-367">
@@ -914,12 +508,28 @@
                                         <div class="elementor-element elementor-element-b5d045a e-grid e-con-full e-con e-child" data-id="b5d045a" data-element_type="container">
                                             <div class="elementor-element elementor-element-7554086 elementor-widget elementor-widget-image" data-id="7554086" data-element_type="widget" data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
-                                                    <a href="#"> <img width="100" height="36" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/App-store-3.png" class="attachment-full size-full wp-image-1200" alt="" /> </a>
+                                                    <a href="#">
+                                                        <img
+                                                            width="100"
+                                                            height="36"
+                                                            src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/App-store-3.png"
+                                                            class="attachment-full size-full wp-image-1200"
+                                                            alt=""
+                                                        />
+                                                    </a>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-596b301 elementor-widget elementor-widget-image" data-id="596b301" data-element_type="widget" data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
-                                                    <a href="#"> <img width="100" height="36" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/Google-play-store-2.png" class="attachment-full size-full wp-image-1201" alt="" /> </a>
+                                                    <a href="#">
+                                                        <img
+                                                            width="100"
+                                                            height="36"
+                                                            src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/Google-play-store-2.png"
+                                                            class="attachment-full size-full wp-image-1201"
+                                                            alt=""
+                                                        />
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -939,7 +549,7 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="#">
+                                                        <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/about-us/index.html">
                                                             <span class="elementor-icon-list-text">About Us</span>
                                                         </a>
                                                     </li>
@@ -949,7 +559,7 @@
                                                         </a>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="../our-services/index.html">
+                                                        <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/our-services/index.html">
                                                             <span class="elementor-icon-list-text">Services</span>
                                                         </a>
                                                     </li>
@@ -1113,9 +723,27 @@
                     </div>
                 </div>
             </footer>
+            
+            <!-- Page cached by LiteSpeed Cache 7.2 on 2025-07-15 23:55:20 -->
+        </main>
 
             <script type="speculationrules">
                 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/bitrader\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+            </script>
+            <script>
+                (function () {
+                    function maybePrefixUrlField() {
+                        const value = this.value.trim();
+                        if (value !== "" && value.indexOf("http") !== 0) {
+                            this.value = "http://" + value;
+                        }
+                    }
+
+                    const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+                    for (let j = 0; j < urlFields.length; j++) {
+                        urlFields[j].addEventListener("blur", maybePrefixUrlField);
+                    }
+                })();
             </script>
             <div id="woosw_wishlist" class="woosw-popup woosw-popup-center"></div>
             <script type="text/javascript">
@@ -1198,8 +826,6 @@
                 })();
             </script>
             <link rel="stylesheet" id="wc-blocks-style-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks392f.css?ver=wc-9.9.5" type="text/css" media="all" />
-            <link rel="stylesheet" id="widget-heading-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/css/widget-heading.min415f.css?ver=3.30.0" type="text/css" media="all" />
-            <link rel="stylesheet" id="widget-image-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/css/widget-image.min415f.css?ver=3.30.0" type="text/css" media="all" />
             <link rel="stylesheet" id="widget-icon-list-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/css/widget-icon-list.min415f.css?ver=3.30.0" type="text/css" media="all" />
             <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
             <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
@@ -1222,6 +848,79 @@
             </script>
             <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/contact-form-7/includes/js/index9b2d.js?ver=6.1" id="contact-form-7-js"></script>
             <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/bitrader-core/assets/js/hello-world6c2d.js?ver=6.8.2" id="genixcore-js"></script>
+            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/js/webpack.runtime.min415f.js?ver=3.30.0" id="elementor-webpack-runtime-js"></script>
+            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/js/frontend-modules.min415f.js?ver=3.30.0" id="elementor-frontend-modules-js"></script>
+            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+            <script type="text/javascript" id="elementor-frontend-js-before">
+                /* <![CDATA[ */
+                var elementorFrontendConfig = {
+                    environmentMode: { edit: false, wpPreview: false, isScriptDebug: false },
+                    i18n: {
+                        shareOnFacebook: "Share on Facebook",
+                        shareOnTwitter: "Share on Twitter",
+                        pinIt: "Pin it",
+                        download: "Download",
+                        downloadImage: "Download image",
+                        fullscreen: "Fullscreen",
+                        zoom: "Zoom",
+                        share: "Share",
+                        playVideo: "Play Video",
+                        previous: "Previous",
+                        next: "Next",
+                        close: "Close",
+                        a11yCarouselPrevSlideMessage: "Previous slide",
+                        a11yCarouselNextSlideMessage: "Next slide",
+                        a11yCarouselFirstSlideMessage: "This is the first slide",
+                        a11yCarouselLastSlideMessage: "This is the last slide",
+                        a11yCarouselPaginationBulletMessage: "Go to slide",
+                    },
+                    is_rtl: false,
+                    breakpoints: { xs: 0, sm: 480, md: 768, lg: 1025, xl: 1440, xxl: 1600 },
+                    responsive: {
+                        breakpoints: {
+                            mobile: { label: "Mobile Portrait", value: 767, default_value: 767, direction: "max", is_enabled: true },
+                            mobile_extra: { label: "Mobile Landscape", value: 880, default_value: 880, direction: "max", is_enabled: false },
+                            tablet: { label: "Tablet Portrait", value: 1024, default_value: 1024, direction: "max", is_enabled: true },
+                            tablet_extra: { label: "Tablet Landscape", value: 1200, default_value: 1200, direction: "max", is_enabled: false },
+                            laptop: { label: "Laptop", value: 1366, default_value: 1366, direction: "max", is_enabled: false },
+                            widescreen: { label: "Widescreen", value: 2400, default_value: 2400, direction: "min", is_enabled: false },
+                        },
+                        hasCustomBreakpoints: false,
+                    },
+                    version: "3.30.0",
+                    is_static: false,
+                    experimentalFeatures: {
+                        e_font_icon_svg: true,
+                        additional_custom_breakpoints: true,
+                        container: true,
+                        "nested-elements": true,
+                        home_screen: true,
+                        global_classes_should_enforce_capabilities: true,
+                        "cloud-library": true,
+                        e_opt_in_v4_page: true,
+                    },
+                    urls: {
+                        assets: "https:\/\/bitrader.thetork.com\/wp-content\/plugins\/elementor\/assets\/",
+                        ajaxurl: "https:\/\/bitrader.thetork.com\/wp-admin\/admin-ajax.php",
+                        uploadUrl: "https:\/\/bitrader.thetork.com\/wp-content\/uploads",
+                    },
+                    nonces: { floatingButtonsClickTracking: "4024613c6f" },
+                    swiperClass: "swiper",
+                    settings: { page: [], editorPreferences: [] },
+                    kit: {
+                        active_breakpoints: ["viewport_mobile", "viewport_tablet"],
+                        lightbox_enable_counter: "yes",
+                        lightbox_enable_fullscreen: "yes",
+                        lightbox_enable_zoom: "yes",
+                        lightbox_enable_share: "yes",
+                        lightbox_title_src: "title",
+                        lightbox_description_src: "description",
+                    },
+                    post: { id: 1267, title: "Home%20Four%20%E2%80%93%20Bitrader", excerpt: "", featuredImage: false },
+                };
+                /* ]]> */
+            </script>
+            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/js/frontend.min415f.js?ver=3.30.0" id="elementor-frontend-js"></script>
             <script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
                 /* <![CDATA[ */
                 var wc_add_to_cart_variation_params = {
@@ -1233,10 +932,23 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.mindaac.js?ver=9.9.5" id="wc-add-to-cart-variation-js" data-wp-strategy="defer"></script>
+            <script
+                type="text/javascript"
+                src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.mindaac.js?ver=9.9.5"
+                id="wc-add-to-cart-variation-js"
+                data-wp-strategy="defer"
+            ></script>
             <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/slick/slick.minae82.js?ver=4.2.0" id="slick-js"></script>
-            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.minae82.js?ver=4.2.0" id="perfect-scrollbar-js"></script>
-            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/jquery.magnific-popup.minae82.js?ver=4.2.0" id="magnific-popup-js"></script>
+            <script
+                type="text/javascript"
+                src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.minae82.js?ver=4.2.0"
+                id="perfect-scrollbar-js"
+            ></script>
+            <script
+                type="text/javascript"
+                src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/jquery.magnific-popup.minae82.js?ver=4.2.0"
+                id="magnific-popup-js"
+            ></script>
             <script type="text/javascript" id="woosq-frontend-js-extra">
                 /* <![CDATA[ */
                 var woosq_vars = {
@@ -1329,83 +1041,9 @@
                 /* ]]> */
             </script>
             <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.mindaac.js?ver=9.9.5" id="wc-order-attribution-js"></script>
-            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/js/webpack.runtime.min415f.js?ver=3.30.0" id="elementor-webpack-runtime-js"></script>
-            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/js/frontend-modules.min415f.js?ver=3.30.0" id="elementor-frontend-modules-js"></script>
-            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-            <script type="text/javascript" id="elementor-frontend-js-before">
-                /* <![CDATA[ */
-                var elementorFrontendConfig = {
-                    environmentMode: { edit: false, wpPreview: false, isScriptDebug: false },
-                    i18n: {
-                        shareOnFacebook: "Share on Facebook",
-                        shareOnTwitter: "Share on Twitter",
-                        pinIt: "Pin it",
-                        download: "Download",
-                        downloadImage: "Download image",
-                        fullscreen: "Fullscreen",
-                        zoom: "Zoom",
-                        share: "Share",
-                        playVideo: "Play Video",
-                        previous: "Previous",
-                        next: "Next",
-                        close: "Close",
-                        a11yCarouselPrevSlideMessage: "Previous slide",
-                        a11yCarouselNextSlideMessage: "Next slide",
-                        a11yCarouselFirstSlideMessage: "This is the first slide",
-                        a11yCarouselLastSlideMessage: "This is the last slide",
-                        a11yCarouselPaginationBulletMessage: "Go to slide",
-                    },
-                    is_rtl: false,
-                    breakpoints: { xs: 0, sm: 480, md: 768, lg: 1025, xl: 1440, xxl: 1600 },
-                    responsive: {
-                        breakpoints: {
-                            mobile: { label: "Mobile Portrait", value: 767, default_value: 767, direction: "max", is_enabled: true },
-                            mobile_extra: { label: "Mobile Landscape", value: 880, default_value: 880, direction: "max", is_enabled: false },
-                            tablet: { label: "Tablet Portrait", value: 1024, default_value: 1024, direction: "max", is_enabled: true },
-                            tablet_extra: { label: "Tablet Landscape", value: 1200, default_value: 1200, direction: "max", is_enabled: false },
-                            laptop: { label: "Laptop", value: 1366, default_value: 1366, direction: "max", is_enabled: false },
-                            widescreen: { label: "Widescreen", value: 2400, default_value: 2400, direction: "min", is_enabled: false },
-                        },
-                        hasCustomBreakpoints: false,
-                    },
-                    version: "3.30.0",
-                    is_static: false,
-                    experimentalFeatures: {
-                        e_font_icon_svg: true,
-                        additional_custom_breakpoints: true,
-                        container: true,
-                        "nested-elements": true,
-                        home_screen: true,
-                        global_classes_should_enforce_capabilities: true,
-                        "cloud-library": true,
-                        e_opt_in_v4_page: true,
-                    },
-                    urls: {
-                        assets: "https:\/\/bitrader.thetork.com\/wp-content\/plugins\/elementor\/assets\/",
-                        ajaxurl: "https:\/\/bitrader.thetork.com\/wp-admin\/admin-ajax.php",
-                        uploadUrl: "https:\/\/bitrader.thetork.com\/wp-content\/uploads",
-                    },
-                    nonces: { floatingButtonsClickTracking: "4024613c6f" },
-                    swiperClass: "swiper",
-                    settings: { page: [], editorPreferences: [] },
-                    kit: {
-                        active_breakpoints: ["viewport_mobile", "viewport_tablet"],
-                        lightbox_enable_counter: "yes",
-                        lightbox_enable_fullscreen: "yes",
-                        lightbox_enable_zoom: "yes",
-                        lightbox_enable_share: "yes",
-                        lightbox_title_src: "title",
-                        lightbox_description_src: "description",
-                    },
-                    post: { id: 768, title: "Contact%20Us%20%E2%80%93%20Bitrader", excerpt: "", featuredImage: false },
-                };
-                /* ]]> */
-            </script>
-            <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/elementor/assets/js/frontend.min415f.js?ver=3.30.0" id="elementor-frontend-js"></script>
+            <script type="text/javascript" defer src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/mailchimp-for-wp/assets/js/forms00f2.js?ver=4.10.5" id="mc4wp-forms-api-js"></script>
 
-            <!-- Mirrored from bitrader.thetork.com/contact-us/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Jul 2025 17:13:13 GMT -->
+            <!-- Mirrored from bitrader.thetork.com/home-four/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Jul 2025 17:11:51 GMT -->
 
-            <!-- Page cached by LiteSpeed Cache 7.2 on 2025-07-15 22:09:51 -->
-        </main>
     </body>
 </html>
