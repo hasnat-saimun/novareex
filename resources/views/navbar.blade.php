@@ -7,13 +7,18 @@
                 background:rgba(0,0,0,.8);
                 padding: 2.25rem;color:#fff
             }
+            @media screen and (max-width: 640px) {
+                .banner__content,.breadcrumb-area__content{
+                    padding-top: 4.5rem;
+                }
+            }
         </style>
         <script src="https://kit.fontawesome.com/7001e2ea29.js" crossorigin="anonymous"></script>
         <header id="sticky-header" class="header-section header-section--style4">
             <div class="header-bottom">
                 <div class="container">
                     <div class="header-wrapper row">
-                        <div class="logo col-6 col-md-2 mx-auto">
+                        <div class="logo col-6 col-md-2 col-lg-2 mx-auto">
                             <script>
                                 document.addEventListener("DOMContentLoaded", function() {
                                 	var toggleVersionButton = document.getElementById('btnSwitch');
@@ -50,7 +55,7 @@
                                 <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
                             </a>
                         </div>
-                        <div class="menu-area menu--style2 col-12 col-md-6 mx-auto text-center">
+                        <div class="menu-area menu--style2 col-12 col-md- col-lg-7 mx-auto text-center">
                             <ul id="menu-main-menu" class="menu menu">
                                 <li
                                     itemscope="itemscope"
@@ -71,7 +76,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="header-action col-12 col-md-4 mx-auto">
+                        <div class="header-action col-12 col-md-5 col-lg-3 mx-auto">
                             <div class="menu-area">
                                 <div class="header-btn d-none d-md-block">
                                     <a href="#" class="btn btn-success">

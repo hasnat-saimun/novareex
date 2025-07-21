@@ -316,16 +316,6 @@
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="banner__shape">
-                                    <span class="banner__shape-item banner__shape-item--1">
-                                        <img decoding="async" src="#" alt="" />
-                                    </span>
-
-                                    <span class="banner__shape-item banner__shape-item--5">
-                                        <img decoding="async" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2025/02/2.png" alt="" />
-                                    </span>
-                                </div>
                             </section>
                         </div>
                     </div>
@@ -440,7 +430,7 @@
                                     <div class="col-12 col-md-5">
                                         <h4 class="text-white display-5 fw-bold">The Raw Spread Advantage</h4>
                                         <p style="text-align:justify">Raw Spreads are the difference you have been waiting for. Trade with spreads from 0.0 pips, no requotes, best possible prices and no restrictions. Nuvareex Trading LLC is the multi-asset trading platform of choice for high volume traders, scalpers and robots.</p>
-                                        <a href="#" class="btn btn-success btn-lg">Try a Free Demo</a>
+                                        <a href="#" class="btn btn-success btn-lg mb-md-0 mb-4">Try a Free Demo</a>
                                     </div>
                                     <div class="col-12 col-md-7 mx-auto">
                                         <!-- TradingView Market Overview Widget BEGIN -->
@@ -696,7 +686,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12"><table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;" class="table table-striped table-bordered shadow">
+                        <div class="col-12 table-responsive"><table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;" class="table table-striped table-bordered shadow">
     <thead style="background-color: #222; color: white;">
         <tr class="text-uppercase p-4">
             <th>Features</th>
@@ -756,7 +746,14 @@
             <td>Individual, Joint, Corporate</td>
             <td>Individual, Joint, Corporate</td>
         </tr>
-        <tr>
+        <tr class="d-md-none">
+            <td></td>
+            <td><a href="#" class="btn btn-warning btn-sm">Get Now</a></td>
+            <td><a href="#" class="btn btn-warning btn-sm">Get Now</a></td>
+            <td><a href="#" class="btn btn-warning btn-sm">Get Now</a></td>
+            <td><a href="#" class="btn btn-warning btn-sm">Get Now</a></td>
+        </tr>
+        <tr class="d-none">
             <td></td>
             <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
             <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
