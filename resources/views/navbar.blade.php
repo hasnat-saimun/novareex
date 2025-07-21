@@ -18,7 +18,7 @@
             <div class="header-bottom">
                 <div class="container">
                     <div class="header-wrapper row">
-                        <div class="logo col-6 col-md-2 col-lg-2 mx-auto">
+                        <div class="logo col-10 col-md-2 col-lg-2 mx-auto">
                             <script>
                                 document.addEventListener("DOMContentLoaded", function() {
                                 	var toggleVersionButton = document.getElementById('btnSwitch');
