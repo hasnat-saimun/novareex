@@ -9,7 +9,7 @@
             }
             @media screen and (max-width: 640px) {
                 .banner__content,.breadcrumb-area__content{
-                    padding-top: 4.5rem;
+                    padding-top: 5.5rem;
                 }
             }
         </style>
