@@ -25,7 +25,7 @@ class frontendController extends Controller
     }
 
      public function aboutUs(){
-        return view('frontend.dashboard.aboutUs');
+        return view('frontend.dashboard.aboutus');
     }
 
 }
