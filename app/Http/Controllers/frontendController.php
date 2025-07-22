@@ -24,8 +24,16 @@ class frontendController extends Controller
         return view('frontend.dashboard.serviceDetails');
     }
 
-     public function aboutUs(){
+    public function aboutUs(){
         return view('frontend.dashboard.aboutus');
+    }
+
+    public function termsCondition(){
+        return view('frontend.dashboard.termsPage');
+    }
+
+    public function privacyPolicy(){
+        return view('frontend.dashboard.privacyPolicy');
     }
 
 }

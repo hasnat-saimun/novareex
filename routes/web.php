@@ -34,4 +34,14 @@ Route::get('/about-us',[
     'aboutUs'
 ])->name('aboutUs');
 
+Route::get('/terms-of-service',[
+    frontendController::class,
+    'termsCondition'
+])->name('termsCondition');
+
+Route::get('/privacy-policy',[
+    frontendController::class,
+    'privacyPolicy'
+])->name('privacyPolicy');
+
 

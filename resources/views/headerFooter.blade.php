@@ -544,12 +544,12 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="#">
+                                                        <a href="{{ route('termsCondition') }}">
                                                             <span class="elementor-icon-list-text">Terms & Conditions</span>
                                                         </a>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="#">
+                                                        <a href="{{ route('privacyPolicy') }}">
                                                             <span class="elementor-icon-list-text">Privacy Policy</span>
                                                         </a>
                                                     </li>
@@ -609,7 +609,7 @@
                                 <div class="elementor-element elementor-element-39c3f15 e-con-full e-flex e-con e-child" data-id="39c3f15" data-element_type="container">
                                     <div class="elementor-element elementor-element-c35f4f8 elementor-widget elementor-widget-heading" data-id="c35f4f8" data-element_type="widget" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <p class="elementor-heading-title elementor-size-default">© 2024 All Rights Reserved By Thetork</p>
+                                            <p class="elementor-heading-title elementor-size-default">© {{ date('Y') }} All Rights Reserved By Nuvareex</p>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-9b0d4fd elementor-widget elementor-widget-sociallist" data-id="9b0d4fd" data-element_type="widget" data-widget_type="sociallist.default">
