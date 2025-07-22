@@ -55,7 +55,7 @@
                                 <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
                             </a>
                         </div>
-                        <div class="menu-area menu--style2 col-12 col-md- col-lg-7 mx-auto text-center">
+                        <div class="menu-area menu--style2 col-12 col-md- col-lg-6 mx-auto text-center">
                             <ul id="menu-main-menu" class="menu menu">
                                 <li
                                     itemscope="itemscope"
@@ -76,7 +76,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="header-action col-12 col-md-5 col-lg-3 mx-auto">
+                        <div class="header-action col-12 col-md-5 col-lg-4 mx-auto">
                             <div class="menu-area">
                                 <div class="header-btn d-none d-md-block">
                                     <a href="#" class="btn btn-success">
