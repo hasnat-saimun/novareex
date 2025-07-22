@@ -49,7 +49,7 @@
 
                         <div class="col-6 mx-auto d-block d-md-none my-4 text-center">
                             <a href="#" class="btn btn-success">
-                                <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
+                                <span><i class="fa-solid fa-chart-mixed-up-circle-dollar fa-fade"></i> Platform Access</span>
                             </a> 
                             <a href="#" class="btn btn-warning">
                                 <span><i class="fa-solid fa-users-viewfinder"></i> Portal Area</span>
