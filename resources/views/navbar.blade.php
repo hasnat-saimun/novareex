@@ -83,7 +83,7 @@
                                         <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
                                     </a> 
                                     <a href="#" class="btn btn-primary">
-                                        <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
+                                        <span><i class="fa-solid fa-users-viewfinder"></i> Portal Area</span>
                                     </a>
                                 </div>
 
