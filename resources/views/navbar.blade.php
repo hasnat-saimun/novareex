@@ -13,7 +13,7 @@
                 }
             }
         </style>
-        <script src="https://kit.fontawesome.com/7001e2ea29.js" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/07e4249aa4.js" crossorigin="anonymous"></script>
         <header id="sticky-header" class="header-section header-section--style4">
             <div class="header-bottom">
                 <div class="container">
