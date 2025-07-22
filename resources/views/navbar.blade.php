@@ -13,7 +13,7 @@
                 }
             }
         </style>
-        <script src="https://kit.fontawesome.com/07e4249aa4.js" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/7001e2ea29.js" crossorigin="anonymous"></script>
         <header id="sticky-header" class="header-section header-section--style4">
             <div class="header-bottom">
                 <div class="container">
@@ -83,7 +83,7 @@
                                         <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
                                     </a> 
                                     <a href="#" class="btn btn-primary">
-                                        <span><i class="fa-light fa-users-viewfinder"></i> Portal Area</span>
+                                        <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
                                     </a>
                                 </div>
 
