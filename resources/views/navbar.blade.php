@@ -48,7 +48,7 @@
                         </div>
 
                         <div class="col-6 mx-auto d-block d-md-none my-4 text-center">
-                            <a href="https://www.facebook.com" class="btn btn-success">
+                            <a href="#" class="btn btn-success">
                                 <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
                             </a> 
                             <a href="#" class="btn btn-primary">
@@ -79,7 +79,7 @@
                         <div class="header-action col-12 col-md-5 col-lg-4 mx-auto">
                             <div class="menu-area">
                                 <div class="header-btn d-none d-md-block">
-                                    <a href="https://www.facebook.com" class="btn btn-success">
+                                    <a href="#" class="btn btn-success">
                                         <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
                                     </a> 
                                     <a href="#" class="btn btn-primary">
