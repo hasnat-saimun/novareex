@@ -54,6 +54,13 @@
                             <a class="secondary-logo text-center" href="#">
                                 <img src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/themes/bitrader/assets/img/logo/logo.png" alt="Logo" class="w-100" />
                             </a>
+
+                                <!-- toggle icons -->
+                                <div class="header-bar d-lg-none header-bar--style2">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
                         </div>
 
                         <div class="col-6 mx-auto d-block d-md-none my-4 text-center">
@@ -94,13 +101,6 @@
                                     <a href="#" class="btn btn-warning">
                                         <span class="fw-bold"><i class="fa-solid fa-users-viewfinder"></i> Portal Area</span>
                                     </a>
-                                </div>
-
-                                <!-- toggle icons -->
-                                <div class="header-bar d-lg-none header-bar--style2">
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
                                 </div>
                             </div>
                         </div>
