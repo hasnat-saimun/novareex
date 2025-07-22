@@ -7,6 +7,12 @@
                 background:rgba(0,0,0,.8);
                 padding: 2.25rem;color:#fff
             }
+            .text-pink{
+                color: #db87b1ff;
+            }
+            .text-golden{
+                color: #C29B0C;
+            }
             @media screen and (max-width: 640px) {
                 .banner__content,.breadcrumb-area__content{
                     padding-top: 5.5rem;
@@ -48,14 +54,14 @@
                         </div>
 
                         <div class="col-6 mx-auto d-block d-md-none my-4 text-center">
-                            <a href="#" class="btn btn-success">
-                                <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
+                            <a href="#" class="btn btn-light">
+                                <span class="text-golden"><i class="fa-solid fa-chart-mixed-up-circle-dollar fa-fade"></i> Platform Access</span>
                             </a> 
-                            <a href="#" class="btn btn-primary">
-                                <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
+                            <a href="#" class="btn btn-warning">
+                                <span><i class="fa-solid fa-users-viewfinder"></i> Portal Area</span>
                             </a>
                         </div>
-                        <div class="menu-area menu--style2 col-12 col-md- col-lg-7 mx-auto text-center">
+                        <div class="menu-area menu--style2 col-12 col-md- col-lg-6 mx-auto text-center">
                             <ul id="menu-main-menu" class="menu menu">
                                 <li
                                     itemscope="itemscope"
@@ -76,14 +82,14 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="header-action col-12 col-md-5 col-lg-3 mx-auto">
+                        <div class="header-action col-12 col-md-5 col-lg-4 mx-auto"> 
                             <div class="menu-area">
                                 <div class="header-btn d-none d-md-block">
-                                    <a href="#" class="btn btn-success">
-                                        <span><i class="fa-light fa-chart-network"></i> Platform Access</span>
+                                    <a href="#" class="btn btn-light">
+                                        <span class="text-golden"><i class="fa-light fa-chart-network"></i> Platform Access</span>
                                     </a> 
-                                    <a href="#" class="btn btn-primary">
-                                        <span><i class="fa-solid fa-users-rays"></i> Portal Area</span>
+                                    <a href="#" class="btn btn-warning">
+                                        <span><i class="fa-solid fa-users-viewfinder"></i> Portal Area</span>
                                     </a>
                                 </div>
 
