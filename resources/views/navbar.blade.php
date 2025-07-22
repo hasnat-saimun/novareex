@@ -82,7 +82,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="header-action col-12 col-md-5 col-lg-4 mx-auto">
+                        <div class="header-action col-12 col-md-5 col-lg-4 mx-auto">  
                             <div class="menu-area">
                                 <div class="header-btn d-none d-md-block">
                                     <a href="#" class="btn btn-light">
