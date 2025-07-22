@@ -58,7 +58,7 @@
 
                         <div class="col-6 mx-auto d-block d-md-none my-4 text-center">
                             <a href="#" class="btn btn-light">
-                                <span class="text-violet"><i class="fa-solid fa-chart-mixed-up-circle-dollar"></i> Platform Access</span>
+                                <span class="text-violet"><i class="fa-light fa-chart-mixed-up-circle-dollar"></i> Platform Access</span>
                             </a> 
                             <a href="#" class="btn btn-warning">
                                 <span><i class="fa-solid fa-users-viewfinder"></i> Portal Area</span>
