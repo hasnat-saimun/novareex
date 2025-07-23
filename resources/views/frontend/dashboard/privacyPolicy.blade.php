@@ -301,7 +301,7 @@
                             <p>If you have questions or comments about this Privacy Policy, please contact us:</p>
                             <ul>
                                 <li><strong>Company Name:</strong> Nuvareex Trading LLC</li>
-                                <li><strong>License No:</strong> 20251782288</li>
+                                <li><strong>License No:</strong> 4243LLC2025</li>
                                 <li><strong>Registered in:</strong> St. Vincent & the Grenadines</li>
                                 <li><strong>Email:</strong> <a href="mailto:nuvareextrading@gmail.com">nuvareextrading@gmail.com</a></li>
                                 <li><strong>Phone:</strong> +971566238304</li>

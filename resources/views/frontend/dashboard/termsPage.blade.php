@@ -267,7 +267,7 @@
                             <ul>
                                 <li><strong>Company Name:</strong> Nuvareex Trading LLC</li>
                                 <li><strong>Incorporated In:</strong> St. Vincent & the Grenadines (SVG)</li>
-                                <li><strong>License Number:</strong> 20251782288</li>
+                                <li><strong>License Number:</strong> 4243LLC2025</li>
                                 <li><strong>Registered Address:</strong> St. Vincent & Grenadines</li>
                                 <li><strong>Email:</strong> <a href="mailto:nuvareextrading@gmail.com">nuvareextrading@gmail.com</a></li>
                                 <li><strong>Mobile:</strong> +971566238304</li>

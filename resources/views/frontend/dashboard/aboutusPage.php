@@ -1,5 +1,5 @@
 @extends('headerFooter')
-@section('interfaceTitle') Meet Nuvareex – Leading Forex Brokerage Company @endsection
+@section('interfaceTitle') About Us @endsection
 @section('frontendBody')
         <link rel="stylesheet" id="contact-form-7-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/contact-form-7/includes/css/styles9b2d.css?ver=6.1" type="text/css" media="all" />
         <style id="woocommerce-inline-inline-css" type="text/css">
@@ -229,15 +229,15 @@
             <section class="breadcrumb-area bg--cover" style="background-image: url({{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2024/06/breadcrumb_bg-1.png);">
                 <div class="container">
                     <div class="breadcrumb-area__content">
-                        <h2 class="mt-5">About Us</h2>
+                        <h2 class="mt-5">Terms & Condition</h2>
                         <nav aria-label="breadcrumb" class="breadcrumb">
                             <!-- Breadcrumb NavXT 7.4.1 -->
                             <span property="itemListElement" typeof="ListItem">
-                                <a property="item" typeof="WebPage" title="Go to Bitrader." href="../index.html" class="home"><span property="name">Bitrader</span></a><meta property="position" content="1" />
+                                <a property="item" typeof="WebPage" title="Go to Bitrader." href="../index.html" class="home"><span property="name">Nuvareex</span></a><meta property="position" content="1" />
                             </span>
                             &gt;
                             <span property="itemListElement" typeof="ListItem">
-                                <span property="name" class="post post-page current-item">About Us</span><meta property="url" content="https://bitrader.thetork.com/about-us/" /><meta property="position" content="2" />
+                                <span property="name" class="post post-page current-item">Terms & Condition</span><meta property="url" content="https://bitrader.thetork.com/about-us/" /><meta property="position" content="2" />
                             </span>
                         </nav>
                     </div>
@@ -250,12 +250,46 @@
             </section>
             <!-- breadcrumb-area-end -->
 
-
             <div data-elementor-type="wp-page" data-elementor-id="740" class="elementor elementor-740">
                 <div class="elementor-element elementor-element-9fa932b e-flex e-con-boxed e-con e-parent" data-id="9fa932b" data-element_type="container" data-settings='{"background_background":"classic"}'>
+                    <div class="e-con-inner">
+                        <div class="container py-5">
+                            <h1 class="mb-4">About Nuvareex Trading LLC</h1>
+
+                            <p><strong>Nuvareex Trading LLC</strong> is a licensed and internationally operated Forex trading company, incorporated under the laws of <strong>St. Vincent & the Grenadines</strong>. Our company is officially registered with the <strong>Financial Services Authority (FSA)</strong> under license number <strong>20251782288</strong>, reflecting our commitment to transparency, regulatory compliance, and global best practices.</p>
+
+                            <p>Headquartered at:<br>
+                            <strong>St. Vincent & the Grenadines</strong>,<br>
+                            Nuvareex is dedicated to providing clients with a secure, technology-driven, and user-friendly trading environment. Our mission is to enable <strong>“Secure Capital, Confident Trading”</strong> — offering every trader the tools and confidence they need to succeed in global markets.</p>
+
+                            <h3 class="mt-4">What We Offer</h3>
+                            <ul>
+                                <li>Forex (Major & Minor Currency Pairs)</li>
+                                <li>Commodities (Gold, Silver, Oil, etc.)</li>
+                                <li>Indices & CFDs</li>
+                                <li>Cryptocurrencies</li>
+                            </ul>
+
+                            <p>With a focus on advanced trading infrastructure, ultra-low spreads, and fast execution, Nuvareex Trading LLC serves both retail and institutional traders around the world. Our expert team combines deep financial knowledge with the latest in trading technology to deliver a seamless and powerful trading experience.</p>
+
+                            <h3 class="mt-4">Company Information</h3>
+                            <ul>
+                                <li><strong>Company Name:</strong> Nuvareex Trading LLC</li>
+                                <li><strong>License No.:</strong> 20251782288</li>
+                                <li><strong>Incorporated In:</strong> St. Vincent & the Grenadines</li>
+                                <li><strong>Email:</strong> <a href="mailto:nuvareextrading@gmail.com">nuvareextrading@gmail.com</a></li>
+                                <li><strong>Mobile:</strong> +971566238304</li>
+                            </ul>
+
+                            <p>Whether you are a beginner exploring Forex or a seasoned investor managing complex strategies, <strong>Nuvareex Trading LLC</strong> is your trusted partner in the ever-evolving world of financial markets.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div data-elementor-type="wp-page" data-elementor-id="740" class="elementor elementor-740">
                 <div class="elementor-element elementor-element-f1ccdc3 e-flex e-con-boxed e-con e-parent" data-id="f1ccdc3" data-element_type="container">
                     <div class="e-con-inner">
-                            <h1 class="mb-4">About Nuvareex Trading LLC</h1>
                         <div class="elementor-element elementor-element-85e65a5 elementor-widget elementor-widget-tg-video" data-id="85e65a5" data-element_type="widget" data-widget_type="tg-video.default">
                             <div class="elementor-widget-container">
                                 <script>
@@ -279,40 +313,6 @@
                         </div>
                     </div>
                 </div>
-                    <div class="e-con-inner">
-                        <div class="container">
-                            <p><strong>Nuvareex Trading LLC</strong> is a licensed and internationally operated Forex trading company, incorporated under the laws of <strong>St. Vincent & the Grenadines</strong>. Our company is officially registered with the <strong>Financial Services Authority (FSA)</strong> under license number <strong>4243LLC2025</strong>, reflecting our commitment to transparency, regulatory compliance, and global best practices.</p>
-
-                            <p>Headquartered at:<br>
-                            <strong>St. Vincent & the Grenadines</strong>,<br>
-                            Nuvareex is dedicated to providing clients with a secure, technology-driven, and user-friendly trading environment. Our mission is to enable <strong>“Secure Capital, Confident Trading”</strong> — offering every trader the tools and confidence they need to succeed in global markets.</p>
-
-                            <h3 class="mt-4">What We Offer</h3>
-                            <ul>
-                                <li>Forex (Major & Minor Currency Pairs)</li>
-                                <li>Commodities (Gold, Silver, Oil, etc.)</li>
-                                <li>Indices & CFDs</li>
-                                <li>Cryptocurrencies</li>
-                            </ul>
-
-                            <p>With a focus on advanced trading infrastructure, ultra-low spreads, and fast execution, Nuvareex Trading LLC serves both retail and institutional traders around the world. Our expert team combines deep financial knowledge with the latest in trading technology to deliver a seamless and powerful trading experience.</p>
-
-                            <h3 class="mt-4">Company Information</h3>
-                            <ul>
-                                <li><strong>Company Name:</strong> Nuvareex Trading LLC</li>
-                                <li><strong>License No.:</strong> 4243LLC2025</li>
-                                <li><strong>Incorporated In:</strong> St. Vincent & the Grenadines</li>
-                                <li><strong>Email:</strong> <a href="mailto:nuvareextrading@gmail.com">nuvareextrading@gmail.com</a></li>
-                                <li><strong>Mobile:</strong> +971566238304</li>
-                            </ul>
-
-                            <p>Whether you are a beginner exploring Forex or a seasoned investor managing complex strategies, <strong>Nuvareex Trading LLC</strong> is your trusted partner in the ever-evolving world of financial markets.</p>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div data-elementor-type="wp-page" data-elementor-id="740" class="elementor elementor-740">
                 <div class="elementor-element elementor-element-4b1b29d e-flex e-con-boxed e-con e-parent" data-id="4b1b29d" data-element_type="container">
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-915456f e-con-full e-flex e-con e-child" data-id="915456f" data-element_type="container">
@@ -405,13 +405,13 @@
                                 <div class="elementor-element elementor-element-41b6071 elementor-widget elementor-widget-tg-heading" data-id="41b6071" data-element_type="widget" data-widget_type="tg-heading.default">
                                     <div class="elementor-widget-container">
                                         <div class="section-title">
-                                            <h2 class="title">Feature <span>Product</span></h2>
+                                            <h2 class="title">Product <span>Roadmap</span></h2>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-2963104 elementor-widget elementor-widget-heading" data-id="2963104" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <p class="elementor-heading-title elementor-size-default">Stay ahead with our selected featured assets, offering high liquidity, tight spreads, and powerful trading opportunities</p>
+                                        <p class="elementor-heading-title elementor-size-default">A product roadmap shows the path ahead, helps teams plan, and guides the delivery of the product.</p>
                                     </div>
                                 </div>
                             </div>
@@ -432,41 +432,12 @@
                                                     <div class="roadmap__item-inner">
                                                         <div class="roadmap__item-content">
                                                             <div class="roadmap__item-header">
-                                                                <h3>4 Types of Account</h3>
-                                                                <span>Trading</span>
+                                                                <h3>Project Research</h3>
+                                                                <span>P1</span>
                                                             </div>
                                                             <p>
-                                                                We are offering 4 types of account for our expert traders. Here are the account types
-                                                                <ol class="list-group list-group-numbered border-0 ">
-                                                                    <li class="list-group-item d-flex justify-content-between align-items-start bg-transparent border-0">
-                                                                        <div class="ms-2 me-auto">
-                                                                        <div class="fw-bold">STANDARD</div>
-                                                                        Start from 100$
-                                                                        </div>
-                                                                        <span class="badge text-bg-primary rounded-pill">2.0 Pips</span>
-                                                                    </li>
-                                                                    <li class="list-group-item d-flex justify-content-between align-items-start bg-transparent border-0">
-                                                                        <div class="ms-2 me-auto">
-                                                                        <div class="fw-bold">PREMIUM</div>
-                                                                        Min balance $1k to $9.99k
-                                                                        </div>
-                                                                        <span class="badge text-bg-primary rounded-pill">1.5 Pips</span>
-                                                                    </li>
-                                                                    <li class="list-group-item d-flex justify-content-between align-items-start bg-transparent border-0">
-                                                                        <div class="ms-2 me-auto">
-                                                                        <div class="fw-bold">VIP</div>
-                                                                        Start from $10k to $25k
-                                                                        </div>
-                                                                        <span class="badge text-bg-primary rounded-pill">1.0 Pips</span>
-                                                                    </li>
-                                                                    <li class="list-group-item d-flex justify-content-between align-items-start bg-transparent border-0">
-                                                                        <div class="ms-2 me-auto">
-                                                                        <div class="fw-bold">PRO-ECN</div>
-                                                                        Start from $25k to unlimited
-                                                                        </div>
-                                                                        <span class="badge text-bg-primary rounded-pill">0.0 to 0.8 Pips</span>
-                                                                    </li>
-                                                                </ol>
+                                                                Project research is the backbone of any successful project. It involves gathering information, setting objectives, and analyzing data to ensure the project is achievable.
+                                                                Without proper research, projects can fail due to lack of knowledge.
                                                             </p>
                                                         </div>
                                                     </div>
@@ -477,7 +448,7 @@
                                                     <div class="roadmap__item-inner">
                                                         <div class="roadmap__item-content">
                                                             <div class="roadmap__item-header">
-                                                                <h3>Copy Trading</h3>
+                                                                <h3>Framing Idea</h3>
                                                                 <span>P2</span>
                                                             </div>
                                                             <p>
@@ -493,7 +464,7 @@
                                                     <div class="roadmap__item-inner">
                                                         <div class="roadmap__item-content">
                                                             <div class="roadmap__item-header">
-                                                                <h3>IB/Referral Bonus</h3>
+                                                                <h3>Design First Draft</h3>
                                                                 <span>P3</span>
                                                             </div>
                                                             <p>
@@ -509,12 +480,44 @@
                                                     <div class="roadmap__item-inner">
                                                         <div class="roadmap__item-content">
                                                             <div class="roadmap__item-header">
-                                                                <h3>Fund Management</h3>
+                                                                <h3>Final Design</h3>
                                                                 <span>P4</span>
                                                             </div>
                                                             <p>
                                                                 So after lots of reiterations, and endless tweaking, we finally landed on the final design. It's slick, it's modern, and it perfectly captures the essence of what we were
                                                                 aiming for. We couldn't be more excited to launch it!
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 offset-md-6">
+                                                <div class="roadmap__item ms-md-4 aos-init aos-animate" data-aos="fade-left" data-aos-duration="800">
+                                                    <div class="roadmap__item-inner">
+                                                        <div class="roadmap__item-content">
+                                                            <div class="roadmap__item-header">
+                                                                <h3>Project Development</h3>
+                                                                <span>P5</span>
+                                                            </div>
+                                                            <p>
+                                                                So we're deep in project development here, and things are coming along nicely. We've got a solid plan in place and our team is firing on all cylinders. There's still work to be
+                                                                done, but we're excited about what we're building.
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="roadmap__item roadmap__item--style2 ms-auto me-md-4 aos-init aos-animate" data-aos="fade-right" data-aos-duration="800">
+                                                    <div class="roadmap__item-inner">
+                                                        <div class="roadmap__item-content">
+                                                            <div class="roadmap__item-header">
+                                                                <h3>Launch Project</h3>
+                                                                <span>P6</span>
+                                                            </div>
+                                                            <p>
+                                                                Alright folks, it's time to get this project off the ground! We've been talking about it for weeks, and now it's time to launch. We've got all the pieces in place, so let's get
+                                                                to work and make this thing happen!
                                                             </p>
                                                         </div>
                                                     </div>

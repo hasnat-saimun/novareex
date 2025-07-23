@@ -1,5 +1,5 @@
 @extends('headerFooter')
-@section('interfaceTitle') Homepage @endsection
+@section('interfaceTitle') Nuvareex - Trade the Global Markets with Confidence @endsection
 @section('frontendBody')
 
         <link rel="stylesheet" id="contact-form-7-css" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/contact-form-7/includes/css/styles9b2d.css?ver=6.1" type="text/css" media="all" />
@@ -690,10 +690,10 @@
                             <thead style="background-color: #222; color: white;">
                                 <tr class="text-uppercase p-4">
                                     <th>Features</th>
-                                    <th>Starter</th>
-                                    <th>Standard</th>
+                                    <th>STANDARD</th>
+                                    <th>PREMIUM</th>
                                     <th>VIP</th>
-                                    <th>Pro‑ECN</th>
+                                    <th>PRO‑ECN</th>
                                 </tr>
                             </thead>
                             <tbody class="pricing-box">

@@ -5,7 +5,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="profile" href="https://gmpg.org/xfn/11" />
-        <title>Nuvareex &#8211; @yield('interfaceTitle')</title>
+        <title> @yield('interfaceTitle')</title>
         <meta name="robots" content="max-image-preview:large" />
         <style>
             img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -458,7 +458,8 @@
                                         <div class="elementor-element elementor-element-367b8d7 elementor-widget elementor-widget-heading" data-id="367b8d7" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
                                                 <p class="elementor-heading-title elementor-size-default">
-                                                    Welcome to our trading site! We offer the best, most affordable products and services around. Shop now and start finding great deals!
+                                                    Licensed under the Financial Services Authority (FSA), St. Vincent & the Grenadines.<br>
+                                                    Company Registration No: <strong>4243LLC2025</strong>
                                                 </p>
                                             </div>
                                         </div>
