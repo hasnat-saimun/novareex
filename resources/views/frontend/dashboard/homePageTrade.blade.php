@@ -176,8 +176,8 @@
                                                     </p>
 
                                                     <div class="banner__content-btn btn-group normalbtnh4 justify-content-center">
-                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--success"> Start Trading </a>
-                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn btn-secondary text-light"> Try A Free Demo </a>
+                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--success text-mute fw-bold"><i class="fa-sharp fa-light fa-money-bill-trend-up"></i> Start Trading </a>
+                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn btn-secondary text-light"><i class="fa-sharp fa-light fa-code-compare fw-bold"></i> Try A Free Demo </a>
                                                     </div>
                                                 </div>
                                             </div>
