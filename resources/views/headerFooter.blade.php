@@ -12,8 +12,8 @@
                 contain-intrinsic-size: 3000px 1500px;
             }
         </style>
-        <link rel="alternate" type="application/rss+xml" title="Nuvareex &raquo; Feed" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/feed/index.html" />
-        <link rel="alternate" type="application/rss+xml" title="Nuvareex &raquo; Comments Feed" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/comments/feed/index.html" />
+        <link rel="alternate" type="application/rss+xml" title="Nuvareex &raquo; Feed" href="#" />
+        <link rel="alternate" type="application/rss+xml" title="Nuvareex &raquo; Comments Feed" href="#" />
         <script type="text/javascript">
             /* <![CDATA[ */
             window._wpemojiSettings = {
@@ -411,7 +411,143 @@
                 font-size: 1.5em;
                 line-height: 1.6;
             }
+            @media only screen and (max-width: 768px) {
+                .detailsBox h3,
+                .detailsBox h4,
+                .detailsBox h5 {
+                    font-size: 40px;
+                }
+                .detailsBox p{
+                    color: #000;
+                }
+            }
         </style>
+
+        <script type="text/template" id="tmpl-unavailable-variation-template">
+            <p role="alert">Sorry, this product is unavailable. Please choose a different combination.</p>
+        </script>
+        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+        <script type="text/javascript" id="jquery-js-after">
+            /* <![CDATA[ */
+            !(function ($) {
+                "use strict";
+                $(document).ready(function () {
+                    $(this).scrollTop() > 100 && $(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),
+                        $(window).scroll(function () {
+                            $(this).scrollTop() < 100 ? $(".hfe-scroll-to-top-wrap").fadeOut(300) : $(".hfe-scroll-to-top-wrap").fadeIn(300);
+                        }),
+                        $(".hfe-scroll-to-top-wrap").on("click", function () {
+                            $("html, body").animate({ scrollTop: 0 }, 300);
+                            return !1;
+                        });
+                });
+            })(jQuery);
+            !(function ($) {
+                "use strict";
+                $(document).ready(function () {
+                    var bar = $(".hfe-reading-progress-bar");
+                    if (!bar.length) return;
+                    $(window).on("scroll", function () {
+                        var s = $(window).scrollTop(),
+                            d = $(document).height() - $(window).height(),
+                            p = d ? (s / d) * 100 : 0;
+                        bar.css("width", p + "%");
+                    });
+                });
+            })(jQuery);
+            /* ]]> */
+        </script>
+        <script
+            type="text/javascript"
+            src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min86fd.js?ver=2.7.0-wc.9.9.5"
+            id="jquery-blockui-js"
+            data-wp-strategy="defer"
+        ></script>
+        <script type="text/javascript" id="wc-add-to-cart-js-extra">
+            /* <![CDATA[ */
+            var wc_add_to_cart_params = {
+                ajax_url: "\/wp-admin\/admin-ajax.php",
+                wc_ajax_url: "\/?wc-ajax=%%endpoint%%",
+                i18n_view_cart: "View cart",
+                cart_url: "https:\/\/bitrader.thetork.com\/cart\/",
+                is_cart: "",
+                cart_redirect_after_add: "no",
+            };
+            /* ]]> */
+        </script>
+        <script
+            type="text/javascript"
+            src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mindaac.js?ver=9.9.5"
+            id="wc-add-to-cart-js"
+            defer="defer"
+            data-wp-strategy="defer"
+        ></script>
+        <script
+            type="text/javascript"
+            src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min0333.js?ver=2.1.4-wc.9.9.5"
+            id="js-cookie-js"
+            data-wp-strategy="defer"
+        ></script>
+        <script type="text/javascript" id="woocommerce-js-extra">
+            /* <![CDATA[ */
+            var woocommerce_params = { ajax_url: "\/wp-admin\/admin-ajax.php", wc_ajax_url: "\/?wc-ajax=%%endpoint%%", i18n_password_show: "Show password", i18n_password_hide: "Hide password" };
+            /* ]]> */
+        </script>
+        <script
+            type="text/javascript"
+            src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.mindaac.js?ver=9.9.5"
+            id="woocommerce-js"
+            defer="defer"
+            data-wp-strategy="defer"
+        ></script>
+        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/underscore.min3ab8.js?ver=1.13.7" id="underscore-js"></script>
+        <script type="text/javascript" id="wp-util-js-extra">
+            /* <![CDATA[ */
+            var _wpUtilSettings = { ajax: { url: "\/wp-admin\/admin-ajax.php" } };
+            /* ]]> */
+        </script>
+        <script type="text/javascript" src="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-includes/js/wp-util.min6c2d.js?ver=6.8.2" id="wp-util-js"></script>
+        <link rel="https://api.w.org/" href="#" />
+        <link rel="alternate" title="JSON" type="application/json" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/wp/v2/pages/1267" />
+        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+        <meta name="generator" content="WordPress 6.8.2" />
+        <meta name="generator" content="WooCommerce 9.9.5" />
+        <link rel="canonical" href="{{ url('/') }}" />
+        <link rel="shortlink" href="{{ url('/') }}" />
+        <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/oembed/1.0/embed8913?url=https%3A%2F%2Fbitrader.thetork.com%2Fhome-four%2F" />
+        <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-json/oembed/1.0/embed5381?url=https%3A%2F%2Fbitrader.thetork.com%2Fhome-four%2F&amp;format=xml" />
+        <noscript>
+            <style>
+                .woocommerce-product-gallery {
+                    opacity: 1 !important;
+                }
+            </style>
+        </noscript>
+        <meta name="generator" content="Elementor 3.30.0; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap" />
+        <style>
+            .e-con.e-parent:nth-of-type(n + 4):not(.e-lazyloaded):not(.e-no-lazyload),
+            .e-con.e-parent:nth-of-type(n + 4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+                background-image: none !important;
+            }
+            @media screen and (max-height: 1024px) {
+                .e-con.e-parent:nth-of-type(n + 3):not(.e-lazyloaded):not(.e-no-lazyload),
+                .e-con.e-parent:nth-of-type(n + 3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+                    background-image: none !important;
+                }
+            }
+            @media screen and (max-height: 640px) {
+                .e-con.e-parent:nth-of-type(n + 2):not(.e-lazyloaded):not(.e-no-lazyload),
+                .e-con.e-parent:nth-of-type(n + 2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+                    background-image: none !important;
+                }
+            }
+        </style>
+        <link rel="icon" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/favicon-2-150x150.png" sizes="32x32" />
+        <link rel="icon" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/favicon-2.png" sizes="192x192" />
+        <link rel="apple-touch-icon" href="{{ asset('public/novareex/bitrader.thetork.com/') }}/wp-content/uploads/2023/10/favicon-2.png" />
+        <meta name="msapplication-TileImage" content="https://bitrader.thetork.com/wp-content/uploads/2023/10/favicon-2.png" />
+        <style id="kirki-inline-styles"></style>
             @yield('frontendBody')
 
             <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
@@ -445,7 +581,7 @@
                                         >
                                             <div class="elementor-widget-container">
                                                 <div class="hfe-site-logo">
-                                                    <a data-elementor-open-lightbox="" class="elementor-clickable" href="../index.html">
+                                                    <a data-elementor-open-lightbox="" class="elementor-clickable" href="#">
                                                         <div class="hfe-site-logo-set">
                                                             <div class="hfe-site-logo-container">
                                                                 <img class="hfe-site-logo-img elementor-animation-" src="{{ asset('public/') }}/wp-content/uploads/2023/10/logo.png" alt="logo-dark" />
@@ -507,7 +643,7 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/about-us/index.html">
+                                                        <a href="{{ route('aboutUs') }}">
                                                             <span class="elementor-icon-list-text">About Us</span>
                                                         </a>
                                                     </li>
@@ -517,7 +653,7 @@
                                                         </a>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="{{ asset('public/novareex/bitrader.thetork.com/') }}/our-services/index.html">
+                                                        <a href="{{ route('service') }}">
                                                             <span class="elementor-icon-list-text">Services</span>
                                                         </a>
                                                     </li>
