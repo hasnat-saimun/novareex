@@ -59,19 +59,12 @@
                                         <td>Individual, Joint, Corporate</td>
                                         <td>Individual, Joint, Corporate</td>
                                     </tr>
-                                    <tr class="d-md-none">
+                                    <tr>
                                         <td></td>
                                         <td><a href="#" class="btn btn-warning btn-sm">Get Now</a></td>
                                         <td><a href="#" class="btn btn-warning btn-sm">Get Now</a></td>
                                         <td><a href="#" class="btn btn-warning btn-sm">Get Now</a></td>
                                         <td><a href="#" class="btn btn-warning btn-sm">Get Now</a></td>
-                                    </tr>
-                                    <tr class="d-none">
-                                        <td></td>
-                                        <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-                                        <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-                                        <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
-                                        <td><a href="#" style="background-color: #ff9b17; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Start Now</a></td>
                                     </tr>
                                 </tbody>
                             </table>

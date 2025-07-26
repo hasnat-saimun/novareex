@@ -75,7 +75,7 @@
                                     
                                 </li>
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item">
-                                    <a title="Services" href="{{route('aboutUs')}}" class="nav-links">Services</a>
+                                    <a title="Services" href="{{route('service')}}" class="nav-links">Services</a>
                                 </li>
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item">
                                     <a title="About Us" href="{{route('aboutUs')}}" class="nav-links">About Us</a>

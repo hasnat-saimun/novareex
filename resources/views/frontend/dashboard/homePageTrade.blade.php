@@ -279,7 +279,7 @@
                                                     </p>
 
                                                     <div class="about_btnc">
-                                                        <a href="#" target="_blank" rel="nofollow" class="trk-btn trk-btn--primary trk-btn--arrow">
+                                                        <a href="{{ route('aboutUs') }}" target="_blank" rel="nofollow" class="trk-btn trk-btn--primary trk-btn--arrow">
                                                             Explore More
                                                         </a>
                                                     </div>
@@ -298,7 +298,7 @@
                                     <div class="col-12 col-md-5">
                                         <h4 class="text-white display-5 fw-bold">The Raw Spread Advantage</h4>
                                         <p style="text-align:justify">Raw Spreads are the difference you have been waiting for. Trade with spreads from 0.0 pips, no requotes, best possible prices and no restrictions. Nuvareex Trading LLC is the multi-asset trading platform of choice for high volume traders, scalpers and robots.</p>
-                                        <a href="#" class="btn btn-success btn-lg mb-md-0 mb-4">Try a Free Demo</a>
+                                        <a href="#" class="btn btn-success btn-lg mb-md-0 mb-4"><i class="fa-sharp fa-light fa-code-compare fw-bold"></i> Try a Free Demo</a>
                                     </div>
                                     <div class="col-12 col-md-7 mx-auto">
                                         <!-- TradingView Market Overview Widget BEGIN -->
