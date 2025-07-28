@@ -594,7 +594,7 @@
                                         <div class="elementor-element elementor-element-367b8d7 elementor-widget elementor-widget-heading" data-id="367b8d7" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
                                                 <p class="elementor-heading-title elementor-size-default">
-                                                    Licensed under the Financial Services Authority (FSA), St. Vincent & the Grenadines.<br>
+                                                    St. Vincent & the Grenadines.<br>
                                                     Company Registration No: <strong>4243LLC2025</strong>
                                                 </p>
                                             </div>
