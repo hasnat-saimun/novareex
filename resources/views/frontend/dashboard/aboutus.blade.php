@@ -281,7 +281,7 @@
                 </div>
                     <div class="e-con-inner">
                         <div class="container">
-                            <p><strong>Nuvareex Trading LLC</strong> is a licensed and internationally operated Forex trading company, incorporated under the laws of <strong>St. Vincent & the Grenadines</strong>. Our company is officially registered with the <strong>Financial Services Authority (FSA)</strong> under license number <strong>4243LLC2025</strong>, reflecting our commitment to transparency, regulatory compliance, and global best practices.</p>
+                            <p><strong>Nuvareex Trading LLC</strong> is a registered and internationally operated Forex trading company, incorporated under the laws of <strong>St. Vincent & the Grenadines</strong>. Our company is officially registered under company registration number <strong>4243LLC2025</strong>, reflecting our commitment to transparency, regulatory compliance, and global best practices.</p>
 
                             <p>Headquartered at:<br>
                             <strong>St. Vincent & the Grenadines</strong>,<br>
@@ -300,7 +300,7 @@
                             <h3 class="mt-4">Company Information</h3>
                             <ul>
                                 <li><strong>Company Name:</strong> Nuvareex Trading LLC</li>
-                                <li><strong>License No.:</strong> 4243LLC2025</li>
+                                <li><strong>Register No.:</strong> 4243LLC2025</li>
                                 <li><strong>Incorporated In:</strong> St. Vincent & the Grenadines</li>
                                 <li><strong>Email:</strong> <a href="mailto:nuvareextrading@gmail.com">nuvareextrading@gmail.com</a></li>
                                 <li><strong>Mobile:</strong> +971566238304</li>
